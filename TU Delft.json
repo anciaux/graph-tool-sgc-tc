@@ -1,0 +1,1059 @@
+[
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Analysis",
+		"ID": "CTB1001-16",
+		"ECTS": 6,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61945",
+		"Learning outcomes": [
+			"set up a mathematical model using differential equations",
+			"visualize a first-order differential equation as a direction field",
+			"solve first-order separable and linear differential equations",
+			"with a 2nd-order linear differential equation modeling, solving and interpreting a forced vibration",
+			"solving 2nd order linear differential equations with constant coefficients",
+			"approximating solutions of differential equations with Taylor polynomials",
+			"formulating equations and parametric representations of lines and planes in space",
+			"Calculate the dot product of two vectors to determine angles between vectors and projections from one vector to the other",
+			"Determine the domain of a function of two variables, calculate the partial derivatives and determine interfaces",
+			"Determine the gradient and determine extreme values of a function of several variables",
+			"describe the geometric meaning of the gradient",
+			"calculate directional derivatives using the gradient",
+			"Calculate multiple integrals",
+			"Decide whether twofold and triple integral can be more conveniently calculated using coordinate systems such as polar",
+			"cylindrical and spherical coordinates and perform this calculation"
+		],
+		"Description": [
+			"First and second order differential equations",
+			"inverse trigonometric functions",
+			"differentiation",
+			"integration techniques",
+			"complex numbers",
+			"functions of several variables",
+			"equations of lines and planes",
+			"partial derivatives",
+			"directional derivatives",
+			"extreme values of functions",
+			"multiple integrals",
+			"coordinate systems"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Structural mechanics I",
+		"ID": "CTB1110-17",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61958",
+		"Learning outcomes": [
+			"The student knows what requirements must be set to guarantee the (force) balance of a point particle and a rigid body, also in 3D.",
+			"He/she can operationalize this (decompose, compose and move forces) into both an analytical and a graphical method and knows how to apply it to examples.",
+			"Become familiar with some jargon with regard to constructions and be able to deal with linear schematizations for planar constructions.",
+			"The student is able to determine the static (in)determination and kinematic (in)determination of flat bar structures and to determine the support reactions of rigid (composite) structures due to simple loads.",
+			"Determining the resultant and the working line of continuous loads with which the support reactions for the introduced structures can be determined in the way known by now. The student can also model gas and liquid pressures as simple resultant loads in this way.",
+			"The difference between gas and liquid pressures is clear to the student and he/she can derive Pascal's law.",
+			"To be familiar with the concept of craftsmanship, its properties and characteristics and to be able to analyze the degree of kin./static (in)determination thereof.",
+			"The student is able to independently draw up a (handy) solution strategy for a statically determined framework for determining the force distribution and being able to recognize null bars.",
+			"The student is able to determine the course of the internal forces on the basis of the drawing conventions and deformation marks for simple beam constructions and to represent this graphically in N, V ​​and M lines.",
+			"The student can also predict, based on the mathematical relations between the shear forces, which course the force distribution should take.",
+			"The student understands the integral approach for determining the force distribution in statically determined constructions.",
+			"He/she can logically reason all necessary steps and is able to determine the force distribution and present it (graphically) in the form of N, V and M lines. In this context, integral means that you can also play with the order of the steps and that they can also be applied to bent constructions.",
+			"The student can indicate the relationship between the cable shape and the shape of the moment line of a simple beam construction under equal load.",
+			"The student can also draw up the cable equation and apply it to simple cable configurations.",
+			"The student can determine the course of the line of force in a construction and understands the relationship between the line of force and the cable.",
+			"The student knows the concept of work and its application in the approach of the method of virtual work.",
+			"The student is also able to apply the method of virtual work (as an alternative to the equilibrium equations) in determining support reactions and sectional forces in simple beam constructions."
+		],
+		"Description": [
+			"Composition and decomposition of forces, analytically and graphically (force polygon, work line figure)",
+			"moment of a force",
+			"statically equivalent force systems",
+			"couple",
+			"forces and moments balance",
+			"taxes",
+			"schematization and reality",
+			"constructions",
+			"construction elements",
+			"supports/support reactions",
+			"connections/connection forces (pivoting forces, shear forces)",
+			"bearing reactions and connecting forces in composite constructions",
+			"kinematically determined systems (form/fixed constructions) and kinematically indeterminate systems (mechanisms)",
+			"statically determinate/indeterminate constructions, degree of statically indeterminate",
+			"shape and stability of simple spatial constructions",
+			"calculation of bar forces in (flat) trusses",
+			"normal force (N), shear force (V) bending moment (M) and twisting moment (Mw)",
+			"definitions, notations and sign conventions",
+			"equilibrium of a bar element",
+			"differential relations",
+			"N, V and M line for straight bars",
+			"deformation marks",
+			"relationship between M-line, V-line and distributed load",
+			"characteristic shape of N-, V- and M-line with a point load, an evenly distributed load and a torque",
+			"N, V and M line for bent bars and bars in composite structures",
+			"reading the interplay of forces from given N, V and M lines",
+			"checking the force and moment balance of nodes",
+			"cable",
+			"point of force/line of force",
+			"adjust construction form to the line of force",
+			"the principle of virtual labor (alternative formulation for equilibrium)"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Introduction to Civil Engineering",
+		"ID": "CTB1120-17",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61961",
+		"Learning outcomes": [
+			"Name and recognize civil engineering infrastructure ",
+			"Describe and understand civil engineering infrastructure ",
+			"Calculate key figures for the design of civil infrastructure and structures",
+			"Compare and critically assessing various alternative solutions to infrastructural problems"
+		],
+		"Description": [
+			"Water management: water cycle & water management; drinking water supply & wastewater treatment.",
+			"Hydraulic engineering: civil engineering measures that must be taken to combat high water, such as dikes, dams and weirs.",
+			"Transport and planning: transport demand, modality choice, route choice and technical aspects of the transport system.",
+			"Buildings and structural design: function, form and technical aspects of buildings; load on structures, strength, stability and stiffness.",
+			"Observe: observation of the earth; map and coordinate; remote sensing; earthly spheres.",
+			"Soil mechanics/foundations: soil tension and forces on structures in the ground."
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Construction Site 1-1 (Workbook)",
+		"ID": "CTB1000-D1",
+		"ECTS": 2,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61956",
+		"Learning outcomes": [],
+		"Description": [
+			"Reporting",
+			"technique Brightspace course Information Literacy 1",
+			"Hand sketching",
+			"Technical drawing"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Dynamics and Modeling",
+		"ID": "CTB1210",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61939",
+		"Learning outcomes": [
+			"schematize mechanical problems for systems of point masses and rigid bodies.",
+			"to describe the behavior of a mechanical system both qualitatively and quantitatively on the basis of the equations that have been drawn up.",
+			"describe and calculate the planar kinematics of a point mass and of a rigid body in different coordinate systems.",
+			"draw a free-body diagram to determine the forces and moments acting on a schematic mechanical system.",
+			"formulate and solve the plane equations of motion for a point mass and a rigid body.",
+			"formulate and solve the work-energy equation.",
+			"formulate and solve the impact-angular momentum equation (point mass and rigid body) and impact moment-angular momentum equation (rigid body).",
+			"choose which of the three methods (equation of motion, work-energy equation, impulse(moment)-impulse(moment) equation) should be applied to solve a given problem"
+		],
+		"Description": [
+			"Schematization and modeling of motion problems",
+			"Plane kinematics of point masses",
+			"Plane kinetics of point masses under the influence of external loads",
+			"Plane kinematics of rigid bodies",
+			"Plane kinetics of rigid bodies under the influence of external forces and free moments"
+		],
+		"Pre-requisites": [
+			"Structural mechanics I",
+			"Analysis"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Integral Design and Management",
+		"ID": "CTB1220-17",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61968",
+		"Learning outcomes": [
+			"Name the phasing of construction projects, with the content and relevance of the phases.",
+			"Name and apply the phasing within the design phase, with the content and relevance of the phases, including different design levels (component vs system).",
+			"Indicate how factors such as functionality, safety, financeability, surroundings, beauty, environment, sustainability, etc. influence the design process.",
+			"Indicate the role of the stakeholders involved.",
+			"Carry out a multi-criteria analysis (including financial feasibility) in order to select a design.",
+			"Carrying out a design assignment with a group, including presenting and reporting the end result.",
+			"Indicate where your own preferences and qualities lie with regard to the activities in the various phases.",
+			"Moral sensitivity/judgment: Identifying ethical dilemmas in the field of safety, sustainability and responsibility (in the MCE when selecting a design)",
+			"Professional responsibility: Reflecting on one's own contribution to the project process and the contribution of the group members. Dealing with free-riding behaviour: in the context of working together in groups, prevent free-riding behavior and address potential free-riders about their behaviour."
+		],
+		"Description": [
+			"Phasing of the construction process: initiative / design / build / finance / maintenance / operate",
+			"Phasing within the design process",
+			"Design assignment, with the different perspectives (context, multidisciplinary) and the relevant questions (including financial consideration)."
+		],
+		"Pre-requisites": [
+			"Introduction to Civil Engineering"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Construction Site 1-2 (Drawing and planning)",
+		"ID": "CTB1000-D2",
+		"ECTS": 2,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61954",
+		"Learning outcomes": [],
+		"Description": [
+			"Technical signature",
+			"Simple CAD drawing (SketchUp)",
+			"Drawing up (financial) planning"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Linear Algebra",
+		"ID": "CTB1002",
+		"ECTS": 6,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61949",
+		"Learning outcomes": [
+			"Perform elementary calculation techniques as mentioned in the course content (for example swiping a matrix and determining eigenvalues ​​and eigenvectors).",
+			"To recognize the concepts mentioned under subject content and to give their definition.",
+			"Demonstrate insight into the properties of linear structures and indicate relationships in which matrices play a role."
+		],
+		"Description": [
+			"Vector equation",
+			"Matrix equation",
+			"Linear combinations",
+			"Linear (in)dependence",
+			"Linear transformations",
+			"Matrices with their operations",
+			"Inverse of a matrix",
+			"Vector spaces",
+			"Linear subspaces",
+			"Concepts of 'basis' and 'basis theorem'",
+			"Inner product",
+			"Orthogonality",
+			"Orthogonal projections",
+			"Gram-Schmidt process",
+			"Determinants",
+			"Eigenvalues, eigenvectors, eigenspaces of a matrix",
+			"Complex eigenvalues",
+			"Applications of Eigenvalues",
+			"Symmetric matrices",
+			"Quadratic forms",
+			"Singular value decomposition"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Construction materials and sustainability",
+		"ID": "CTB1320-17",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61974",
+		"Learning outcomes": [],
+		"Description": [
+			"Construction Materials",
+			"Sustainability"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Structural mechanics II",
+		"ID": "CTB1310",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61952",
+		"Learning outcomes": [
+			"The student can determine the cross-section data such as linear and quadratic surface moments and the location of the normal force center",
+			"The student can determine the normal stress distribution for bar cross-sections loaded on extension and bending and determine the core of the cross-section.",
+			"The normal stress distribution can also be determined for cross-sections loaded on double bending (with an axis of symmetry).",
+			"The student can determine the shear stress distribution due to shear force and torsion, with the emphasis on thin-walled cross-sections.",
+			"Based on the differential relations, the student can describe the deformation behavior of beam structures (extension and bending) and generate basic solutions, the so-called forget-me-nots (bending).",
+			"Based on discrete bar extensions, the student can determine the deformation of simple trusses using a Williot diagram.",
+			"Based on a direct calculation from the course of moments, the student can determine the deformation behavior on bending. (M/EI method)",
+			"The student can determine the force distribution of a simple statically indeterminate structure by means of a shape change condition."
+		],
+		"Description": [
+			"Cross-sectional dimensions and normal stresses as a result of normal force and bending moment",
+			"Shear stresses as a result of shear force and torsion",
+			"Deformations of trusses.",
+			"Deformation due to bending.",
+			"Introduction statically indeterminate constructions."
+		],
+		"Pre-requisites": [
+			"Structural mechanics I",
+			"Analysis"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Construction Site 1-3 (Various software)",
+		"ID": "CTB1000-D3",
+		"ECTS": 2,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61957",
+		"Learning outcomes": [
+			"Know what BIM is",
+			"Knowing what is needed to apply BIM to a construction project",
+			"Being familiar with the (im)possibilities of BIM / BEM",
+			"Being able to model a structure with Tekla",
+			"Being able to model a construction with Revit",
+			"Being able to extract a bill of materials from a BIM model",
+			"To be able to efficiently create technical drawings and presentation drawings from a BIM model"
+		],
+		"Description": [
+			"BIM",
+			"Tekla",
+			"Revit"
+		],
+		"Pre-requisites": [
+			"Construction Site 1-1 (Workbook)"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Designing Constructions and Foundations I",
+		"ID": "CTB1410-20",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61941",
+		"Learning outcomes": [
+			"can name the usual technical and functional requirements that must be set for a (foundation) construction and, for a simple construction, is able to formulate these requirements himself and, if necessary, supplement them",
+			"can indicate in which (sequence of) steps a structural engineer or geotechnical designer tackles a design assignment and is able to do this himself for simple projects",
+			"can apply the steps of the elementary design cycle to a structural design",
+			"knows what loads there are and how to calculate them, and does skill in this",
+			"can name the most commonly used construction materials and their most important properties for the structural design and is familiar with the order of magnitude of these properties",
+			"knows which construction and foundation types there are and for what application these types are used",
+			"recognizes construction parts and can determine the reproduce used names",
+			"gains insight into the relationship between the mechanics scheme and the structure",
+			"learns to apply the construction mechanics taught in other courses fluently",
+			"learns to set up and check simple design calculations in a structured and accurate manner",
+			"knows how the safety of structures is ensured and can correctly apply the safety factors used",
+			"knows how the geotechnical properties of the subsoil can be determined",
+			"knows how geotechnical soil investigations (probing, drilling) are carried out",
+			"is able to calculate the bearing capacity and deformation of pile foundations (extensively) and steel foundations (summary) according to the applicable standards",
+			"is able to design and draw a pile plan or foundation on steel for a simple construction",
+			"is able to choose the right foundation method for a construction"
+		],
+		"Description": [
+			"introduction",
+			"materials",
+			"functional requirements",
+			"buildings and constructions",
+			"loads",
+			"safety",
+			"forces in constructions",
+			"stability",
+			"concrete",
+			"steel",
+			"wood",
+			"stone",
+			"methods of soil investigation",
+			"foundation types",
+			"bearing capacity and deformation characteristics of pile foundations",
+			"background standards"
+		],
+		"Pre-requisites": [
+			"Introduction to Civil Engineering",
+			"Structural mechanics I",
+			"Structural mechanics II"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Transport and Planning",
+		"ID": "CTB1420-17",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61902",
+		"Learning outcomes": [
+			"Understand the concepts, basic quantities and concepts of the field and apply them in analyzes",
+			"Understand, apply the models mentioned and interpret the results thereof",
+			"Understand and apply the aforementioned analysis and design methods",
+			"Design a concrete solution for a practical problem, using relevant partial analyzes",
+			"Recognize and describe ethical dilemmas between stakeholders in transport-related subjects"
+		],
+		"Description": [
+			"Spatial planning and transport planning",
+			"Network design and infrastructure planning",
+			"Geometric road design",
+			"Traffic flow theory and traffic management"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Construction Site 1-4 (CAD/BIM/BEM)",
+		"ID": "CTB1000-D4",
+		"ECTS": 2,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61955",
+		"Learning outcomes": [
+			"Understanding the consequences of using BIM / BEM for the design process",
+			"Being able to effectively make agreements within a group of designers about versions, changes, authorizations, management, etc.",
+			"Being able to exchange model information between different modeling packages",
+			"be able to perform clash checks",
+			"Being able to work out and visualize simple 4D or 5D information based on the model"
+		],
+		"Description": [
+			"BIM"
+		],
+		"Pre-requisites": [
+			"Construction Site 1-3 (Various software)"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Differential equations",
+		"ID": "CTB2105",
+		"ECTS": 3,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61980",
+		"Learning outcomes": [
+			"Classify differential equations and know how many initial and/or boundary conditions are needed. ",
+			"The student knows roughly which solution methods can be used for the different types of differential equations.",
+			"determine the general solution of homogeneous and inhomogeneous, first- and second-order, linear ordinary differential equations with constant coefficients.",
+			"Rewrite a solution of the form A*cos(omega t)+B*sin(omega t) to the form C*cos(omega t + phi).",
+			"solve a linear initial value problem with the Laplace transform, even if it contains step functions or Dirac delta functions.",
+			"convert a higher-order differential equation into a system of first-order differential equations.",
+			"solve a system of homogeneous, linear, first-order differential equations with constant coefficients and determine particular solutions using the method of variation of constants",
+			"sketch the phase portrait of a system of near-linear, autonomous differential equations, and name the type of equilibrium points.",
+			"show some insight into the relationship between the differential equations and the physical processes they model.",
+			"extend a function on an interval to an even or odd periodic function, and develop a periodic function in a Fourier series.",
+			"solve the heat diffusion equation, the string equation and the potential equation with associated boundary and initial conditions using the method of separation of variables.",
+			"show some insight into the relationship between the boundary value problems and the physical processes they model."
+		],
+		"Description": [
+			"differential equations",
+			"the Laplace transform",
+			"systems of differential equations",
+			"partial differential equations"
+		],
+		"Pre-requisites": [
+			"Analysis",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Fluid mechanics",
+		"ID": "CTB2110",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61993",
+		"Learning outcomes": [
+			"indicate how water differs from other (liquid) substances and how the liquid properties influence the flow, using dimensionless key figures.",
+			"make calculations of pressures, piezometric levels and horizontal and vertical forces on walls in a stationary fluid.",
+			"understand and analyze the trajectory of a water particle, streamlines and streamtubes and also determine the spatial derivatives of these in a natural coordinate system and in a Cartesian coordinate system.",
+			"to determine the relationship between pressure (differences) and speed (changes) of a water particle, with the main applications being the laws of Bernoulli and Torricelli, which are used to calculate, among other things, emptying times and filling times of vessels.",
+			"formulate elementary conservation laws for mass, energy and momentum for stationary flow in pipes and open waterways.",
+			"Calculate water levels and flow velocities for steady flow in pipes and open watercourses with abrupt cross-sectional changes (spills, bleeders, etc.).",
+			"to calculate forces and energy dissipation during cross-sectional changes in open watercourses and pipelines, but also in siphons, pumps and turbines.",
+			"describe and interpret the flow pattern around rigid bodies (such as bridge piers or buildings), using the Reynolds number and the concepts of boundary layer, detachment and wake formation.",
+			"calculate the forces on rigid bodies (bridge pier, building) that are surrounded by the flow.",
+			"calculate the shear stress distribution and wall resistance for laminar and turbulent flows through simple geometries.",
+			"to analyze and calculate the total resistance, hydraulic head, pressure development and required pump power in closed pipes.",
+			"to determine dam curves in open watercourses via the concepts of limit and equilibrium depth.",
+			"determine the effects of local changes (eg: flow abstraction, culverts, bridges) on the suspension lines in an open watercourse."
+		],
+		"Description": [
+			"Fluid properties and hydrostatics",
+			"Motion of a particle",
+			"Mass and volume balance",
+			"Momentum balance and forces",
+			"Energy balance and power",
+			"Strongly varying flow in open watercourses",
+			"Flow along bodies and wall resistance",
+			"Gradually varying flow in open watercourses"
+		],
+		"Pre-requisites": [
+			"Dynamics and Modeling",
+			"Analysis",
+			"Linear Algebra",
+			"Structural mechanics I",
+			"Structural mechanics II"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Urban Water and Environmental Engineering",
+		"ID": "CTB2121",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62017",
+		"Learning outcomes": [
+			"Analyze and evaluate processes in health engineering",
+			"Describe the urban and closed water infrastructure.",
+			"Calculating simple closed water systems",
+			"Calculating oxygen progression in polluted open watercourses",
+			"Dimensioning simple water purification processes"
+		],
+		"Description": [
+			"Introduction and awareness of recent historical developments in relation to surface water pollution, public health and technological developments.",
+			"Transport and distribution of (drinking) water under pressure: pressure line in transport and distribution network, determination of the most economical diameter of pipes, design of transport and distribution networks, design of pumping stations, dimensioning of clean water reservoirs",
+			"Urban drainage: Different types of sewerage, design principles and simple design system",
+			"Water quality in the hydrological cycle; Drinking water quality; Surface water quality; Effect of transport phenomena on water quality",
+			"Pollution and self-purification of surface water",
+			"Aeration of water: saturation concentrations, kinetics of gas transfer",
+			"Settling of suspended solids: laminar, turbulent and hindered settling, resuspension",
+			"Biological growth and conversion and degradation; organic matter, oxygen consumption, killing pathogenic micro-organisms"
+		],
+		"Pre-requisites": [
+			"Introduction to Civil Engineering"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Construction Site 2-1",
+		"ID": "CTB2000-20-D1",
+		"ECTS": 2,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61981",
+		"Learning outcomes": [],
+		"Description": [
+			"Programming in Python 1",
+			"Practical Fluid Mechanics"
+		],
+		"Pre-requisites": [
+			"Analysis",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Probability and Statistics",
+		"ID": "CTB2200",
+		"ECTS": 3,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61196",
+		"Learning outcomes": [
+			"Calculate (conditional) probabilities",
+			"Use/apply discrete and continuous random variables",
+			"Work with joint distributions",
+			"Calculate expectation, variance, covariance and correlation",
+			"Apply the law of large numbers and the central limit theorem",
+			"Represent data graphically and numerically",
+			"Build statistical models",
+			"Determine properties of estimators",
+			"Create confidence intervals",
+			"Formulate and perform hypothesis tests",
+			"Perform linear regression",
+			"Perform basic simulations and data analysis in Python"
+		],
+		"Description": [
+			"Graphical and numerical summaries of data",
+			"Introduction to probability theory",
+			"Elementary combinatorics",
+			"Conditional probability: Bayes' rule, (in)dependence of events",
+			"Random variables: probability mass function, probability density function, distribution function",
+			"Standard distributions: binomial, Poisson, geometric, normal, uniform, exponential , Pareto",
+			"Expectation and variance, transformations, Jensen's inequality",
+			"Multivariate random variables, joint distributions, marginal density functions, (in)dependence on random variables",
+			"Covariance and correlation",
+			"Chebyshev's inequality, law of large numbers, central limit theorem",
+			"Sampling and statistical models, sample mean and variance, histogram, empirical distribution function, box plot",
+			"Estimators: bias, efficiency, MSE",
+			"Linear regression: univariate and multivariate, goodness of fit",
+			"Introduction to statistical learning",
+			"Confidence intervals for mean and proportion, t- distribution",
+			"Testing hypotheses: type I/II, p-value, significance level, critical region, 1-group t-test"
+		],
+		"Pre-requisites": [
+			"Analysis"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Structural mechanics III",
+		"ID": "CTB2210",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61994",
+		"Learning outcomes": [
+			"At the end of this module, the student is able to recognize statically indeterminate constructions and to determine the force distribution using the force method.",
+			"In addition, he/she is familiar with the solution strategy of the displacement method and can apply it to frameworks and trusses.",
+			"With the help of an exercise, the student has shown how to critically interpret the results of a computer calculation and how these calculations can be validated by hand.",
+			"At the end of this module, the student is able to investigate the stability of the equilibrium of framework structures with simple load configurations.",
+			"In addition, he/she is familiar with the influence of second order effects and the effect of plastic material behavior on the failure load.",
+			"At the end of this module, the student is familiar with the stress and strain concepts and the constitutive relations for three-dimensional stress states and can apply this theory to plane stress states in order to determine stresses and/or strains in different (principal) directions.",
+			"The student is also able to test the state of stress both analytically and graphically against the yield criteria of Tresca and von Mises."
+		],
+		"Description": [
+			"Statically indeterminate structures",
+			"Force method",
+			"Applications",
+			"influences - Introduction MatrixFrame",
+			"Displacement method",
+			"Stability of the equilibrium",
+			"Introduction Elasticity theory"
+		],
+		"Pre-requisites": [
+			"Structural mechanics I",
+			"Structural mechanics II",
+			"Analysis",
+			"Differential equations"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Concrete and Steel Structures",
+		"ID": "CTB2220-14",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61996",
+		"Learning outcomes": [
+			"he/she is familiar with the basic principles of the methodologies used to determine the usability and safety of statically loaded, linear, prismatic building parts (beams and columns) of steel and concrete (Eurocode 0.1 , 2 and 3 ).",
+			"The student is able to carry out simple tests on the strength and stability of standard steel construction elements (beams and columns)."
+		],
+		"Description": [
+			"building regulations, safety philosophy",
+			"loads, load combinations, safety factors",
+			"Basic principles of construction with steel and reinforced concrete",
+			"Material properties of steel",
+			"Strength of elements, cross-section classification",
+			"Cross-section capacities according to elasticity theory",
+			"Testing the cross-section for combinations of normal force, moment, shear force and torsion",
+			"Introduction testing based on fully plastic cross-sectional capacities",
+			"Stability of elements, testing of the stability of elements loaded on centric pressure or bending without normal force",
+			"Glasses, schematization, testing of the strength and stability of (the parts of) steel trusses",
+			"Connections with welds, appearances, testing of the strength of a welded connection",
+			"Connections with bolts, appearances, testing of the strength",
+			"Construction in concrete",
+			"Stress-strain relations for concrete and steel",
+			"Structural members, loaded on centric pressure",
+			"Structural members, loaded on pure bending",
+			"Structural members, loaded on bending and normal force",
+			"Dimensioning on shear",
+			"detailing",
+			"Reinforcement technology",
+			"Crack width limitation"
+		],
+		"Pre-requisites": [
+			"Structural mechanics I",
+			"Structural mechanics II",
+			"Designing Constructions and Foundations I",
+			"Differential equations"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Construction Site 2-2",
+		"ID": "CTB2000-20-D2",
+		"ECTS": 2,
+		"Semester": "Fall",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61981",
+		"Learning outcomes": [],
+		"Description": [
+			"Programming in Python 2",
+			"Practical materials science"
+		],
+		"Pre-requisites": [
+			"Analysis",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Dynamics of Systems",
+		"ID": "CTB2300",
+		"ECTS": 3,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61995",
+		"Learning outcomes": [
+			"To recognize the properties of structural and hydraulic civil engineering systems (for example mass, elasticity, discharges), that are essential for the modelling of such systems.",
+			"To be able to formulate simple equations of motion, using the second Newton’s Law, with the help of the displacement method.",
+			"To be able to analytically derive solutions for formulated equations of motion.",
+			"Interpret solutons with respect to the fundamental dynamics parameters, like: eigenfrequency, eigenperiod, free and forced motion, resonance, and steady-state motion.",
+			"To be able to predict descent design improvements for dynamic systems that have been studied."
+		],
+		"Description": [
+			"Mechanical system with one degree of freedom, undamped",
+			"Formulate equations of motion for free vibration",
+			"Forced vibrations for harmonic, exponential, step and impact/pulse loads.",
+			"Application of initial conditions.",
+			"Hydraulic systems with one degree of freem without damping; also free and forced motion.",
+			"Mechanical system with damping; free and forced vibrations.",
+			"Hydraulic system with damping; free and forced motion.",
+			"First order systems as a limit case of 2nd-order systems.",
+			"Mechanical systems with two degrees of freedom, without damping.",
+			"Formulat equations of motion (mass matrix, stiffness matrix).",
+			"Determination of eigenfrequencies and eigenperiods. Forced response for harmonic loads."
+		],
+		"Pre-requisites": [
+			"Dynamics and Modeling",
+			"Differential equations"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Soil Mechanics",
+		"ID": "CTB2310",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62001",
+		"Learning outcomes": [
+			"Explain the various forms of soil behaviour, including the influence of soil properties, degree of saturation and loading rate.",
+			"Evaluate laboratory data to determine material parameter values.",
+			"Plan an engineering strategy for analysing geotechnical problems, involving settlements, consolidation, groundwater flow, basic foundations, retaining structures and slope stability.",
+			"Analyse appropriately and evaluate geotechnical problems, utilising presented theory, on the following topics: elastic behaviour and settlements, consolidation, groundwater flow, basic foundations, retaining structures and slope stability."
+		],
+		"Description": [
+			"Classification and mineralogy of soils",
+			"Grains, grain size distribution and porosity",
+			"Introduction to in situ testing",
+			"Pore pressure and effective stress",
+			"Darcy's law, permeability and groundwater flow",
+			"Stresses and initial stress state",
+			"Strains, stress-strain relationships and tangent modulus",
+			"Elastic solutions",
+			"Consolidation, drained and undrained behaviour",
+			"Drained and undrained soil behaviour",
+			"total and effective shear strength parameters",
+			"Mohr circles",
+			"Mohr-Coulomb failure criterion",
+			"stress paths",
+			"shear test",
+			"triaxial test",
+			"site investigation",
+			"soil sampling",
+			"Lateral earth pressure at rest",
+			"passive and active pressures",
+			"Rankine",
+			"Coulomb",
+			"sheet pile walls",
+			"Blum",
+			"Geotechnical bearing capacity",
+			"shallow and deep foundations",
+			"Prandtl",
+			"Brinch Hansen",
+			"pile foundations",
+			"Limit equilibrium methods",
+			"vertical slope",
+			"infinite slope",
+			"method of slices",
+			"Fellenius",
+			"Bishop"
+		],
+		"Pre-requisites": [
+			"Structural mechanics I",
+			"Structural mechanics II",
+			"Fluid mechanics"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Designing Constructions and Foundations II",
+		"ID": "CTB2320-17",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62002",
+		"Learning outcomes": [
+			"can reproduce the steps from the elementary design cycle and knows how these steps can be filled in in a structural design",
+			"knows the principles of sustainable construction and can calculate the shadow price of a simple construction",
+			"knows the principles of acting ethically as a structural engineer or builder (the 4-eyes principle is included in this), so that he can make ethically responsible choices in the design process, by including the interests of various actors in design choices",
+			"has insight into the constructive functioning of various construction (beams, plates, trusses, arches, stays, domes) and into realistic application possibilities for construction materials concrete, steel, wood and masonry",
+			"can reproduce various options for connecting the elements for concrete, steel and wood and is able to make a well-considered choice for application in a design",
+			"knows the safety philosophy in accordance with the Eurocode and is able to apply it correctly for various constructions, draw up (quasi-)static load cases and associated load combinations. With wind load, the focus is on the overall behavior of the structure",
+			"learns to set up and check simple design calculations of various types of constructions in a structured and accurate way. Design calculations involve weight and stability calculations as well as simple test calculations of various elements",
+			"is able to set up a simple computer calculation of a statically determinate or indeterminate structure and interpret the output",
+			"knows how the forces from a structure and the ground can be transferred to the subsoil via a foundation structure, and can such a foundation designing construction, aware of the particularity of building on soft soil and the associated challenges",
+			"can make a well-founded assessment for the application of foundations on steel or piles and determine and outline a risk-based implementation method",
+			"can derive the soil mechanical properties that are relevant for the behavior of a foundation (strength, settlement parameters) from soil research / a CPT.",
+			"can make a simple, static bearing capacity and settlement calculation for a foundation on steel (UGT) for a combination of a horizontal and a vertical load. Including determination of relevant soil parameters",
+			"can calculate a simple retaining wall and knows the difference between neutral and active/passive earth pressure, can apply this to retaining walls and knows the failure mechanisms of the retaining wall"
+		],
+		"Description": [
+			"General introduction",
+			"Design cycle for structures",
+			"Design requirements",
+			"Structural systems",
+			"Stability",
+			"Manual and computer design calculations",
+			"Floors",
+			"Beams",
+			"Columns and walls",
+			"Foundations on steel",
+			"Foundations on piles",
+			"Retaining structures"
+		],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Construction Site 2-3",
+		"ID": "CTB2000-20-D3",
+		"ECTS": 2,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61981",
+		"Learning outcomes": [],
+		"Description": [
+			"Programming in Python 3",
+			"Practical soil mechanics"
+		],
+		"Pre-requisites": [
+			"Analysis",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Numerical mathematics",
+		"ID": "CTB2400",
+		"ECTS": 3,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61937",
+		"Learning outcomes": [
+			"The student can use a Taylor polynomial in 1 or 2 variables with remainder term, use Landau's order symbol and derive the rounding error behavior of the numerical methods used",
+			"The student can use Lagrange, Hermite and cubic spline interpolation. The truncation error of Lagrange interpolation must be deducible",
+			"The student can derive difference formulas with the truncation error and use the Richardson error estimate.",
+			"The student can apply and derive the bisection method, fixed point method and the Newton-Raphson method and is able to investigate (graphically and analytically) the convergence (linear, quadratic) of the non-linear iterative methods",
+			"The student is able to use numerical integration methods. The truncation and rounding errors must be deducible",
+			"The student can reproduce and use the following methods for initial value problems and investigate the truncation and rounding error behavior: Euler forward, Euler backward, Modified Euler and Trapezium rule",
+			"The student can describe a higher order initial value problem as a system of first order differential equations",
+			"The student can analyze the numerical stability of a given method for a system of first order differential equations, using the gain factor or the stability region (graphically)",
+			"The student can use matrix and vector norms.",
+			"The student is able to apply the finite difference method (EDM) to a boundary value problem. The local and global truncation error of the EDM must be deducible. It must be possible to discretize the Neumann boundary condition with a virtual point",
+			"The student must recognize upwind discretization."
+		],
+		"Description": [
+			"place and purpose of numerical mathematics",
+			"review important concepts",
+			"numerical differentiation",
+			"solve initial value problem, analysis, implementation, stability",
+			"interpolation",
+			"solve boundary value problem, analysis, implementation, stability",
+			"solve (system) nonlinear equations",
+			"numerical integration"
+		],
+		"Pre-requisites": [
+			"Analysis",
+			"Linear Algebra",
+			"Differential equations"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Hydraulic engineering",
+		"ID": "CTB2410",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992",
+		"Learning outcomes": [
+			"the student being able to apply for stationary situations, conservation laws regarding mass, momentum and energy to globally describe the water movement in (networks of) open and closed watercourses, both qualitatively and quantitatively.",
+			"the student being able to apply globally describe sediment transport and its relationship to morphology, both qualitatively and quantitatively",
+			"the student being able to apply predict wave conditions from the principles of wave theory based on wind and propagation over open water",
+			"the student being able to apply at the level of preliminary design, to establish design conditions for hydraulic structures and to be able to quantitatively evaluate the functionality and stability of these structures",
+			"the student being able to apply globally describe the water movement and energy management at pumping stations and hydroelectric power stations, both qualitatively and quantitatively",
+			"the student being able to apply to be able to indicate the reliability and relevance of results in the analysis of physical processes, evaluation of structures and application of methods that are discussed in the course"
+		],
+		"Description": [
+			"River engineering",
+			"water movement in open watercourses",
+			"sediment transport",
+			"morphological equilibrium",
+			"Coastal engineering",
+			"wind-generated waves", 
+			"currents and water level changes",
+			"tide and Coriolis",
+			"sediment transport and morphology",
+			"Hydraulic engineering",
+			"constructions for shipping",
+			"bank and bed protection",
+			"breakwaters",
+			"water-retaining constructions",
+			"determination of design conditions",
+			"flow in closed pipes",
+			"pumps and turbines",
+			"hydropower"
+		],
+		"Pre-requisites": [
+			"Structural mechanics I",
+			"Soil Mechanics",
+			"Fluid mechanics",
+			"Analysis",
+			"Linear Algebra",
+			"Dynamics and Modeling"
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Hydrology",
+		"ID": "CTB2420-17",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62008",
+		"Learning outcomes": [
+			"You can name the hydrological cycle in the natural environment. You are able to describe, schematize and explain them",
+			"You can reproduce and/or estimate the order of magnitude of important components by drawing up a water balance",
+			"You are able to apply basic physical laws to quantify physical processes in hydrology, such as evaporation, infiltration, groundwater flow and river discharge",
+			"You are able to apply empirical and/or statistical relationships with which processes such as precipitation and discharge, hydrological extremes, storage and incoming and outgoing fluxes at reservoirs can be quantified"
+		],
+		"Description": [
+			"The role of hydrology in global water issues such as floods, droughts, food supply, drinking water",
+			"Hydrology of the Netherlands (geology; precipitation and evaporation; surface water; groundwater)",
+			"The water cycle (components and processes; water balances; system approach; models)",
+			"Precipitation (the precipitation process; precipitation types; fundamental concepts of precipitation; precipitation measurement; processing of precipitation data; area size effect; precipitation networks; precipitation forecasts; precipitation quality)",
+			"Evaporation (interaction between land surface and atmosphere; practical meaning of evaporation; evaporation types; standard evaporation values; physics of evaporation; factors influencing evaporation; energy balance; calculation of open water evaporation; example calculation of open water evaporation using Penman; calculation of potential evaporation and transpiration; evaporation measurements; water loss due to evaporation)",
+			"Geohydrology (introduction; water flow in porous media; schematization of the soil; mass balance of a soil volume in the saturated zone; mass balance of a soil volume with phreatic surface; fresh and saline groundwater), heat-cold storage)",
+			"Water in the unsaturated zone (introduction; general comparison unsaturated zone; the soil moisture characteristic; infiltration; soil moisture profiles; infiltration models; infiltration measurement)",
+			"Discharge hydrology basic principles (discharge processes; the precipitation surplus; river discharges; annual discharges; basic discharge; flood waves; dischargeable precipitation; the storage principle; the maturity principle; the principle of modeling with multiple linear reservoirs)",
+			"Urban hydrology and water management (urban water balances and discharge models; solutions for storage and drainage in urban areas)",
+			"Reservoirs (general; characteristics of a reservoir, water supply; capacity determination; reservoirs for flood control; effects of a reservoir)"
+		],
+		"Pre-requisites": [
+			"Fluid mechanics",
+			"Probability and Statistics",
+			"Urban Water and Environmental Engineering"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Minor",
+		"ID": "",
+		"ECTS": 30,
+		"Semester": "Fall",
+		"URL": "https://www.tudelft.nl/en/education/programmes/minors",
+		"Learning outcomes": [],
+		"Description": [],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Bachelor Thesis",
+		"ID": "",
+		"ECTS": 10,
+		"Semester": "Spring",
+		"URL": "",
+		"Learning outcomes": [],
+		"Description": [],
+		"Pre-requisites": []
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Surveying and Mapping",
+		"ID": "CTB3310",
+		"ECTS": 4,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62020",
+		"Learning outcomes": [
+			"working knowledge about, and understanding of, reference systems, observation techniques (leveling, total station/tachymetry and laser-scanning), uncertainties in measurements, measurement processes, satellite systems for surveying and mapping (remote sensing, GPS/GNSS), Geographic Information Systems (GIS), cartography, and visualisation",
+			"knowledge about, and understanding of the calculus of observation (waarnemingsrekening), and is able to apply this to actual problems (measurement data processing), and, analyse, evaluate, interpret and explain measures of quality of the survey",
+			"able to advise on the choice of measurement techniques for civil engineering geo-problems, and to design a measurement set-up",
+			"able to convert a measurement problem and set-up, into a mathematical model, to determine (estimate) the unknown parameters of interest based on the observed data, and to ‘translate’ the outcome, including its quality (uncertainty), back into the application",
+			"able to interpret, analyse and present spatial geo-information"
+		],
+		"Description": [
+			"Surveying for construction (tachymetry/total station, topographic/detail surveying and stake-out, observation modeling, parameter estimation)",
+			"Surveying for construction (design of measurement set-up, leveling, measurement uncertainty, variance, correlation, accuracy, error propagation, validation, interpolation, data quality control)",
+			"Photogrammetry (central projection, relation photo geometry - terrain geometry, stereo-photo, mapping, 3D-reconstruction)",
+			"Surveying for dynamic positioning (traffic, transport and navigation, infrastructure-construction), satellite-navigation systems: GPS/GNSS; 3D Digital Terrain Model (DTM) survey",
+			"Coordinate and reference-systems for on and off-shore surveying (RD, ETRS89, ITRS, NAP, geoid, MSL, LAT), offshore surveying (bathymetry by echo-sounding)",
+			"Remote Sensing observation-techniques (satellite missions, satellite orbit, sensors/payloads, techniques, optical and radar remote sensing, laser-altimetry and laser-scanning, error propagation, limitations, new developments as atmospheric remote sensing), flooding assessment with 3D terrain modelling (AHN, TOP10NL and QGIS) and vegetation analysis (NDVI, based on Sentinel data)",
+			"Cartography (map-projection, visualization, overlays, 3D-objects, terrain representation and idealization, Google Earth/Maps), working with spatial data (visualization and analysis, layers, modeling, Geographic Information System (GIS), available geo-information, PDOK), spatial precipitation (rainfall) analysis, thematic mapping (QGIS)"
+		],
+		"Pre-requisites": [
+			"Linear Algebra",
+			"Probability and Statistics"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Road and Railway Engineering",
+		"ID": "CTB3320",
+		"ECTS": 4,
+		"Semester": "Spring",
+		"URL": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62023",
+		"Learning outcomes": [
+			"To be able to indicate the social relevance of the physical infrastructure for mobility",
+			"To be able to describe the fundamental behavior of the most commonly used rail and road constructions.",
+			"To be able to identify the name and function of the main components of the railway system.",
+			"To be able to explain the effects and the internal and external factors of disruptions on railway activities.",
+			"To be able to identify the different methods of dealing with degradation of the system and the effects of interaction between the components.",
+			"To be able to describe and apply the design process of asphalt and asphalt pavements in the design, in terms of thickness and choice of materials, of an asphalt pavement.",
+			"To be able to describe the effects of production and execution quality on asphalt pavement performance.",
+			"To be able to identify the different types of damage and their monitoring methods for asphalt pavements and to explain the relationship between damage, maintenance and system performance in an asset management approach."
+		],
+		"Description": [
+			"Infrastructure for general mobility",
+			"Specific aspects Road constructions",
+			"Specific aspects Rail systems"
+		],
+		"Pre-requisites": [
+			"Soil Mechanics",
+			"Structural mechanics I",
+			"Structural mechanics II",
+			"Transport and Planning"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Facultative Courses",
+		"ID": "",
+		"ECTS": 4,
+		"Semester": "Spring",
+		"URL": "",
+		"Learning outcomes": [],
+		"Description": [
+			"Choose three. Recommended for the master of Civil Engineering",
+			"Structural mechanics IV",
+			"Concrete Structures II",
+			"Building Structures I",
+			"Open channel flow",
+			"Hydraulic Structures",
+			"Geometrical Design of Roads and Railways",
+			"Use of underground Space",
+			"Mechanics and Transport by Flow through Poreus Media",
+			"Integral Design of Infrastructure",
+			"Monitoring and Stability of Dikes and Embankments",
+
+			"For environmental engineering",
+			"Climate impacts and Engineering",
+			"Open Channel Flow",
+			"Water System Analysis",
+			"Introduction to Water Treatment",
+			"Mechanics and Transport by Flow through Poreus Media",
+			"Water Management Research"
+		],
+		"Pre-requisites": []
+	}
+]

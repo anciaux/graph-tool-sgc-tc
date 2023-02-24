@@ -1,0 +1,1203 @@
+[
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Analysis I",
+		"ID":"401-0241-00",
+		"ECTS":7,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&lerneinheitId=162434&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&",
+		"Learning outcomes":[
+			"Mathematics as a tool for solving engineering problems",
+			"Understanding mathematical formulation of engineering and scientific problems.",
+			"Development of basic mathematical knowledge for an engineer."
+		],
+		"Description":[
+			"Complex numbers",
+			"Differential calculus and integral calculus for functions of one variable with applications",
+			"Simple mathematical models in the natural sciences"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Linear algebra",
+		"ID":"401-0141-00",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162288&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Basic knowledge of linear algebra as a tool for solving engineering problems",
+			"Understanding of abstract mathematical formulation of technical and scientific problems",
+			"Together with calculus, we develop the basic mathematical knowledge for an engineer",
+			"The modelling competence is taught, applied and tested, and the programming competence is applied"
+		],
+		"Description":[
+			"Introduction and systems of linear equations",
+			"matrices", 
+			"square matrices and their inverse", 
+			"determinant and trace", 
+			"general vector spaces", 
+			"linear mappings", 
+			"bases", 
+			"base change",
+			"diagonalisation", 
+			"eigenvalues and eigenvectors", 
+			"orthogonal mappings", 
+			"scalar product", 
+			"vector spaces with inner product"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Mecanics I",
+		"ID":"151-0501-03",
+		"ECTS":6,
+		"Semester":"Fall",
+		"URL": "www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=164409&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			"Fundamentals:",
+			"Position of a material point",
+			"velocity",
+			"kinematics of rigid bodies",
+			"forces",
+			"reaction principle",
+			"power",
+			"Statics:",
+			"groups of forces and moments",
+			"principle of virtual powers",
+			"rest position and equilibrium",
+			"main theorem of statics",
+			"bearing bindings and bearing forces",
+			"parallel forces and centre of gravity",
+			"statics of systems",
+			"trusses; friction",
+			"rope statics",
+			"stress in bar girders"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Geology and petrography",
+		"ID":"651-0032-00",
+		"ECTS":4,
+		"Semester":"Fall",
+		"URL": "www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163944&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Geology of the Earth", 
+			"Minerals",
+			"Rocks and their cycle", 
+			"Magmatic rocks",
+			"Volcanoes", 
+			"Weathering",
+			"Erosion",
+			"Sedimentary rocks", 
+			"Metamorphic rocks", 
+			"Historical geology", 
+			"Structural geology", 
+			"rock deformation", 
+			"Landslides", 
+			"Groundwater", 
+			"rivers", 
+			"Wind", 
+			"glaciers", 
+			"Processes in the Earth's interior", 
+			"Earthquakes",
+			"Raw materials",
+			"Short introduction to the geology of Switzerland"
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Programming for Engineers",
+		"ID":"101-0700-00",
+		"ECTS":4,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=164638&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"recognize the usefulness and power of computer tools in civil engineering", 
+			"be prepared to independently use Matlab or Python for solving future problems",
+			"explain basic computer science concepts in simple terms",
+			"understand and explain the functionality of existing code",
+			"analyse a simple civil engineering problem in order to partition it into logical blocks and devise an algorithm to systematically solve the problem",
+			"implement simple imperative algorithms in Matlab and Python and explain the functionalities of their code",
+			"extend existing code with new functionalities",
+			"validate, test and debug their own code as well as existing code",
+			"explain the basics of object-oriented and interactive programming",
+			"extend existing skeleton code to create simple graphical user interfaces"
+		],
+		"Description":[
+			"Matlab as a calculator", 
+			"variables and arrays", 
+			"iterating and branching",
+			"input and output", 
+			"functions", 
+			"visualization",
+			"implementing simple algorithms from numerics", 
+			"statistics and discrete math", 
+			"validation", 
+			"testing and debugging",
+			"basics of object-oriented programming", 
+			"introduction to interactive programming and graphical user interfaces (GUI)", 
+			"Introduction to programming with Python"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Private construction law",
+		"ID":"851-0703-03",
+		"ECTS":2,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162477&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"As future construction practitioners, students are able to recognise legal problems independently and in good time in their daily work and to initiate the right measures."
+		],
+		"Description":[
+			"Introduction",
+			"most important legal sources of private construction law",
+			"SIA planner/construction management contract",
+			"SIA standard 118", 
+			"liability of planners/engineers", 
+			"construction insurances", 
+			"property law for engineers", 
+			"purchase of real estate", 
+			"law on inherited burdens", 
+			"construction lien law", 
+			"submission law", 
+			"the construction process", 
+			"the engineer as expert"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Analysis III",
+		"ID":"401-0243-00",
+		"ECTS":3,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163109&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Learning to model scientific problems using partial differential equations",
+			"developing a good command of the mathematical methods that can be applied to them",
+			"knowing the formulation of important problems in science and engineering with a view toward civil engineering",
+			"Understanding the properties of the different types of partial differential equations arising in science and in engineering."
+		],
+		"Description":[
+			"Classification of partial differential equations",
+			"Study of the Heat equation general diffusion/parabolic problems using the following tools through Separation of variables as an introduction to Fourier Series",
+			"Systematic treatment of the complex and real Fourier Series",
+			"Study of the wave equation and general hyperbolic problems using Fourier Series", 
+			"D'Alembert solution and the method of characteristics",
+			"Laplace transform and it's uses to differential equations",
+			"Study of the Laplace equation and general elliptic problems using similar tools and generalizations of Fourier series",
+			"Application of Laplace transform for beam theory will be discussed",
+			"Time permitting", 
+			"Introduction of the Fourier transform"
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Analysis II"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Physics",
+		"ID":"402-0023-01",
+		"ECTS":7,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163693&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			"Electrodynamics", 
+			"Thermodynamics", 
+			"Quantum physics", 
+			"Waves and Oscillations", 
+			"special relativity"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Hydraulics I",
+		"ID":"101-0203-01",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162244&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"In the course Hydraulics I, the competency of process understanding is taught, applied and examined", 
+			"Furthermore system understanding and measurement methods are taught"
+		],
+		"Description":[
+			"Properties of water", 
+			"hydrostatics", 
+			"stability of floating bodies", 
+			"continuity", 
+			"Euler equation of motion", 
+			"Navier-Stokes equations", 
+			"similarity", 
+			"Bernoulli principle", 
+			"momentum equation for finite volumes", 
+			"potential flows", 
+			"ideal fluids vs. real fluids", 
+			"boundary layer", 
+			"pipe flow", 
+			"open channel flow", 
+			"flow measurements"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Dynamics",
+		"ID":"151-0503-00",
+		"ECTS":6,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162142&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			"Motion of a single particle", 
+			"kinematics (trajectory, velocity, acceleration)", 
+			"forces and torques", "constraints", 
+			"active and reaction forces", 
+			"balance of linear and angular momentum", 
+			"work-energy balance", "conservative systems", "equations of motion",
+			"Motion of systems of particles", "internal and external forces", 
+			"balance of linear and angular momentum", "work-energy balance", 
+			"rigid systems of particles", "particle collisions", "mass accretion/loss",
+			"Motion of rigid bodies in 2D and 3D", 
+			"kinematics (angular velocity, velocity and acceleration transfer, instantaneous center and axis of rotation)", 
+			"balance of linear and angular momentum", "work-energy balance", 
+			"angular momentum transport", "inertial vs. moving reference frames", 
+			"apparent forces", "Euler equations", 
+			"Vibrations", "Lagrange equations", "concepts of stability", 
+			"single-DOF oscillations (natural frequency, free-, damped-, and forced response)", 
+			"multi-DOF oscillations (natural frequencies, eigenmodes, free-, damped-, and forced response)",
+			"Introduction to waves and vibrations in deformable elastic bodies",
+			"local form of linear momentum balance", "waves and vibrations in slender elastic rods"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Theory of Structures I",
+		"ID":"101-0113-00",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163036&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Understanding the response of elastic beam and frame structures",
+			"Ability to correctly apply the equilibrium conditions",
+			"Understanding the basics of continuum mechanics",
+			"Computation of stresses and deformations of elastic structures",
+			"Ability to apply the force (flexibility) method for statically indeterminate structures"
+		],
+		"Description":[
+			"Equilibrium", "reactions", "static determinacy",
+			"Internal forces", "normal and shear forces", "moments",
+			"Arches and cables",
+			"Elastic trusses",
+			"Influence lines",
+			"Basics of continuum mechanics",
+			"Stresses in elastic beams",
+			"Deformations in Euler-Bernoulli and Timoshenko beams",
+			"Energy theorems",
+			"Statically indeterminate systems (Force method)"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Construction Materials I",
+		"ID":"",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Geotechnical Engineering",
+		"ID":"101-0315-00",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163755&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Recognition of the basic consequences of the ground construction",
+			"Understanding of the important fundamental concepts of Soil mechanics and Geotechnical Engineering",
+			"Independent analysis of the basic geotechnical problems"
+		],
+		"Description":[
+			"Overview of stability problems",
+			"Bearing capacity of shallow and deep foundations",
+			"Soil-foundation interaction",
+			"Analysis and design of shallow and deep fondations",
+			"Earth pressure on retaining structures",
+			"Analysis and design of retaining walls",
+			"Excavations",
+			"dewatering", "analysis and design",
+			"Soil improvement",
+			"Safety considerations"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Steel Structures II",
+		"ID":"101-0135-01",
+		"ECTS":4,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163005&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Students will expand the knowledge acquired during Steel Structures I and learn how to apply these skills to the design of more complex building and bridge steel and composite structures",
+			"They will acquire the fundamental background for the phenomena of plate buckling and fatigue and learn how to apply it to practical design tasks",
+			"In addition, students will learn to appreciate the importance of questions of detailling, fabrication, erection and cost calculation for the effective design of steel and composite structures.",
+			"After completion of the year-long course in Steel Structures I+II, students will have at their disposal a wide and detailled set of skills concerning the modern practice for steel and composite structures design and have a deep understanding of its theoretical & scientific background",
+			"The examples of scientific and standardisation work provided in the lectures give the students the opportunity to learn about the most current developments and see how these are used to shape the future practice in the structural engineering field."
+		],
+		"Description":[
+			"Structural forms, analysis techniques and modelling of multi-storey buildings and bridges",
+			"Structural analysis (deformations, internal forces, stresses and strains) in steel-concrete composite girders",
+			"effects of creep, shrinkage and shear deformations",
+			"Elastic and plastic longitudinal shear transfer mechanisms and effects",
+			"Plate buckling of unstiffened and stiffened panels",
+			"Fatigue resistance and safe life assessment: phenomenon and design approaches",
+			"Special topics of steel connection design",
+			"Detailling, drafting, fabrication and erection, cost determination in constructional steelwork"
+		],
+		"Pre-requisites":[
+			"Steel Structures I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Public Transport and Railways",
+		"ID":"101-0415-01",
+		"ECTS":3,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162850&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Teaches the basic principles of public transport network and topology design", 
+			"understand the main characteristics and differences of public transport networks, based on buses, railways, or other technologies",
+			"recognize the interactions between the infrastructure design and the production processes, and various performance criteria based on various perspective and stakeholders.",
+			"critically analyze existing networks of public transport, their design and use",
+			"consider and substantiate different choices of technologies to suitable cases",
+			"optimize the use of resources in public transport"
+		],
+		"Description":[
+			"Infrastructures and vehicle technologies of public transport systems",
+			"interaction between track and vehicles",
+			"passengers and goods as infrastructure users",
+			"management and financing of networks",
+			"Infrastructure:",
+			"Planning processes and decision levels in network development and infrastructure planning",
+			"planning of topologies",
+			"tracks and roadways", 
+			"station infrastructures",
+			"Fundamentals of the infrastructure design for lines",
+			"track geometries", 
+			"switches and crossings",		
+			"Vehicles: ",
+			"Classification", "design and suitability for different goals",
+			"Network design:",
+			"design dilemmas", 
+			"conceptual models for passenger transport on long distance", 
+			"urban regional transport",			
+			"Operations: ",
+			"Passenger/Supply requirements for line operations",
+			"timetabling", 
+			"measures of realized operations", 
+			"capacity"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Systems Engineering",
+		"ID":"101-0031-01",
+		"ECTS":3,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162642&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"how to structure the large amount of information that is often associated with attempting to modify complex systems",
+			"how to set goals and define constraints in the engineering of complex systems",
+			"how to generate possible solutions to complex problems in ways that limit exceedingly narrow thinking",
+			"how to compare multiple possible solutions over time with differences in the temporal distribution of costs and benefits and uncertainty as to what might happen in the future",
+			"how to assess values of benefits to stakeholders that are not in monetary units",
+			"how to assess whether it is worth obtaining more information in determining optimal solution",
+			"how to take a step back from the numbers and qualitatively evaluate the possible solutions in light of the bigger picture",
+			"the basics of operations research and how it can be used to determine optimal solutions to complex problems, including linear, integer and network programming, dealing with multiple objectives and conducting sensitivity analyses."
+		],
+		"Description":[
+			"introduction to System Engineering", 
+			"Situation analysis",
+			"Goals and constraints",
+			"Generation of possible solutions",
+			"The principles of net-benefit maximization",
+			"series of methods that range from qualitative and approximate to quantitative and exact", 
+			"supply and demand curves",
+			"revealed preference methods",
+			"The concept of equivalence", 
+			"time value of money", 
+			"interest", 
+			"life times",
+			"terminal values",
+			"The relationship between net-benefit and the benefit-cost ratio",
+			"Marginal rates of return",
+			"internal rates of return",
+			"multiple possible futures",
+			"optimal solutions",
+			"Evaluation of solutions",
+			"linear programming",
+			"simplex method",
+			"sensitivity analysis",
+			"find optimal solutions to network problems",
+			"Operations research",
+			"solve problems with multiple objectives"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Hydrology",
+		"ID":"102-0293-00",
+		"ECTS":3,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163404&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			"hydrological cycle",
+			"precipitation",
+			"interception",
+			"evaporation and evapotransporation",
+			"infiltration",
+			"surface runoff and subsurface flow",
+			"basin characteristics",
+			"Rainfall-runoff models (R-R)",
+			"Flood estimation models",
+			"erosion and sediment transport",
+			"snow and ice hydrology"
+		],
+		"Pre-requisites":[
+			"Statistics and Probability Theory"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Structural Concrete I",
+		"ID":"101-0125-00",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162554&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Knowledge of the materials concrete and reinforcing steel and understanding their interaction",
+			"Understanding the response of typical structural members",
+			"Knowledge of elementary models and ability to apply them to practical problems",
+			"Ability to correctly dimension and detail simple structures"
+		],
+		"Description":[
+			"Introduction", 
+			"historical development of structural concrete", 
+			"materials and material behaviour", 
+			"cement", 
+			"concrete",
+			"reinforcing steel", 
+			"prestressing steel", 
+			"linear members",
+			"flexure and axial force", 
+			"compression members and columns", 
+			"shear", 
+			"bending and shear", 
+			"torsion",
+			"combined actions", 
+			"strut-and-tie models and simple stress fields", 
+			"detailing"
+		],
+		"Pre-requisites":[
+			"Theory of Structures I",
+			"Theory of Structures II"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Project Work Conceptual Design",
+		"ID":"101-0007-01",
+		"ECTS":3,
+		"Semester":"Fall",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162734&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"first insight into the holistic approach to cope with typical tasks of civil engineering",
+			"introduces professional techniques of civil engineering to students",
+			"consolidate the knowledge gained so far in bachelor courses", 
+			"link different domains and to fill gaps with respect to work techniques",
+			"analyse the inventory", 
+			"formulate design requirements and boundary conditions", 
+			"elaborate approaches and proposals for solutions", 
+			"dimension some exemplary structural elements", 
+			"practise detailing and document their work by different media"
+		],
+		"Description":[
+			"Analysis of the inventory", 
+			"layout of posters", 
+			"basics of graphic representation", 
+			"service criteria agreement and basis of design", 
+			"structural design and modelling", 
+			"preliminary dimensioning", 
+			"technical drawing and model making", 
+			"materialisation and detailing", 
+			"literature research and scientific referencing"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Analysis II",
+		"ID":"401-0242-00",
+		"ECTS":7,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167429&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Mathematics as a tool to solve engineering problems", 
+			"mathematical formulation of problems in science and engineering", 
+			"Basic mathematical knowledge of an engineer"
+		],
+		"Description":[
+			"Multi variable calculus",
+			"gradient", 
+			"directional derivative", 
+			"chain rule", 
+			"Taylor expansion", 
+			"Multiple integrals",
+			"coordinate transformations", 
+			"path integrals", 
+			"integrals over surfaces", 
+			"theorems of Green", 
+			"Gauss and Stokes", 
+			"applications in physics"
+		],
+		"Pre-requisites":[
+			"Analysis I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Statistics and Probability Theory",
+		"ID":"401-0612-00",
+		"ECTS":5,
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168255&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Semester":"Spring",
+		"Learning outcomes":[
+			"The aim of the course is to introduce students to basic tools of statistics and probability theory. ",
+			"Always related to the field of risk assessment and decision making in engineering, the focus is on the application of the tools and the reasoning behind the application of these disciplines."
+		],
+		"Description":[
+			"Fundamentals of probability theory:",
+			"Fundamentals of set theory", 
+			"definitions of probability", 
+			"axioms of probability theory", 
+			"probabilities of unions and intersections", 
+			"conditional probabilities", 
+			"Bayes' theorem.",
+			"Modelling of uncertainties:",
+			"Random variables", 
+			"discrete and continuous distributions", 
+			"moments, distribution parameters", 
+			"properties of expected value", 
+			"multivariate distributions", 
+			"functions of random variables", 
+			"the central limit theorem", 
+			"typical distributions in engineering.",
+			"Descriptive statistics:",
+			"Graphical representations (histograms, scatter plots, box plots)", 
+			"numerical characteristics",
+			"Estimation and modelling:",
+			"Selection of distribution models", 
+			"QQ plots", 
+			"parameter estimation", 
+			"method of moments", 
+			"maximum likelihood method", 
+			"confidence intervals", 
+			"hypothesis testing"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Mecanics II",
+		"ID":"151-0502-00",
+		"ECTS":6,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168003&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"the basic concepts of the mechanics of deformable media that they will later apply in other courses such as Dimensioning which are closer to real engineering applications."
+		],
+		"Description":[
+			"Stress tensor", 
+			"deformations", 
+			"linear elastic solids", 
+			"bending of prismatic beams", 
+			"numerical methods", 
+			"bending", 
+			"torsion", 
+			"plastic work and deformation energy", 
+			"energy methods", 
+			"buckling"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Chemistry for Civil Engineers",
+		"ID":"101-0603-01",
+		"ECTS":3,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167394&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Understanding the basic principles of chemistry with particular emphasis on applications in civil engineering."
+		],
+		"Description":[
+			"Atoms and molecules",
+			"Gases",
+			"Intermolecular forces (London dispersions, dipole, H-bridges)",
+			"Physical equilibria (evaporation/condensation)",
+			"Electrolytes", 
+			"Chemical equilibrium", 
+			"Acids and bases",
+			"Hydrocarbons", 
+			"Chemical kinetics", 
+			"Redox processes", 
+			"Galvanic cells", 
+			"Corrosion as a system property material/environment"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Digital Engineering",
+		"ID":"101-0710-00",
+		"ECTS":3,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168356&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"work with and to set-up own interactive Python notebooks for their further studies.",
+			"apply Python by using the functionality of the most popular modules",
+			"overcome implementation and programming language issues to solve simple civil engineering problems.",
+			"handle and analyze large datasets and generate high-quality plots.",
+			"work with image data for problem analysis.",
+			"get a first insight into important applied problems such as simple equilibrium, dynamic, or optimizations problems",
+			"explain problem specific solution strategies in simple terms and know about their limitations.",
+			"combine building-blocks from the different solution- pipelines to address new questions."
+		],
+		"Description":[
+			"Reminding about Python", 
+			"NumPy, SciPy, and MatplotLib",
+			"Handling huge datasets with Pandas",
+			"Generating high-quality plots and figures",
+			"Graphical statics",
+			"Image processing and analysis",
+			"Equilibrium solutions",
+			"Dynamics solutions",
+			"Optimizing systems"
+
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Theory of Structures II",
+		"ID":"101-0114-00",
+		"ECTS":4,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168336&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Mastering the methods of analysis for statically indeterminate beam and frame structures",
+			"Extending the understanding of the response of beam and frame structures by accounting for plasticity effects",
+			"Ability to reasonably interpret and check the results of numerical analyses"
+		],
+		"Description":[
+			"Linear analysis of beam and frame structures",
+			"Force (flexibility) method",
+			"Displacement (stiffness) method",
+			"Matrix analysis",
+			"Nonlinear analysis of beam and frame structures",
+			"Elastic - plastic systems",
+			"Limit (failure) analysis"
+		],
+		"Pre-requisites":[
+			"Theory of Structures I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Soil Mecanics",
+		"ID":"101-0314-00",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167448&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"soil as a multi-phase hydro-mechanical system", 
+			"essential parameters for classification and description of soil", 
+			"influence of water on the soil behaviour", 
+			"stress-strain response and shear-strength of soil"
+		],
+		"Description":[
+			"Introduction and basic terms",
+			"soil classification", 
+			"influence of groundwater", 
+			"water pressure on structures", 
+			"hydraulic heave (piping)", 
+			"water flow and erosion; stresses", 
+			"concept of effective stresses", 
+			"influence of stress history and stress distribution", 
+			"deformation", 
+			"stress-strain relationship", 
+			"1D consolidation theory (time dependency of deformations)", 
+			"shear-strength",
+			"failure criteria and shear-strength parameters",
+			"slope stability", 
+			"infinite slope limit equilibrium methods",
+			"mechanical compaction",
+			"settlement calculation",
+			"site investigation"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Transport Planning (Transportation I)",
+		"ID":"101-0414-00",
+		"ECTS":3,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167489&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The course introduces the basic theories and methods of transport planning."
+		],
+		"Description":[
+			"Basic theoretical links between transport, space and economic development",
+			"basic terminology",
+			"measurement and observation of travel behaviour", 
+			"methods of the four stage approach",
+			"cost-benefit analysis"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Geodetic metrology fundamentals",
+		"ID":"103-0132-00",
+		"ECTS":6, 
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167215&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Getting to know the most important sensors, operation and calculation methods of Geodetic Metrology"
+		],
+		"Description":[
+			"Overview on the different domains of geodetic metrology",
+			"Geodetic instruments and sensors",
+			"Determination of 3D-coordinates with GNSS", 
+			"total sttaion and levelling",
+			"Calculation methods of geodetic metrology",
+			"Assessment of precision", 
+			"Introduction to variance propagation",
+			"Survey and staking-out methods"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Steel Structures I",
+		"ID":"101-0134-00",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168215&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Students understand the basics of steel design, including Stability and stiffness aspects",
+			"Main focus is to make visible the background and basic requirements of structural steel design, as well as the interaction between the structural detailing and analytical modelling",
+			"Students understand the principals of structural engineering by analysing practical examples of steel structures."
+		],
+		"Description":[
+			"Application area of steel structures",
+			"Properties and characteristics of steel and their effects on design",
+			"Steel as construction material",
+			"Connections, (bolts, welds)", 
+			"Stability problems (bending, lateral buckling, buckling)"
+		],
+		"Pre-requisites":[
+			"Theory of Structures I"
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Structural Concrete II",
+		"ID":"101-0126-01",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168497&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Understanding the response of slabs",
+			"Knowing the principle and the techniques of prestressing",
+			"Ability to correctly dimension and detail typical building structures"
+		],
+		"Description":[
+			"Prestressed concrete introduction", 
+			"prestressing systems", 
+			"load-deformation response", 
+			"detailing", 
+			"girders", 
+			"slabs", 
+			"plates introduction", 
+			"yield criteria", 
+			"equilibrium solutions", 
+			"yield-line analysis", 
+			"shear and punching", 
+			"serviceability"
+		],
+		"Pre-requisites":[
+			"Theory of Structures I", 
+			"Theory of Structures II", 
+			"Structural Concrete I"
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Construction Methods",
+		"ID":"101-0556-01",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=166996&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Organization of tender documents",
+			"Scheduling and cost calculation",
+			"Construction methods of Special Underground and Deep Foundation Construction as well as tunnelling methods",
+			"Planning of earthwork processes and conception of site logistics"
+		],
+		"Description":[
+			"SIA 103, SIA 112, SIA 118",
+			"Cost calculation",
+			"Scheduling",
+			"Submission (detailed estimate, special provisions, acceptance standards)",
+			"Methods of ground investigation and ground control",
+			"Special Underground / Deep Foundation Construction",
+			"Dewatering systems",
+			"Pipe jacking/ Micro tunnelling",
+			"Piles / Retaining walls",
+			"Anchors",
+			"Soil improvements",
+			"Cut-and-cover method",
+			"Caissons",
+			"Supporting construction methods: soil injection/ jetting",
+			"Tunnel construction",
+			"Classification of tunnelling",
+			"Conventional drive tunnelling",
+			"Mechanical drive tunnelling",
+			"Drainage and Sealing",
+			"Lining/ finishing",
+			"Supporting construction methods: pipe umbrellas",
+			"Execution of contruction work und logistics",
+			"Planning of production processes",
+			"Logistics/ site equipment",
+			"Transportation logistics",
+			"Formwork and cranes"
+		],
+		"Pre-requisites":[
+			
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Rock mechanics and tunneling",
+		"ID":"101-0326-03",
+		"ECTS":6,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168403&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Introduction to the principles of rock mechanics.",
+			"Fundamentals of engineering of structures built on rock.",
+			"Introduction to planning, design and mechanics of underground structures in rock or soft ground."
+		],
+		"Description":[
+			"Basic phenomena and problems of surface rock engineering and underground rock engineering",
+			"rock structure",
+			"recording the interface structure and the mechanical properties of interfaces",
+			"rock hydraulic fundamentals",
+			"influence of water on the interplay of forces",
+			"deformation and strength properties of rock",
+			"stability of rock slopes and rock foundations",
+			"field tests and field measurements",
+			"Basic design and project planning of underground structures",
+			"Structural systems of traffic tunnelling. System selection",
+			"Routing",
+			"Operational ventilation",
+			"Profile design",
+			"Overview of tunnelling work", 
+			"typical phenomena and hazards", 
+			"countermeasures",
+			"Basic principles of tunnel statics",
+			"Presentation of appropriate calculation models based on the description and discussion of various phenomena occurring in underground construction",
+			"Stress analysis of underground structures",
+			"The rock characteristic and the interaction of the rock with the lining",
+			"Loosening pressure in rock and loose rock",
+			"Stability of the working face in unconsolidated rock",
+			"Calculation models for dimensioning the support"
+		],
+		"Pre-requisites":[
+			
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Road Transport systems",
+		"ID":"101-0416-10",
+		"ECTS":3,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168834&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"This course gives the students an overview of topics involved in road transport systems and provides the background for Masters degree study."
+		],
+		"Description":[
+			"road transportation technologies", 
+			"network design", 
+			"traffic flow theory", 
+			"operations of private and public transport", 
+			"management and control of intelligent transportation systems"
+		],
+		"Pre-requisites":[
+			
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Hydraulic Engineering",
+		"ID":"101-0206-00",
+		"ECTS":6,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168224&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"In the course Hydraulic Engineering, the competencies of process understanding and system understanding are taught, applied and examined.",
+			"Concept development is taught and applied.",
+			"The course aims at knowledge of hydraulic systems and their main hydraulic components and structures",
+			"competencies in planning and design of hydraulic structures with regard to serviceability and reliability are teached"
+		],
+		"Description":[
+			"Hydraulic systems: High-head storage power plants and low-head run-of-river power plants.",
+			"Weirs: weir and gate types, hydraulic design.",
+			"Intakes: intake types, desilting facilities and sand traps.",
+			"Channels: design, open and closed channels.",
+			"Closed conduits: linings, hydraulic design of pressure tunnels and shafts.",
+			"Dams and reservoirs: dam types, appurtenant structures",
+			"River engineering: flow computation, sediment transport, engineering and environmental measures.",
+			"Natural hazards: types, basics of countermeasures",
+			"Inland navigation: channels and locks.",
+			"Exercises in written form, exercises in hydraulic and computer laboratory."
+		],
+		"Pre-requisites":[
+			"Hydraulics I"
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Bachelor Thesis",
+		"ID":"101-0006-10",
+		"ECTS":8,
+		"Semester":"Spring",
+		"URL": "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169110&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Machine Learning",
+		"ID":"",
+		"ECTS":4,
+		"Semester":"Spring",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},	
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Scientific Computing",
+		"ID":"",
+		"ECTS":4,
+		"Semester":"Spring",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Construction Materials II",
+		"ID":"",
+		"ECTS":4,
+		"Semester":"Spring",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+		
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Science in Perspective I",
+		"ID":"",
+		"ECTS":2,
+		"Semester":"Spring",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+		
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Science in Perspective II",
+		"ID":"",
+		"ECTS":2,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+		
+		],
+		"Pre-requisites":[
+			
+		]
+	}
+]

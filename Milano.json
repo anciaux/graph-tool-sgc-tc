@@ -1,0 +1,871 @@
+[
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Mathematical Analysis I and Geometry",
+		"ID": "055716",
+		"ECTS": 12,
+		"Semester": "Fall",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAI&codDescr=095730&lang=EN&semestre=1&anno_corso=1&idItemOfferta=158727&idRiga=279918",
+		"Learning outcomes": [
+			"study and solve linear system by means of Gaussian elimination and the Rouché-Capelli theorem",
+			"study vector spaces and subspaces, compute generating sets, linearly independent sets, bases, dimension",
+			"study linear maps between vector spaces and their matrix representation, compute rank, kernel, image, and inverse map",
+			"understand eigenvalues and eigenvectors, and apply them to diagonalization of endomorphisms",
+			"study vectors in real euclidean spaces, compute dot products, orthogonal vectors, orthonormal bases and diagonalize symmetric matrices.",
+			"Furthermore, the student will be familiar with the method of cartesian coordinates, with particular focus on",
+			"configurations of lines and planes in 3-space",
+			"classification of conics in the plane and quadrics in 3-space.",
+			"getting familiar with the strategies and the rigorous arguments for proving and disproving mathematical statements,",
+			"evaluating the existence of the limits of sequences and of functions, and the differentiability and the integrability of functions",
+			"computing the limits of sequences and of functions, the derivative of functions, the primitive of functions, and the (proper and improper) definite integrals of functions,",
+			"performing a qualitative analysis of the graph of functions",
+			"where with sequences it is always intended in this context sequences of real numbers and, with functions, real functions depending on one real variable. "
+		],
+		"Description": [
+			"Real and complex numbers (algebraic, trigonometric and exponential form). ",
+			"Systems of linear equations and linear transformations. ",
+			"Functions of a real variable. ",
+			"Continuity and limits." ,
+			"Derivatives and differentials." ,
+			"Higher derivatives and Taylor's formula. ",
+			"Integration and related methods. ",
+			"Study of matrices and linear systems. ",
+			"Quadratic forms. ",
+			"Linear analytic geometry in the plane and in space." ,
+			"Conics: classification, reduction to canonical form and recognition."
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Computer Science",
+		"ID": "055717",
+		"ECTS": 8,
+		"Semester": "Fall",
+		"URL": "https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789440&polij_device_category=DESKTOP&__pj0=0&__pj1=024f9e4d2da243c9bfbc8e5fd0512171",
+		"Learning outcomes": [
+			"Understanding how computers encode information",
+			"Know the basic elements of a computer architecture",
+			"Understanding the syntactic and semantic elements of a programming language",
+			"Know the main constructs used in imperative programming languages for data representation and manipulation",
+			"Know the basics of some applications that will be used in subsequent courses (FORTRAN language, computer-aided technical drawing with AutoCAD)",
+			"Manage data structures to effectively represent the data of a specific problem",
+			"Design simple algorithms to solve a problem",
+			"Select known computation schemes and apply them to solve new problems",
+			"Implement algorithms in C and FORTRAN language",
+			"Realize projects and technical drawings in AutoCAD"
+		],
+		"Description": [
+			"Introductory concepts of computer science. ",
+			"Fundamental concepts of the programming with reference to languages C and FORTRAN",
+			"algorithm", 
+			"abstraction by means of type of data", 
+			"mechanisms structured for the control of the sequence of operations", 
+			"techniques of programming", 
+			"sub-rutine", 
+			"passage parameters", 
+			"model of execution. ",
+			"Signals of advanced programming (functions and structures rebuilt)." ,
+			"Composition or organization of the systems informed to us. ",
+			"Specific applications and monographic arguments" ,
+			"programming to objects", 
+			"bases of give to you relational", 
+			"GIS", 
+			"concepts base of graphical computer science", 
+			"CAD and its applications", 
+			"Internet"
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Chemistry",
+		"ID": "055718",
+		"ECTS": 6,
+		"Semester": "Fall",
+		"URL": "https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789556&polij_device_category=DESKTOP&__pj0=0&__pj1=b1b8f6bc523f87aaaf51ca1c8e4ac354",
+		"Learning outcomes": [
+			"understand what scientific knowledge means, in particular chemistry",
+			"understand that chemistry is an experimental and quantitative science",
+			"analyse experimental data",
+			"interpret experimental data",
+			"understand that industrial processes conditions are directed by chemical thermodynamic and chemical kinetic parameters",
+			"connect chemistry with engineering",
+			"demonstrate to abstract and synthesize important informations from lessons, books and web resource",
+			"enlarge the chemistry basics in a more broad environment than the course content",
+			"demonstrate to efficiently and correctly comunicate orally and writing"
+		],
+		"Description": [
+			"Basic concepts.",
+			"The atom.",
+			"The periodic table.",
+			"The chemical bond.",
+			"The gaseous state.",
+			"The liquid and solid state.",
+			"Chemical thermodynamics.",
+			"Chemical equilibrium. ",
+			"Chemical kinetics. ",
+			"Electrochemistry",
+			"Atomic mass and molecular mass. ",
+			"Mole and molar mass. ",
+			"Stoichiometry" ,
+			"Gas state",
+			"Gas mixtures ",
+			"Reaction thermodinamic aspects. ",
+			"Acid-base equilibria in water", 
+			"pH"  ,
+			"Redox potential use and f.e.m. ",
+			"Electrolysis quantitative aspects." ,
+			"Faraday law." 
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Physics I",
+		"ID": "055721",
+		"ECTS": 8,
+		"Semester": "Fall",
+		"URL": "https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789514&polij_device_category=DESKTOP&__pj0=0&__pj1=93d945cdfcfda0070d41ce1c1995cf05",
+		"Learning outcomes": [
+			"know the main physical quantities used to represent the elementary phenomena in the fields of Mechanics and Thermodynamics, their definition and the respective units of measurement in the International System;",
+			"know the physical principles underlying the mentioned phenomena and to show that they have fully understood the experimental laws that describe them and the limits of such descriptions;",
+			"understand the links that exist among the physical quantities that describe a natural phenomenon and to know how to represent them through mathematical formalism.",
+			"determine the physical quantities relevant to the description of a physical phenomenon in the fields of Mechanics and Thermodynamics, pay attention to their scalar or vectorial character, physical dimensions and relative units of measurement;",
+			"identify the physical laws suitable for the quantitative description of a phenomenon, pay attention to the validity limits of the model used;",
+			"determine the evolution of the physical phenomenon on a spatial and/or temporal scale by solving the equations that govern it and critically analyzing the results obtained in relation to their physical meaning."
+		],
+		"Description": [
+			"Mechanics",
+			"Kinematics and dynamics of point-like particles",
+			"physical quantities and units of measurement in mechanics",
+			"reference systems",
+			"position", 
+			"speed and acceleration",
+			"laws of Newtonian dynamics",
+			"normal force",
+			"sliding friction and viscous friction",
+			"relative motions and apparent forces.",
+			"Work and energy",
+			"work of a force", 
+			"power", 
+			"kinetic energy", 
+			"potential energy", 
+			"conservative and non-conservative forces", 
+			"conservation of mechanical energy",
+			"Oscillating motions",
+			"simple harmonic oscillator",
+			"elastic forces",
+			"pendulum",
+			"notes on damped oscillations", 
+			"forced oscillations with sinusoidal forcing", 
+			"resonance",
+			"Elements of dynamics of particle systems",
+			"motion of particle systems",
+			"center of mass",
+			"momentum and its conservation",
+			"momentum of a force",
+			"angular momentum and its conservation", 
+			"elastic and inelastic collisions",
+			"Gravitational field",
+			"central forces",
+			"Kepler's laws and motion of the planets",
+			"gravitational interaction",
+			"gravitational potential energy",
+			"inertial and gravitational mass.",
+			"Thermodynamics",
+			"Thermodynamic method", 
+			"systems and variables",
+			"Thermal equilibrium", 
+			"zero principle and temperature",
+			"Thermodynamic transformations",
+			"First principle of thermodynamics",
+			"Work, heat and internal energy",
+			"Thermal and cooling machines",
+			"Thermal capacity", 
+			"specific heat and latent heat",
+			"Perfect gases: laws, equation, properties",
+			"Second principle of thermodynamics: statements by Kelvin-Planck and Clausius",
+			"Reversible and irreversible transformations",
+			"Carnot machine and theorem",
+			"Efficiency and absolute thermodynamic temperature",
+			"Clausius' theorem",
+			"Entropy and integral of Clausius", 
+			"entropy growth principle",
+			"Elements of kinetic theory of perfect gases",
+			"model", 
+			"interpretation of pressure and temperature", 
+			"internal energy and molar heat."
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Physics II",
+		"ID": "055721",
+		"ECTS": 6,
+		"Semester": "Spring",
+		"URL": "https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789515&polij_device_category=DESKTOP&__pj0=0&__pj1=12b4e45f5ee24b6237d555539cd15b5b",
+		"Learning outcomes": [
+			"know the main physical quantities used to represent the elementary phenomena in the fields of Mechanical waves and Electromagnetism, their definition and the respective units of measurement in the International System of Units;",
+			"know the physical principles underlying the mentioned phenomena and to show that they fully understand the experimental laws that describe them and the limits of such descriptions;",
+			"understand the links that exist between the physical quantities that describe natural phenomena and to know how to represent them through mathematical formalism.",
+			"determining the physical quantities relevant to the description of physical phenomena in the fields of Mechanical waves and Electromagnetism, paying attention to their scalar or vector character, physical dimensions and relative units of measurement;",
+			"identifying the physical laws suitable for the quantitative description of a phenomenon, paying attention to the validity limits of the model used;",
+			"determining the evolution of the physical phenomena on a spatial and/or temporal scale by solving the equations that govern them and critically analyzing the results obtained in relation to their physical meaning."
+
+		],
+		"Description": [
+			"Review of vector calculus. ",
+			"Gradient, divergence, and curl operators.",
+			"Mechanical waves",
+			"Harmonic oscillations, damped, and forced oscillations. ",
+			"Wave motion. ",
+			"Transverse waves on a stretched elastic rope." ,
+			"Differential wave equation. ",
+			"Sound waves (longitudinal), propagation in the media. ",
+			"Wave intensity. Principle of superposition of waves, interference, beats and standing waves. ",
+			"Fundamental and higher harmonics.",
+			"Electricity. ",
+			"Coulomb’s law. ",
+			"Electric field. ",
+			"Electric fields of charge distributions. ",
+			"Electric field lines." ,
+			"Gauss’s law. ",
+			"Electric (scalar) potential. ",
+			"Electric potential energy. ",
+			"Electric potentials of charge distributions." ,
+			"Equipotential surfaces.",
+			"Electric field and potential in conductors. ",
+			"Electrostatic screening. ",
+			"Electric field at surface of conductors. ",
+			"Capacitance of conductors. ",
+			"Capacitors.",
+			"Electrostatics in matter: Dielectric polarization. ",
+			"Electric dipole moment in dielectrics. ",
+			"Polarization density vector. ",
+			"Displacement field. ",
+			"Gauss’s law in presence of matter. ",
+			"Maxwell’s equations for electrostatics.",
+			"Electromotive force and motion of electric charges. ",
+			"Electric current and current density vector. ",
+			"Continuity equation. ",
+			"Ohm’s laws and electrical resistance. ",
+			"Joule effect.",
+			"Magnetism. ",
+			"Biot-Savart law. ",
+			"Ampère’s force law. ",
+			"Magnetic field of currents. ",
+			"Lorentz force. ",
+			"Ampère’s circuital law. ",
+			"Solenoids. ",
+			"Magnetism and Ampère’s circuital law in matter. ",
+			"Maxwell’s equations in matter."
+		],
+		"Pre-requisites": [
+			"Physics I"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Mathematical Analysis II",
+		"ID": "055713",
+		"ECTS": 8,
+		"Semester": "Spring",
+		"URL": "https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789439&polij_device_category=DESKTOP&__pj0=0&__pj1=f3ad36d7ea17abc077e722b418122e9b",
+		"Learning outcomes": [
+			"We expect the knowledge of the fundamental elements of differential and integral calculus for functions of several variables, together with the ability to discuss the convergence of improper integrals and the character of numerical series.",
+			"In particular, the student will be able to study the local and global behavior of functions of several variables through the calculation of limits, the calculation of partial and directional derivatives, the search for free and constrained critical points and the calculation of multiple integrals, of integrals on curves and surfaces.",
+			"In addition, the student will learn to relate the acquired tools with some objects of physical and engineering interest (calculation of masses and barycenters of rigid bodies, calculation of the work and flux of a vector field).",
+			"The professor expects an understanding not limited to the statement of definitions, results and the resolution of standard exercises, but a critical one which shows the ability to distinguish the different situations and make conscious choices, justifying the procedures adopted. ",
+			"An adequate correctness in the calculations and a well-reasoned presentation of the theory are also expected."
+		],
+		"Description": [
+			"Numerical series and Improper integrals",
+			"Differential calculus for functions of several real variables",
+			"Optimization for functions of multiple variables",
+			"Parametric curves and line integrals",
+			"Integral calculus for functions of several variables and work of vector fields",
+			"Surfaces and surface integrals"
+		],
+		"Pre-requisites": [
+			"Mathematical Analysis I and Geometry"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Construction Materials",
+		"ID": "055722",
+		"ECTS": 6,
+		"Semester": "Spring",
+		"URL": "https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789410&polij_device_category=DESKTOP&__pj0=0&__pj1=1ea70bfa985a36fb3eab7c4ad0509aca",
+		"Learning outcomes": [
+			"understand the relationships between the structure, the properties and the applications of different classes of materials;",
+			"understand the differences among the different classes of materials and, in particular, among the different concretes and steels;",
+			"choice the more suitable materials as a function of the requirements required by a specific application, in order to employ them correctly in the design in the civil field;",
+			"know the main European standards and codes related to construction materials."
+		],
+		"Description": [
+			"Materials introduction",
+			"Mechanical behaviour.",
+			"Binder materials",
+			"Concrete and reinforced concrete",
+			"Metals and alloys",
+			"Ceramics and glasses",
+			"Timber"
+		],
+		"Pre-requisites": [
+			"Mathematical Analysis I and Geometry",
+			"Chemistry",
+			"Physics I"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 1,
+		"Course Title": "Engineering Geological Survey",
+		"ID": "055723",
+		"ECTS": 6,
+		"Semester": "Spring",
+		"URL": "",
+		"Learning outcomes": [
+			"know basic elements of geology useful for a proper design of engineering works as well as for the management of geological risks;",
+			"identify the main rocks and soils outcropping on the land surface;",
+			"draw geological cross-sections, that are the first tool for a proper design of engineering works;",
+			"be able to communicate his/her knowledge to those who collaborate in the design.  "
+		],
+		"Description": [
+			"Classification and technical characteristics of minerals and rocks. ",
+			"Geological surveying: reading and understanding the geological map. ",
+			"Geological-structural surveying: parameters and in situ measures, structural diagram. ",
+			"Engineering geological surveying: soils and rocks prospecting (drills and geophysical survey), laboratory tests (granulometric analysis, Atterberg limits). ",
+			"Rock quality index: Bieniwski and Romana geomechanical classifications. ",
+			"Slopes dynamic: landslides morphology, identification marks and classification. ",
+			"Ground water flow: aquifers and their parameters, hydrogeological cross-sections, piezometric map. ",
+			"Information of geological studies for civil engineering projects."
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Differential equations",
+		"ID": "056791",
+		"ECTS": 10,
+		"Semester": "Fall",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=056791&lang=EN&semestre=1&anno_corso=2&idItemOfferta=158538&idRiga=279267",
+		"Learning outcomes": [
+			"know the basics of the theory of function series, and the application to the study of differential equations.",
+			"know the different types of differential equations and the corresponding techniques"
+		],
+		"Description": [
+			"Sequences and series of functions",
+			"pointwise and uniform convergence", 
+			"mean square convergence", 
+			"convergence criteria",
+			"Theorems regarding the computation of limits", 
+			"derivatives and integrals of sequences and series",
+			"Power series", 
+			"Taylor series: radius of convergence", 
+			"Abel's theorem",
+			"Regularity of a power series",
+			"Exponential series", 
+			"Euler's formula",
+			"Fourier series",
+			"criteria for pointwise", 
+			"uniform and mean square convergence",
+			"Parseval identity",
+			"Ordinary differential equations",
+			"Cauchy problem", 
+			"local and global existence of solutions", 
+			"dependence on the data",
+			"Well posedness",
+			"Qualitative study of differential equations",
+			"Equations explicitly solvable (separation of variables, linear, Bernoulli, homogeneous, linear of second order)",
+			"Linear systems: superposition principle", 
+			"wronskian matrix",
+			"Set of solutions of a system of differential equations",
+			"Systems with constant coefficients",
+			"Exponential of a matrix",
+			"Boundary value problems", 
+			"eigenvalues and eigensolutions. ",
+			"The concept of stability and criteria for linear and nonlinear systems",
+			"Functional analysis",
+			"scalar product", 
+			"Hilbert spaces", 
+			"L2", 
+			"generalised Fourier expansions", 
+			"Parseval identity",
+			"Partial differential equations",
+			"First order equations", 
+			"solution with characteristic lines",
+			"Classification of second order equations",
+			"The heat equation", 
+			"the wave equation", 
+			"Laplace's equation. ",
+			"The mean value principle and the maximum principle for elliptic equations",
+			"Range of influence and domain of dependence for the wave equation."
+		],
+		"Pre-requisites": [
+			"Mathematical Analysis I and Geometry",
+			"Mathematical Analysis II"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Rational Mechanics",
+		"ID": "056794",
+		"ECTS": 10,
+		"Semester": "Fall",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=056794&lang=EN&semestre=1&anno_corso=2&idItemOfferta=158539&idRiga=279268",
+		"Learning outcomes": [
+			"be able to correctly analyze the kinematics of a mechanical system. The student is able to identify the degrees of freedom and to choose the most suitable generalized coordinates",
+			"be able to correctly analyze the forces acting on a mechanical system",
+			"be able to compute the mechanical quantities of a system",
+			"be able to formulate the proper mathematical equations underlying the mechanical problem, choosing the most appropriate solution method",
+			"possess a solid knowledge of the theoretical aspects."
+		],
+		"Description": [
+			"Elements of linear algebra.",
+			"Kinematics",
+			"Statics",
+			"Dynamics",
+			"Stability of equilibrium",
+			"Relative mechanics"
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Surveying and Data processing",
+		"ID": "056793",
+		"ECTS": 12,
+		"Semester": "Fall",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=056793&lang=EN&semestre=1&anno_corso=2&idItemOfferta=158540&idRiga=279269",
+		"Learning outcomes": [
+			"Knowledge of the basic elements of surveying from the methodological point of view",
+			"Knowledge of the surveying instruments (total station, level, GNSS)",
+			"How to apply the surveying methodologies in standard civil engineering problems",
+			"Knowledge of the basics in probability theory",
+			"Acquisition of the basics of statistical inference (estimators, hypothesis testing, least squares)",
+			"How to properly use surveying instruments and methodologies through labs activities",
+			"How to apply statistical methods in processing the surveying data collected during the lab activities",
+			"How to properly describe the used surveying methods and the statistical analysis applied to the collected data"
+		],
+		"Description": [
+			"Basics of probability and statistical data processing",
+			"Fundamentals of probability theory",
+			"Random variables",
+			"Statistical inference: estimators and hypothesis testing",
+			"Least squares",
+			"Geodesy and Surveying",
+			"The traditional surveying schemes in 1D and 2D",
+			"2D surveying schemes in the plane: triangulation, traverse, intersection and resection.",
+			"1D surveying schemes: spirit leveling, trigonometric leveling.",
+			"The GNSS surveying scheme",
+			"The GNSS signal structure, systematic errors, carrier phase differential GNSS",
+			"GNSS surveying networks and GNSS NRTK methods",
+			"Surveying instruments",
+			"The general problem of mapping",
+			"Conformal mapping and the Gauss conformal map",
+			"Basics of numerical cartography and GIS"
+		],
+		"Pre-requisites": [
+			"Mathematical Analysis I and Geometry",
+			"Mathematical Analysis II",
+			"Physics I",
+			"Physics II"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Hydraulics",
+		"ID": "056795",
+		"ECTS": 10,
+		"Semester": "Spring",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=056795&lang=EN&semestre=2&anno_corso=2&idItemOfferta=158541&idRiga=279270",
+		"Learning outcomes": [
+			"know the principles, the parameters, and the basic theories of Hydraulics and Fluid Mechanics",
+			"know the basic approaches for the engineering handling of hydraulic processes",
+			"understand the basic functioning of a pipeline system",
+			"understand the basics aspects of open channel flow",
+			"calculate the force exerted by fluids in static conditions on a surface",
+			"perform the preliminary design and verification of a pipeline system",
+			"set up and analyze simple open channel flow problems in steady-state conditions"
+		],
+		"Description": [
+			"Physical properties of fluids. ",
+			"Hydrostatic: forces in still fluids. ",
+			"Fluid kinematics. ",
+			"Fluid dynamics: Bernoulli's equation. ",
+			"Fluid machines. ",
+			"Differential form of the conservation of momentum: the Navier-Stokes equations. ",
+			"Steady incompressible flow in pressure conduits. ",
+			"Dimensional analysis. ",
+			"Laminar and turbulent flow. ",
+			"Head losses." ,
+			"Dynamic forces. ",
+			"Unsteady flow in pipes: surge tanks and air chambers. ",
+			"Open channel flow. ",
+			"Steady uniform flow. ",
+			"Gradually varied flow. ",
+			"Hydraulic jump. ",
+			"Steady flow water profiles." ,
+			"Elements of hydrometry. ",
+			"Laminar flow through porous media: Darcy's equation."
+		],
+		"Pre-requisites": [
+			"Mathematical Analysis I and Geometry",
+			"Mathematical Analysis II",
+			"Physics I",
+			"Physics II"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Structural Mechanics",
+		"ID": "056797",
+		"ECTS": 12,
+		"Semester": "Spring",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=056797&lang=EN&semestre=2&anno_corso=2&idItemOfferta=158542&idRiga=279271",
+		"Learning outcomes": [
+			"Students will have to demonstrate knowledge and understanding of topics learned in first and second year courses (in particular, Mathematical Analysis 1+2, Geometry, Physics, Rational Mechanics and Differential Equations).",
+			"At the end of the course, they must be able to apply their knowledge and understanding skills to correctly analyze plane systems of beams, both qualitatively and quantitatively, to calculate internal forces and stresses in these structures, and to assess their safety in terms of strength and stability."
+		],
+		"Description": [
+			"Statics and kinematics of plane systems of beams. ",
+			"Theory of elastica for deformable beams. ",
+			"Principle of virtual works applied to plane systems of beams." ,
+			"Stability of equilibrium of compressed beams. ",
+			"Mechanics of elastic solids. Strength criteria." ,
+			"Centroid and moments of area. Saint-Venant's problem. ",
+			"For all the topics of the course programme, applicative exercises will be solved."
+		],
+		"Pre-requisites": [
+			"Rational Mechanics",
+			"Differential equations",
+			"Mathematical Analysis I and Geometry"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 2,
+		"Course Title": "Thermodynamics and Heat transfer",
+		"ID": "097302",
+		"ECTS": 6,
+		"Semester": "Spring",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=097302&aa=2022&k_cf=1&k_corso_la=503&ac_ins=0&k_indir=OAE&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=2&idItemOfferta=158543&idRiga=279273&codDescr=097302",
+		"Learning outcomes": [
+			"This one or Project Management: Principles and Tools to get 6 credits"
+		],
+		"Description": [
+			"Fundamentals of thermodynamics (I and II Law, ideal gases, phase transitions, phase diagrams). ",
+			"Motion of fluids." ,
+			"Outline of power generation cycles and refrigeration machines. ",
+			"Humid air and conditioning. ",
+			"Introduction to the physics of the atmosphere: columns of air. ",
+			"Heat transmission (one-way conduction in stationary regime, natural and forced convection, radiation, solar radiation)."
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Structural Design",
+		"ID": "057994",
+		"ECTS": 12,
+		"Semester": "Annual",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=057994&lang=EN&semestre=3&anno_corso=3&idItemOfferta=163078&idRiga=291808",
+		"Learning outcomes": [
+
+		],
+		"Description": [
+			"ELASTIC STRUCTURAL ANALYSIS. ",
+			"Beam model. ",
+			"Calculation of displacements of isostatic structures (PVW).",
+			"Force method: hyperstatic beams.",
+			"Analysis of plane and spatial frames.",
+			"Frames with fixed nodes.",
+			"Mixed method: general procedure.",
+			"Influence of shear deformations.",
+			"Method of displacements: sway (or unbraced) frames.",
+			"Calculation of internal actions in the presence of elastic and inelastic settlements, and thermal and kinematic distortions.",
+			"The second order theory of beam. ",
+			"Buckling of beams under bending. The foundation beam: beam on elastic ground. ",
+			"Cylindrical tank.",
+			"VERIFICATION OF STRUCTURAL SAFETY." ,
+			"Structural safety criteria. ",
+			"Calculation model. ",
+			"Semi-probabilistic method at the limit states. ",
+			"Load analysis and calculation.",
+			"STEEL STRUCTURES. ",
+			"Material and construction system. ",
+			"Steel elements. ",
+			"Steel trusses. ",
+			"Buckling of steel columns. ",
+			"The connections: bolted, frictional, and welded joints. ",
+			"Steel structure examples.",
+			"REINFORCED CONCRETE STRUCTURES. ",
+			"Mechanical and physical properties of concrete." ,
+			"Introduction on linear viscosity: elementary rheological models and structural effects of viscosity. ",
+			"Sectional analysis of reinforced concrete: hypothesis and calculation. ",
+			"Reinforced concrete column. ",
+			"Circular column and shrinkage and creep effect. ",
+			"Cracking and its verification. ",
+			"Bending: elastic and failure calculation. ",
+			"Moment –curvature diagrams. ",
+			"Minimal reinforcement and biaxial bending. ",
+			"Shear: the Mörsh’s isostatic truss and the variable angle truss model. ",
+			"Translation of the bending moments. ",
+			"Strut and tie models. ",
+			"Bending and compression: sectional elastic calculation and ultimate capacity. ",
+			"Strength verification of columns with bending: the model column method. ",
+			"Torsion: calculation models for reinforced concrete beams and interaction problems.",
+			"PRESTRESSED CONCRETE STRUCTURES ",
+			"The prestress action for concrete sections. ",
+			"The calculation of prestress losses. ",
+			"Limit points and Guyon’s fuse. ",
+			"Verifications in the construction phase, at the service limit state and at the ultimate limit state."
+		],
+		"Pre-requisites": [
+			"Structural Mechanics",
+			"Rational Mechanics"
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Geotechnics",
+		"ID": "058101",
+		"ECTS": 10,
+		"Semester": "Fall",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=058101&lang=EN&semestre=1&anno_corso=3&idItemOfferta=163079&idRiga=291949",
+		"Learning outcomes": [
+			"The first objective of the guided project is to allow the students divided in small parties - to increase their design capabilities in the broad area of foundations (retaining structures and foundations). ",
+			"As far as possible, the focus will be on the interdisciplinary aspects. ",
+			"At the same time, the students are offered the opportunity to work within the ongoing experimental and numerical projects concerning the building materials and their structures, the soils, the fluids and the pavements. ",
+			"The students are then required to outline and develop design-oriented cases, including a report with the calculations and the basic drawings. ",
+			"One of these cases may the starting point of the project to be defended during the final examination."
+		],
+		"Description": [
+			"Formation and classification of soils", 
+			"effective stress principle. ",
+			"Equations of equilibrium", 
+			"compatibility", 
+			"stress-strain and continuity of water flow." ,
+			"Incremental form of the constitutive law for soils. ",
+			"Seepage forces. ",
+			"Darcy's law. ",
+			"Flow net", 
+			"critical hydraulic gradient", 
+			"safety against piping and heave. ",
+			"Normal consolidation and overconsolidation", 
+			"equation of one dimensional consolidation", 
+			"its exact solution in oedometric conditions", 
+			"experimental determination of the coefficient of consolidation", 
+			"secondary consolidation. ",
+			"Triaxial apparatus", 
+			"stress path concept", 
+			"drained and undrained tests for sand", 
+			"normally consolidated and overconsolidated clay; ",
+			"critical state line; ",
+			"Cam Clay model. ",
+			"Applications."
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Hydraulic engineering",
+		"ID": "057999",
+		"ECTS": 10,
+		"Semester": "Annual",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=057999&lang=EN&semestre=1&anno_corso=3&idItemOfferta=163080&idRiga=291811",
+		"Learning outcomes": [
+			"To increase their design capabilities in the broad area hydraulic engineering (waterworks and sewerage systems).", 
+			"the students are offered the opportunity to work within the ongoing experimental and numerical projects concerning the building materials and their structures, the soils, the fluids and the pavements. ",
+			"The students are then required to outline and develop design-oriented cases, including a report with the calculations and the basic drawings. "
+		],
+		"Description": [
+			"Channels and pipes: design and verification in uniform and steady flow; ",
+			"constructive aspects;" ,
+			"composite section channels." ,
+			"Dams and barrages: types and regulations;" ,
+			"overview on dam statics; ",
+			"intakes, outlets, spillways and energy dissipation structures. ",
+			"Storage tanks: types", 
+			"optimal peak discharge reduction", 
+			"regulators", 
+			"floodplain." ,
+			"Reservoirs: capacity for given complete regulation or regulation with deficit or overflow;" ,
+			"feasible regulations for given capacity. ",
+			"Water supply: ",
+			"demands; ",
+			"conveyance networks;" ,
+			"dendritic and looped networks;" ,
+			"distribution networks;" ,
+			"pumping stations; ",
+			"water hammer phenomena and reduction",
+			"Hydrology: ",
+			"rainfall and discharge;" ,
+			"return period; ",
+			"depth-duration-frequency curves; ",
+			"flow-depth curves; ",
+			"hydrological losses;" ,
+			"superposition;" ,
+			"flood events; ",
+			"reservoir and concentration methods; ",
+			"critical event." ,
+			"Sewers: types; ",
+			"dry weather and runoff flow;" ,
+			"rational method; ",
+			"overview on detailed models;" ,
+			"hydraulic calculations of sewers", 
+			"overflow structures and storage tanks; ",
+			"materials."
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Construction of Roads, Railways and Airports",
+		"ID": "058001",
+		"ECTS": 10,
+		"Semester": "Spring",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAE&codDescr=058001&lang=EN&semestre=2&anno_corso=3&idItemOfferta=163081&idRiga=291813",
+		"Learning outcomes": [
+
+		],
+		"Description": [
+			"History and development of transportation infrastructures." ,
+			"Technical and technological evolution of terrestrial and airborne transportation networks." ,
+			"Fundamentals of mechanics for road and rail vehicles. ",
+			"Elements of aerodynamics and flight mechanics. ",
+			"Traffic and capacity indexes for transportation infrastructures. ",
+			"National and international normative reference. ",
+			"Elements of road and railway layout design." ,
+			"Airport master plans. ",
+			"Soil works. ",
+			"Criteria to choose and design road and airport pavements." ,
+			"Rail track calculation. Road and rail tunnels."
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Principles of economics, cost and estimating engineering",
+		"ID": "052338",
+		"ECTS": 5,
+		"Semester": "Spring",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAI&codDescr=052338&lang=EN&semestre=2&anno_corso=3&idItemOfferta=163089&idRiga=291827",
+		"Learning outcomes": [
+
+		],
+		"Description": [
+			"principles of financial mathematics",
+			"value estimation and estimation methodology",
+			"estimation of surface",
+			"siting costs", 
+			"urbanisation costs",
+			"analysis of city constraints",
+			"obligations", 
+			"usufruct", 
+			"land laws", 
+			"expropriation for public use",
+			"overview of the Italian cadastre",
+			"economic and fiscal aspects",
+			"economic assessment of plans",
+			"cost/benefit analysis", 
+			"value analysis", 
+			"economic planning and project management",
+			"legal framework for public and private contracts",
+			"managing plans",
+			"planning", 
+			"programming", 
+			"organizing contests", 
+			"managing contracts", 
+			"following costs"
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Learning from the past: Success and failures in civil engineering",
+		"ID": "052520",
+		"ECTS": 3,
+		"Semester": "Spring",
+		"URL": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=1&k_corso_la=503&k_indir=OAI&codDescr=052520&lang=EN&semestre=2&anno_corso=3&idItemOfferta=163091&idRiga=291833",
+		"Learning outcomes": [
+			"These short seminars intend to recall some problems, discoveries, technical choices and theoretical solutions that students encounter during their studies. A connection between curricular contents and contexts in which they have been developed, may contribute to understanding their role in the development of Engineering and may stimulate students to a broader vision of the culture of the Engineer."
+		],
+		"Description": [
+			"science and technology", 
+			"empiricism and rational logic", 
+			"simple intuitions and rigorous mathematical formulations", 
+			"successes and failures have crossed and stimulated each other"
+			
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree": "Bachelor",
+		"Year": 3,
+		"Course Title": "Elective course",
+		"ID": "",
+		"ECTS": 12,
+		"Semester": "Spring",
+		"URL": "",
+		"Learning outcomes": [
+			"Environmental engineering - 058004",
+			"Project Management: Principles and Tools - 056798",
+			"Durability of materials and repair technologies of structures - 088502",
+			"Electrical engineering - 088508",
+			"Construction of infrastructure facilities - 088510"
+		],
+		"Description": [
+			"Each is 6 credits"
+		],
+		"Pre-requisites": [
+
+		]
+	}
+]

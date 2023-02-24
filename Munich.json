@@ -1,0 +1,796 @@
+[
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Technical Mechanics I for civil engineers",
+		"ID":"BGU43020T2",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1554649&pOrgNr=1",
+		"Learning outcomes":[
+			"After successfully completing the module, students can check the concepts of forces and moments, degrees of freedom, constraints and supports in their engineering practice.",
+			"They distinguish between the fundamentals of the working principles of mechanics and can determine the classic balance of forces for given problems.",
+			"The participants are able to determine support and internal forces on statically determinate and indeterminate beam systems using the balance of forces, virtual work and differential relationships.",
+			"You can apply the theory of multiaxial stress states (stresses on any sections, rotation of the coordinate systems).",
+			"Furthermore, the students are able to apply the idealizations and model concepts used to calculate the internal forces of rod-shaped components and to calculate and analyze the resulting normal stresses and deformations.",
+			"The students understand the connection between equilibrium, kinematics and constitutive law and can thus evaluate these systems.",
+			"Furthermore, the students can confidently apply the concepts of technical beam bending theory."
+		],
+		"Description":[
+			"Degrees of freedom of movement of plane and spatial systems, kinematic dependencies",
+			"Spatial, flat, linear and discrete forces and their resultant",
+			"Individual forces and moments",
+			"Moments of area",
+			"Center of gravity",
+			"Concept of equilibrium",
+			"Principle of virtual work",
+			"Principle of section",
+			"Support reactions and internal forces of statically determined systems",
+			"balance of forces and the principle of virtual displacements (trusses, beams, arched structures)",
+			"liability and friction",
+			"Stability problems of rigid beams",
+			"Second-order theory of rigid beams",
+			"Multiaxial stress states (Mohr's stress circle)",
+			"Stress hypotheses for multiaxial stress states",
+			"Elasticity law",
+			"Tension and compression",
+			"Working considerations on the normal force beam",
+			"Composite cross-sections and inhomogeneous cross -sections",
+			"Nonlinear material behavior", 
+			"elastic-plastic behavior",
+			"Normal stresses and deformations from beam bending"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Design and Construction I",
+		"ID":"BGU51043",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1542517&pOrgNr=1",
+		"Learning outcomes":[
+			"The students have the ability to evaluate, develop and argue holistic construction solutions in the building industry.",
+			"After the course, the students are able to know and understand the essential (protection) goals and requirements in the context of construction and have an overview of the interaction of the different subject areas.",
+			"The students can precisely reproduce important terms and principles and thus have the basics to train their communication and presentation skills in the context of construction.",
+			"The students are able to abstract reality using the modeling method and know and understand models for load determination, for load-bearing systems and for describing the behavior of structures.",
+			"In addition, the students know and understand the essential functional principles of a design in civil engineering."
+		],
+		"Description":[
+			"knowing possible classification and order structures as well as the interdisciplinary range of requirements of construction",
+			"being aware of your responsibility as an engineer",
+			"understanding the engineering method of modelling",
+			"essential functional principles of a construction",
+			"The principle of carrying and the flow of forces (conduction of force, deformation, tension, systems)",
+			"The principle of durability (loads/attacks, effects, wind, snow, precipitation, climate)",
+			"The thermo-hygric function of components (wind, water , heat, humidity)",
+			"The essential function of the fire (fire protection, fire, protection goals, safety, combustibility)",
+			"The principle of noise protection (airborne and structure-borne noise, transmission)"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Computation in Civil and Environmental Engineering I",
+		"ID": "BGU65011",
+		"ECTS": 5,
+		"Semester": "Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=en&pKnotenNr=1541917&pOrgNr=1",
+		"Learning outcomes":[
+			"utilize the basics of computational engineering",
+			"generate 2D- and 3D- Models using a CAD-System",
+			"read and create technical drawings conforming to standards",
+			"asses pros and cons of computer based descriptions of geometric models",
+			"apply spread sheet programs to engineering problems",
+			"choose from basic solution algorithms",
+			"reproduce basics of databases and create queries to common database systems",
+			"understand elementary basics and theoretical concepts of computer aided engineering",
+			"formulate those algorithms in a programming language (e.g. MATLAB) and combine them with suitable software"
+		],
+		"Description":[
+			"Computer Aided Design / BIM",
+			"basic geometric models: wireframe-, surface-, volume models",
+			"CAD: computer aided design",
+			"information models for buildings and infrastructure",
+			"Spread sheets",
+			"application of spread sheets in engineering",
+			"Databases",
+			"Database theory and application",
+			"Introduction to SQL",
+			"basics of software development",
+			"structured programming",
+			"software development using MatLAB",
+			"basic programming structures, data types, functions"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title": "Mathematics I",
+		"ID": "MA9521",
+		"ECTS": 10,
+		"Semester": "Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1605911&pOrgNr=1",
+		"Learning outcomes":[
+			"The students are able to apply essential basic concepts of linear algebra and analytical geometry as well as analysis to questions from civil and environmental engineering and to correctly interpret the results obtained.",
+			"In particular, they can understand and apply the concepts of sets, numbers, vectors, matrices, determinants and functions.",
+			"They are able to calculate with vectors and use them to solve problems from analytical geometry, to solve systems of linear equations and linear adjustment problems, to determine eigenvalues ​​and eigenvectors of matrices and to apply the methods they have learned.",
+			"Furthermore, the students master the differential and integral calculus for functions of a real variable."
+		],
+		"Description":[
+			"Sets", 
+			"numbers", 
+			"functions", 
+			"vector calculus and analytical geometry", 
+			"matrix algebra", 
+			"determinants", 
+			"systems of linear algebraic equations", 
+			"least squares data fitting", 
+			"eigenvalues of matrices", 
+			"differential and integral calculus for scalar functions of a single real variable", 
+			"Fourier series."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Materials in Civil Engineering",
+		"ID":"BGU35018T2",
+		"ECTS":10,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1546698&pOrgNr=1",
+		"Learning outcomes":[
+			"The students are able to define the requirements for the materials according to their intended use, to evaluate them economically and ecologically, to predict the effects of corrosion or aging and to use them appropriately through an appropriate selection that is appropriate to the exposure.",
+			"You can independently check the most important properties of materials used in construction in an action-oriented material test.", 
+			"You can use the test results to evaluate materials with a view to a specific requirement profile (e.g. with a view to usage, failure and durability behavior).",
+			"They are also able to explain the basic chemical processes associated with the manufacture and use of building materials."
+		],
+		"Description":[
+			"Structural provisions",
+			"Construction and structure of the materials",
+			"Deformation variables",
+			"Strength parameters",
+			"Metrology, length measurement, force measurement,...)",
+			"Descriptive statistics",
+			"Steel (metallurgical basics, performance properties, steel corrosion, non-ferrous metals)",
+			"wood (construction, structure, material characteristics, sorting characteristics, durability, wood protection)",
+			"plastics (construction, structure, types of plastic, material characteristics, areas of application)",
+			"bitumen/asphalt (manufacture, types, material area calculation asphalt)",
+			"Aggregates (quality requirements, grain composition, grading curve)",
+			"Cement, mineral binders (cement production, hydration, cement properties)",
+			"Concrete (concrete raw materials, concrete design, fresh concrete properties (rheology), hardened concrete properties, special concretes, durability, concreting process)",
+			"Masonry (natural and artificially produced stones, Masonry mortar, types of masonry, load-bearing and deformation behavior of masonry, plaster)"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Mathematics II",
+		"ID":"MA9522",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1605912&pOrgNr=1",
+		"Learning outcomes":[
+			"After successfully completing this module, students are able to apply advanced methods of analysis, particularly to questions from civil and environmental engineering, and to correctly interpret the results obtained.",
+			"They also have the basic skills to deal with mathematical problems in civil and environmental engineering."
+		],
+		"Description":[
+			"Differential and integral calculus for multivariable functions", 
+			"domain curves and surface integrals",
+			"the integral theorems of Green", 
+			"Gauss and Stokes", 
+			"implicitly defined functions", 
+			"extremal problems", 
+			"ordinary differential equations", 
+			"linear differential equations", 
+			"boundary and initial value problems."
+		],
+		"Pre-requisites":[
+			"Mathematics I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Technical Mechanics II for civil engineers",
+		"ID":"BGU43021",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=en&pKnotenNr=1554647&pOrgNr=1",
+		"Learning outcomes":[
+			"After successfully completing the module, the students have an in-depth understanding of the idealizations and model concepts used in the calculation of stresses and deformations of rod-shaped components.",
+			"Specifically, this means that they can analyze components in relation to the second-order theory and carry out buckling load calculations according to the stability theory.",
+			"Furthermore, they can analyze and evaluate the virtual work performed or the strain energy performed by such systems.",
+			"The stresses according to St. Venant's torsion theory, the shear stresses due to shear forces and the position of the shear center can be calculated with ease.",
+			"After completing the module, the students are able to determine stress states in structures and determine deformations.",
+			"The students can analyze dynamic processes using the model of the single-mass oscillator.",
+			"The module conveys the competence to recognize the limits of the commonly used models in order to be able to classify them before choosing appropriate methods."
+		],
+		"Description":[
+			"Second-order theory and stability problems of elastic bending beams",
+			"Virtual work and deformation energy on elastic bending beams",
+			"Shear stress due to bending, shear center",
+			"Torsion (torsion)",
+			"Introduction to the dynamics of free and harmonically excited, undamped single-mass oscillators"
+		],
+		"Pre-requisites":[
+			"Mathematics I",
+			"Technical Mechanics I for civil engineers"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Computation in Civil and Environmental Engineering II",
+		"ID":"BGU44019",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1541911&pOrgNr=1",
+		"Learning outcomes":[
+			"understand the time complexity of algorithms",
+			"use lists and their sorting in their own programs",
+			"apply the basics of graph theory",
+			"determine the shortest paths through a graph",
+			"affine transformations in 2D and 3D to be determined",
+			",o use form functions for the parametric description of curves",
+			"to implement algorithms for solving engineering problems using a programming language"
+		],
+		"Description":[
+			"Techniques, methods, models and processes of building and environmental informatics",
+			"Linear transformations in 2D and 3D",
+			"Time complexity of algorithms",
+			"Sorting algorithms (e.g. bubble sort, sorting by mixing)",
+			"Geometrical algorithms: description of curved curves using shape functions",
+			"Tracing problems with clothoids and circular arcs",
+			"Calculation of moments of surfaces with curvilinear borders",
+			"Basics of graph theory, algebraic operations on relations and graphs",
+			"Applications for engineering problems (e.g.: shortest path search using Dijkstra's algorithm)",
+			"(linked, unlinked) lists",
+			"Programming of selected algorithms in MATLAB"
+		],
+		"Pre-requisites":[
+			"Computation in Civil and Environmental Engineering I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":1,
+		"Course Title":"Design and Construction II",
+		"ID":"BGU51044",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=en&pKnotenNr=1542520&pOrgNr=1",
+		"Learning outcomes":[
+			"The aim of the structural training is that the students have the ability to evaluate, develop and argue holistic construction solutions in the building industry.",
+			"After the course, the students are able to transfer essential (protection) goals and requirements to a specific task and to clarify a task.", 
+			"The students have the ability to communicate in a team and in the form of sketches, plans, presentations and technical reports and to express their ideas and thoughts. ",
+			"They are able to analyze constructive problems in a team and to go through the design process using a simplified example, to analyze essential functional principles of a construction and to develop a real solution.",
+			"Due to the processing of the project work, the students are able to develop a basic solution for a constructive problem and can develop and execute this in a simple context up to the finished construction.",
+			"Through the presentation, the students learn to argue for their solution and, based on the large number of solutions, that there is no objectively best solution.",
+			"In addition, the students learn time management, abstraction skills, diligence and teamwork as part of the project."
+		],
+		"Description":[
+			"Spatial imagination",
+			"Representation skills, graphic communication skills (freehand drawings, sketches, drawings, representation in plans and 3D models)",
+			"Linguistic and content-related communication skills (presentation, argumentation of own ideas, preparation of a technical report)",
+			"Historical and thematic context reference (analysis of existing and own Constructions with regard to the essential functional principles)",
+			"Development of a basic solution",
+			"Development of a simple building structure"
+		],
+		"Pre-requisites":[
+			"Design and Construction I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Statics I",
+		"ID":"BGU32030",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1605683&pOrgNr=1",
+		"Learning outcomes":[
+			"After participating in the module event, the students are able to assess complex structures from a static and mechanical point of view due to their well-founded theoretical knowledge.",
+			"The students understand how to determine internal forces and deformations of plane bar structures using the engineering calculation methods taught."
+		],
+		"Description":[
+			"Basics of statics",
+			"Structural assessment",
+			"Behavior of kinematic systems",
+			"Member theory",
+			"Calculation of internal forces and deformations of statically determined structures.",
+			"Calculation of statically indeterminate structures with the force magnitude method."
+
+		],
+		"Pre-requisites":[
+			"Technical Mechanics I for civil engineers",
+			"Technical Mechanics II for civil engineers",
+			"Mathematics I",
+			"Mathematics II"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Stochastics and Risks",
+		"ID":"BGU60022",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1557970&pOrgNr=1",
+		"Learning outcomes":[
+			"Understand the basic concepts of probability theory.",
+			"Assess when a probabilistic approach is necessary.",
+			"Perform simple data analysis (statistics).",
+			"Identify loads and effects on structures",
+			"Carry out simple reliability calculations of structures.",
+			"To use the principle of safety factors and their calibration",
+			"To calculate the reliability of simple systems.",
+			"Solve simple decision problems.",
+			"Outline a risk analysis."
+		],
+		"Description":[
+			"Introduction",
+			"Monte Carlo Simulation",
+			"Probability Theory",
+			"Random Variables (Discrete)",
+			"Random Variables (Continuous)",
+			"Maximum Likelihood",
+			"Bayes Theorem",
+			"Linear Gaussian Models",
+			"Basic Principles Regression / Machine Learning",
+			"Reliability (Structural)",
+			"Reliability (Systems)",
+			"Extreme Value Statistics",
+			"Extreme Value Theory",
+			"Risk Assessment",
+			"Security",
+			"Propagation of Uncertainty"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Building Physics, Basic module",
+		"ID":"BV000011",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=487559&pOrgNr=1",
+		"Learning outcomes":[
+			"After participating in the module, the students are able to understand and calculate building physics phenomena.",
+			"Furthermore, simple problems for the construction industry in the areas of heat theory, moisture protection, sound insulation, lighting technology, indoor climate, fire protection and the urban microclimate can be recognized and solved."
+		],
+		"Description":[
+			"Basics of heat conduction, heat convection and heat radiation",
+			"Thermal behavior of rooms and external components",
+			"Energy balances",
+			"Thermal bridges",
+			"Transient heat conduction in components, mechanism of heat storage",
+			"Thermal insulation materials and systems in comparison",
+			"Summer heat protection Humidity",
+			"Relative humidity",
+			"Water vapor content of the air, Water vapor partial pressure, dew temperature, diffusion resistance, liquid flow",
+			"moisture transport through diffusion, capillary pressure and flowing air",
+			"avoidance of surface condensation water",
+			"Glaser method",
+			"basic acoustic concepts",
+			"room acoustics",
+			"Airborne and footfall sound insulation",
+			"Acoustic phenomena",
+			"Road traffic noise",
+			"Installation noise",
+			"Sun and sky, position of the sun, duration of tanning",
+			"Basic lighting terms",
+			"Daylight quotient, illuminance distribution in rooms",
+			"Basics of heat physiology",
+			"Thermal comfort",
+			"Fire protection planning",
+			"Fire protection goals",
+			"Fire progression ETK",
+			"Classification of building materials and components",
+			"Climate-friendly building",
+			"Urban energy balance and emissions",
+			"Building aerodynamics"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Hydromechanics",
+		"ID":"BGU41023",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=en&pKnotenNr=1548528&pOrgNr=1",
+		"Learning outcomes":[
+			"name the elementary terms of hydromechanics and fluid properties",
+			"understand the fundamental equations of the conservation of mass and momentum for incompressible flows (Navier-Stokes equations)",
+			"apply the basic kinematic concepts and tensor calculations",
+			"compute pressure and forces in hydrostatic systems",
+			"analyze complex flows applying the principal of linear momentum and Bernoulli's equation within an engineering context",
+			"compute the flow rate as well as major and minor losses in pipeline system"
+		],
+		"Description":[
+			"Fundamental terms of hydromechanics and fluid properties",
+			"Hydrostatics",
+			"Kinematics of continua",
+			"Kinetics of continua",
+			"Bernoulli's equation",
+			"Steady pipe flow"
+		],
+		"Pre-requisites":[
+			"Technical Mechanics I for civil engineers",
+			"Technical Mechanics II for civil engineers",
+			"Mathematics I",
+			"Mathematics II"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Fundamentals of Processoriented Planning and Organisation",
+		"ID":"BGU55027",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/wbModHb.wbShow?$ctx=design=ca2;header=max;lang=de&pOrgNr=1",
+		"Learning outcomes":[
+			"Having successfully completed the module the students will have understood the given learning content and will be able to apply and develop this further.",
+			"Therewith, they know to analyze and evaluate applicable situations and solve respective problems when later professionally working."
+		],
+		"Description":[
+			"Real Estate as object of investment",
+			"utilization and operation",
+			"infrastructure objects",
+			"phases of Real Estate Development, permission processes",
+			"cadaster",
+			"sustainability",
+			"Real Estate as physi-cal object: Standards DIN276/DIN277",
+			"procedural, descriptive, object oriented and process ori-ented models of planning",
+			"design and organization planning",
+			"realization processes, service, service of planning, HOAI, AHO",
+			"Real Estate and Construction markets",
+			"entrepreneurship, con-struction markets, division of work, participants, interfaces",
+			"theory of planning and organization",
+			"Theory of Graphs, fundamental structures; systems theory",
+			"locality and emergence",
+			"planning of production processes; sequences and dates",
+			"function of production",
+			"representations",
+			"algorithm of Ford",
+			"determination of ranks/dates",
+			"controlling processes",
+			"cybernetics",
+			"processes",
+			"controlling and production processes",
+			"network analysis",
+			"stakeholder analysis, linear cross-impact-analysis and higher order"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Mathematics III",
+		"ID":"MA9523",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/wbModHb.wbShow?$ctx=design=ca2;header=max;lang=de&pOrgNr=1",
+		"Learning outcomes":[
+			"After successful participation in this module, the students are able to apply basic concepts and advanced concepts of numerical mathematics, in particular to questions from civil and environmental engineering, and to correctly interpret the results obtained.",
+			"They also have the basic skills to deal with mathematical problems in civil and environmental engineering."
+		],
+		"Description":[
+			"Error analysis and problem condition",
+			"numerics of linear systems of equations",
+			"numerics of nonlinear systems of equations",
+			"nonlinear optimization",
+			"numerical interpolation",
+			"numerical integration",
+			"initial value problems of ordinary differential equations, especially one-step and multi-step methods",
+			"boundary value problems of ordinary differential equations",
+			"partial differential equations, especially finite difference method",
+			"computation of eigenvalues"
+		],
+		"Pre-requisites":[
+			"Mathematics I",
+			"Mathematics II"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Statics II",
+		"ID":"BGU32031T2",
+		"ECTS":10,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx;design=ca2;header=max;lang=de/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca;lang=en&pKnotenNr=1612979&pOrgNr=1",
+		"Learning outcomes":[
+			"After attending this module, the students are able to assess the load bearing behavior of structures in the linear range.",
+			"Herein they are able to calculate internal forces and deformations of two and three dimensional structures consisting of beams as well as plates.",
+			"The students are able to develop their own calculation algorithms and are able to use existing ones.",
+			"By a structured application of the direct stiffness method, the basis for the finite element method is set."
+		],
+		"Description":[
+			"Influence functions for forces and displacements.",
+			"Generalized direct stiffness method and its systematization.",
+			"Symmetry and antisymmetry.",
+			"Coupling of degrees of freedom (kinematic coupling).",
+			"Spatial beam structures.",
+			"Introduction to the calculation of thin plates.",
+			"Calculation of load-cases with constraining forces.",
+			"Consideration of construction stages.",
+			"Sensitivityanalysis.",
+			"Bernoulli and Timoshenko beam theory.",
+			"Development of a program for two dimensional beam structures using spreadsheets.",
+			"Elastically supported beam."
+		],
+		"Pre-requisites":[
+			"Technical Mechanics I for civil engineers",
+			"Technical Mechanics II for civil engineers",
+			"Mathematics I",
+			"Mathematics II",
+			"Statics I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Surveying for Civil Engineers",
+		"ID":"BGU53051",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1545920&pOrgNr=1",
+		"Learning outcomes":[
+			"After participating in the module events, the student is able to understand the structure and functionality of geodetic measuring instruments and to apply and evaluate basic geodetic observation methods.",
+			"The students understand the basic concepts of surveying activities in the construction sector (reference systems, simple point determination, height measurement methods). ",
+			"Furthermore, the students understand the most important influences on measurement processes that reduce accuracy and how to eliminate them, they can evaluate basic geodata and analyze planning.",
+			"On the basis of the practical parts, the students are able to use simple geodetic instruments and implement the measurement techniques they have learned in order to work on a task (a project)."
+		],
+		"Description":[
+			"Instrument knowledge: Theodolite, EDM, tachymeter, laser scanner, level, GNSS receiver",
+			"Observation methods: Angle measurement, distance measurement, height measurement, satellite-based position determination, baseline measurement",
+			"Basics: Earth figure, reference systems, projections, coordinates, official geo base data, simple calculation methods for coordinates and areas - and volume determination, height calculation, routing, error calculation",
+			"Application of the learned procedures in the processing of a project (HVÜ)"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Concrete and Masonry Structures Basic Module",
+		"ID":"BV000018",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "",
+		"Learning outcomes":[
+			"Understand the material behaviour of concrete and steel and their composite action in reinforced concrete.",
+			"Analyse the capacity of reinforced concrete members.",
+			"Understand the background and development of safety theory with partial safety factors",
+			"Apply the basic principles for flexure and shear design at the Ultimate Limit State according to DIN EN 1992-1-1",
+			"Apply the basic principles for design checks at the Serviceability Limit State according to DIN EN 1992-1-1",
+			"Understand the basic behaviour of masonry and apply the relevant design criteria according to DIN EN 1996"
+		],
+		"Description":[
+			"Reinforced concrete design (according to DIN EN 1992-1-1):Introduction, development, Fundamentals",
+			"Safety theory",
+			"Ultimate limit state: bending with and without axial force",
+			"Ultimate limit state: members with and without required shear reinforcement",
+			"Tension force consideration",
+			"Serviceability limit state",
+			"Anchorage of longitudinal reinforcement",
+			"Construction",
+			"Masonry design: Fundamentals",
+			"Design of masonry according to DIN EN 1996"
+		],
+		"Pre-requisites":[
+			"Technical Mechanics I for civil engineers",
+			"Technical Mechanics II for civil engineers",
+			"Statics I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Research Methods for Engineers",
+		"ID":"ED150003",
+		"ECTS":2,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx;design=ca2;header=max;lang=de/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca;lang=en&pKnotenNr=3033486&pOrgNr=1",
+		"Learning outcomes":[
+			"understand the principles of scientific work and scientific methods",
+			"conduct literature research on a scientific topic independently",
+			"explain the structure of a literature review chapter",
+			"describe selected scientific methods of quantitative and qualitative engineering research."
+		],
+		"Description":[
+			"Interdiciplinary qualification, in total 5 credits needed, this course counts to this category -> another 3 credit course is needed, this course is not compulsory",
+			"Foundations of scientific work: We will discuss what makes research good research and how high-quality research in engineering is conceptualized, conducted and presented.",
+			"Scientific Methods: Because research in engineering covers many different subfields, research design varies widely. Therefore, research methods, such as statistical analysis, experiments, interviews, and case studies, are presented and their strengths and weaknesses are discussed.",
+			"Literature review: Practical exercises to find relevant literature will be conducted, the importance of literature review will be discussed and the structure of a good chapter on the state of the art is presented."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Design and Construction III",
+		"ID":"BGU51045",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca2;header=max;lang=de&pKnotenNr=1542527&pOrgNr=1",
+		"Learning outcomes":[
+			"The aim of the structural training is that the students have the ability to evaluate, develop and argue holistic construction solutions in the building industry.",
+			"After the course, the students are able to analyze and differentiate to what extent the essential (protection) goals and requirements as well as the essential functions of a building construction (building material, component, detail) are fulfilled and can accordingly develop their own flat component solutions.",
+			"The students can understand and calculate the vertical and horizontal flow of forces in buildings (function of load-bearing). The students are able to use and master models in the context of the design process.",
+			"In addition, the students know and understand the basic procedure and the boundary conditions of the realization of buildings and the design process in practice.",
+			"In addition, the students learn time management, abstraction skills, diligence and teamwork as part of the project."
+		],
+		"Description":[
+			"Analysis of building materials and component layers (functional principles, geometry and position)",
+			"Analysis and design of the building construction or components (requirements, performance, component catalogue)",
+			"Analysis of the flow of forces within the framework of structural planning (static calculation)",
+			"Analysis of standard details"
+		],
+		"Pre-requisites":[
+			"Design and Construction I",
+			"Design and Construction II",
+			"Building Physics, Basic module",
+			"Statics I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Soil Mechanics and Foundation Engineering Basic Module",
+		"ID":"BV000019",
+		"ECTS":5,
+		"Semester":"Spring",
+		"URL": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx;design=ca2;header=max;lang=de/WBMODHB.wbShowMHBReadOnly?$ctx=design=ca;lang=en&pKnotenNr=478717&pOrgNr=1",
+		"Learning outcomes":[
+			"remember basic soil properties",
+			"describe laboratory tests for extraction of soil properties",
+			"understand processes of consolidation in soil.",
+			"apply calculation methods for processes of water flow in soil.",
+			"design groundwater control systems.",
+			"analyze stress states with the help of Mohr’s circle",
+			"evaluate deformation of soil due to propagation of stress.",
+			"evaluate the essential strength properties of soil."
+		],
+		"Description":[
+			"Formation and composition of rock",
+			"Fundamental properties of subsoil",
+			"Subsoil investigation, subsoil description, modelling",
+			"Classification of soil",
+			"Soil as a construction material",
+			"Groundwater (groundwater flow, groundwater lowering)",
+			"Deformation of subsoil (propagation of stresses, settlement, consolidation)",
+			"Shear strength",
+			"Fundamentals of geotechnical design and construction",
+			"Earth pressure"
+		],
+		"Pre-requisites":[
+			"Technical Mechanics I for civil engineers",
+			"Technical Mechanics II for civil engineers",
+			"Mathematics I",
+			"Mathematics II"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Elective modules Profile 1: Construction",
+		"ID":"",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+			"Timber Structures Basic Module - BGU510476",
+			"Introduction to Steel Construction - BGU42017"	
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Elective modules Profile 2: Water",
+		"ID":"",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+			"Sanitary Engineering and Water Quality Basic Module - BGU38016",
+			"Hydraulic and Water Resources Engineering Basic Module - BV000030"	
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Elective modules Profile 3: Traffic",
+		"ID":"",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+			"Traffic Engineering and Transport Planning Basic Module - BV000029",
+			"Road, Railway and Airfield Construction Basic Module - BGU34023"	
+		],
+		"Description":[
+			"10 credits per chosen profile + 5 credits in each of the other profiles = 20 credits"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Elective Modules",
+		"ID":"",
+		"ECTS": 25,
+		"Semester":"",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Bachelor Thesis",
+		"ID":"",
+		"ECTS": 10,
+		"Semester":"Spring",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	}
+]
