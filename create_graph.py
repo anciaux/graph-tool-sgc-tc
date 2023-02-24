@@ -4,13 +4,17 @@ import graphviz
 ################################################################
 
 
-def create_year_graph(title):
-    return graphviz.Digraph(name=title, body=["graph[style=bold];"])
+def create_year_graph(year):
+    title = f'Year{year}'
+    print(title)
+    return graphviz.Digraph(
+        name='cluster_'+title,
+        body=[f'graph[style=bold];label="{title}";'])
 
 
-def create_graph(content, infos=['ID', 'Degree', 'Year', 'ECTS', "Semester"]):
-    years = [create_year_graph('cluster_year1'), create_year_graph(
-        'cluster_year2'), create_year_graph('cluster_year3')]
+def create_graph(content, infos=['ID', 'Degree', 'Year', "Semester"],
+                 show_prereq=True):
+    years = [create_year_graph(i) for i in range(1, 4)]
 
     courses = set()
 
@@ -20,7 +24,11 @@ def create_graph(content, infos=['ID', 'Degree', 'Year', 'ECTS', "Semester"]):
             raise RuntimeError(f'class {title} already registered')
         courses.add(title)
         year = e['Year']
-        label = '{' + title + '|'
+        label = '{' + title
+
+        if infos:
+            label += '|'
+
         for _i in infos:
             if _i in e:
                 label += '\\n' + str(_i) + ': ' + str(e[_i])
@@ -29,9 +37,8 @@ def create_graph(content, infos=['ID', 'Degree', 'Year', 'ECTS', "Semester"]):
         dot = years[year-1]
         dot.node(title, label=label, URL=e['URL'])
         prereq = e["Pre-requisites"]
-        if prereq:
+        if prereq and show_prereq:
             for p in prereq:
-                print(title, p)
                 dot.edge(p, title, style='dotted')
 
     # check pre-req dependencies
@@ -50,6 +57,7 @@ def create_graph(content, infos=['ID', 'Degree', 'Year', 'ECTS', "Semester"]):
         edge[fontname="Helvetica", fontsize="10",
         labelfontname="Helvetica", labelfontsize="10"]
         node[fontname="Helvetica", fontsize="10", shape=record]
+        splines=false
         ''')
 
     for y in years:
