@@ -49,11 +49,11 @@ fig.update_layout(margin=dict(t=50, l=25, r=25, b=25))
 
 # selected_item = plotly_events(fig, click_event=True, hover_event=False)
 # print(selected_item)
-st.plotly_chart(fig)
+st.plotly_chart(fig, use_container_width=True)
 
 
 st.markdown('# Course details')
-selected_course = st.selectbox('', df['Course Title'])
+selected_course = st.selectbox('', df['Course Title'].sort_values())
 
 selected_info = df.loc[df['Course Title'] == selected_course]
 st.markdown('### ECTS: ' + str(selected_info['ECTS'].iloc[0]))
