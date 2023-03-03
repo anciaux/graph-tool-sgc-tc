@@ -1345,13 +1345,12 @@
 		"Course Title":"Elective courses",
 		"ID":"",
 		"ECTS": 12,
-		"Semester":"",
+		"Semester":"Unknown",
 		"URL": "",
 		"Learning outcomes":[
 			
 		],
 		"Description":[
-			
 		],
 		"Pre-requisites":[
 			
