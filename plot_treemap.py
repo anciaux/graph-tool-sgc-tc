@@ -1,5 +1,6 @@
 #!/bin/env python
 
+from wc import make_cloud_word
 import streamlit as st
 import plotly.express as px
 import pandas as pd
@@ -64,10 +65,10 @@ st.markdown('### Period: ' +
 st.markdown('### URL: [fiche de cours](' +
             str(selected_info['URL'].iloc[0]) + ')')
 st.markdown('## Description')
+# make_cloud_word(selected_info['Description'].iloc[0])
 st.markdown(selected_info['Description'].iloc[0])
 st.markdown('## Learning Outcomes')
 st.markdown(format_description(selected_info['Learning outcomes'].iloc[0]))
-
 st.markdown('## Prerequisites')
 st.markdown(format_description(selected_info['Pre-requisites'].iloc[0]))
 

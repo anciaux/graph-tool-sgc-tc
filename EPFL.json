@@ -1,0 +1,1359 @@
+[
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Analysis I",
+		"ID":"MATH-101(a)",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/analysis-i-MATH-101-A",
+		"Learning outcomes":[
+			"Reason rigorously to analyze problems",
+			"Choose or select the relevant analysis tools to solve problems",
+			"Identify the concepts inherent in each problem",
+			"Effectively apply the concepts to solve exercises similar to the examples and exercises covered in class",
+			"Demonstrate ability to analyze and solve new problems",
+			"Solve convergence, sequence and series problems",
+			"Master the techniques of differential and integral calculus",
+			"Among the basic tools, we find the notions of convergence, sequences and series",
+			"The functions of a variable will be studied rigorously, with the aim of a thorough understanding of the techniques of differential and integral calculus."
+		],
+		"Description":[
+			"real numbers", 
+			"function", 
+			"numerical sequence", 
+			"convergent/divergent sequence", 
+			"limit of a sequence", 
+			"sub-sequence", 
+			"function", 
+			"limit of a function", 
+			"continuous function", 
+			"numerical series", 
+			"convergent/divergent series", 
+			"absolute convergence", 
+			"derivative", 
+			"class C^ k", 
+			"mean value theorem(s)", 
+			"finite expansion", 
+			"integer series", 
+			"Riemann integral", 
+			"primitive"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"General physics, mecanics",
+		"ID":"PHYS-101(a)",
+		"ECTS":6,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/general-physics-mechanics-PHYS-101-A",
+		"Learning outcomes":[
+			"Develop a physical model of a mechanical system",
+			"Demonstrate skill in problem solving",
+			"Structure models in terms of differential equations",
+			"Formulate and use simplifying assumptions to describe an experience",
+			"Use theoretical models that describe Nature",
+			"Estimate orders of magnitude",
+			"Connect the notions of the course and the observations of the everyday world"
+		],
+		"Description":[
+			"Introduction and Kinematics",
+			"reference frames", 
+			"trajectory", 
+			"speed", 
+			"acceleration", 
+			"Cartesian and cylindrical coordinates", 
+			"Dynamics of the material point", 
+			"momentum", 
+			"Newton's laws", 
+			"fundamental", 
+			"empirical and binding forces", 
+			"oscillatory motion", 
+			"angular momentum",
+			"Work", "power", "energy",
+			"kinetic", 
+			"potential", 
+			"mechanical energies", 
+			"conservation laws", 
+			"gravitational movements", 
+			"collisions",
+			"Change of frames",
+			"dynamic in non-inertial frames",
+			"System dynamics",
+			"center of mass", 
+			"Undeformable solid", 
+			"moment of inertia", 
+			"gyroscopic effects"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Linear Algebra",
+		"ID":"",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/linear-algebra-MATH-111-A",
+		"Learning outcomes":[
+			"Perform standard calculations in linear algebra and interpret the results",
+			"Define theoretical concepts relevant to linear algebra and give illustrative examples",
+			"Identify examples of theoretical concepts relevant to linear algebra",
+			"Rigorously build simple logical reasoning",
+			"Identify some links between linear algebra and other branches of mathematics."
+		],
+		"Description":[
+			"linear systems", "vector spaces"," linear maps", 
+			"matrices", "determinant", "eigenvectors", "eigenvalues", 
+			"orthogonality", "dot product", "matrix decompositions", 
+			"least squares", "Markov chains"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"General chemistry",
+		"ID":"CH-160(b)",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/general-chemistry-CH-160-B",
+		"Learning outcomes":[
+			"This teaching aims to acquire the essential notions relating to the structure of matter, chemical balances and reactivity.",
+			"The course and the exercises provide the methodology allowing to solve by the reasoning and the calculation of the new problems of general chemistry."
+		],
+		"Description":[
+			"Electronic structure of atoms", "chemical bonds", 
+			"stoichiometry", "thermochemistry", 
+			"thermodynamic equilibrium", "acids and bases", 
+			"redox", "chemical kinetics"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Information, Computation, Communication",
+		"ID":"CS-119(h)",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/information-computation-communication-CS-119-H",
+		"Learning outcomes":[
+			"Analyze a complex problem to break it down into sub-problems",
+			"Design and express an algorithm",
+			"Model in Python language a simple real-world situation described in French",
+			"Transcribe an algorithm into its equivalent program in Python",
+			"Calculate the complexity of a simple algorithm",
+			"Explain how to represent numbers and symbols in a computer",
+			"Explain how to measure the amount of information present in data",
+			"Autonomously create a small application using the Python language",
+			"Analyze simple Python code to describe the result or correct it if it is wrong",
+			"Test the adequacy of the result of a simple program in relation to the requested task",
+			"Expose how to capture physical reality with (sequences of) numbers",
+			"Expose how to reconstruct physical quantities from sequences of numbers representing them",
+			"State what problem can be solved with an algorithm"
+		],
+		"Description":[
+			"calculation (algorithms, recursion, complexity, representation of numbers)", 
+			"information (sampling, reconstruction, th. of Nyquist-Shannon, compression, 1st th. of Shannon)", 
+			"systems and security (computer of von Neumann, memory hierarchies, networks, threats and defenses, secret key cryptography, RSA).",
+			"introduction to imperative programming",
+			"fundamental concepts with the Python language. ",
+			"variables, expressions, control structures (conditions, loops)", 
+			"functions (declaration, call, arguments), modules, input-output", 
+			"data structures (list, set, tuple, dictionary)", 
+			"simple graphical interfaces and use of different libraries ( numpy, matplotlib ) and environment (IDE vs. Jupyter notebooks)."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Structures I",
+		"ID":"CIVIL-122 ",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/structures-i-CIVIL-122",
+		"Learning outcomes":[
+			"Identify the types of structures described in the content.",
+			"Describe different types of building materials and their main properties.",
+			"Determine by means of graphical statics the forces in the above types of structures.",
+			"Dimension structural elements in tension or compression.",
+			"Solve graphical static constructions, on paper or using the i-cremona applet from various data.",
+			"Design statically stable structures taking into account imposed constraints.",
+			"Build graphical statics models representing stresses and shape for a given structure."
+		],
+		"Description":[
+			"Graphical statics", 
+			"force", 
+			"reaction", 
+			"stress", 
+			"resistance", 
+			"dimensioning", 
+			"cable", 
+			"arc", 
+			"resultant",
+			"Types of strength",
+			"Line of action",
+			"Resultant of several forces", 
+			"auxiliary cable method",
+			"Efforts and materials",
+			"Subsystems",
+			"Traction and compression",
+			"Mechanical behavior of materials",
+			"Principles of sizing",
+			"Balance of forces in the plane and in space",
+			"Cables with one load and several loads",
+			"Form stability of cables",
+			"Cable networks and membranes",
+			"Ideal shape of arches",
+			"Stability and line of action of efforts",
+			"Isostatic and hyperstatic arcs",
+			"Vaults , domes and shells",
+			"Arc-and-cables",
+			"Bow with undertie",
+			"Cable with buton",
+			"Graphical statics",
+			"Determination of forces and reactions",
+			"Application to problem solving",
+			"Structural design"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Analysis II",
+		"ID":"MATH-106(a)",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/analysis-ii-MATH-106-A",
+		"Learning outcomes":[
+			"Apply with ease and deepen the skills and knowledge acquired in Analysis I",
+			"Reason rigorously to analyze problems",
+			"Choose or select the relevant analysis tools to solve problems",
+			"Identify the concepts inherent in each problem",
+			"Effectively apply the concepts to solve exercises similar to the examples and exercises covered in class",
+			"Demonstrate ability to analyze and solve new problems",
+			"Master the techniques of differential and integral calculus",
+			"Master elementary differential equations, the space R^n, functions of several variables, partial derivatives and multiple integrals"
+		],
+		"Description":[
+			"Ordinary differential equations", 
+			"Euclidean space", "convergence", 
+			"continuity", "partial derivative", "gradient", 
+			"differential", "Jacobian matrix", "mean value theorem", 
+			"Hessian matrix", "limited expansion", "Laplacian", 
+			"composition rule", "implicit function theorem", 
+			"Lagrange multiplier", "multiple integral"
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"General physics, thermodynamics",
+		"ID":"PHYS-106(a) ",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/general-physics-thermodynamics-PHYS-106-A",
+		"Learning outcomes":[
+			"Develop a physical model of a thermodynamic system",
+			"Demonstrate skill through problem solving",
+			"Formulate simplifying hypotheses to describe an experience",
+			"Identify and use the theoretical models that describe Nature",
+			"Estimate orders of magnitude",
+			"Connect the notions of the course and the observations of the everyday world"
+		],
+		"Description":[
+			"thermodynamic system", 
+			"state variable", 
+			"state function", 
+			"historical perspective",
+			"first principle",
+			"second principle",
+			"thermodynamic cycles",
+			"diffusion equation", 
+			"heat transfer", 
+			"Fourier's law", 
+			"diffusion (in one dimension)",
+			"perfect gas", 
+			"kinetic theory of gases",
+			"statistics: Boltzmann formula",
+			"Maxwell-Boltzmann distribution function", 
+			"principle of equipartition", 
+			"calculation of specific heats",
+			"van der Waals gas",
+			"phase transitions"
+		],
+		"Pre-requisites":[
+			"General physics, mecanics"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Geometry",
+		"ID":"MATH-123(b) ",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/geometry-MATH-123-B",
+		"Learning outcomes":[
+			"Elaborate problems concerning curves",
+			"Work out problems concerning tangent vectors",
+			"sketch figures",
+			"Elaborate problems concerning moving markers",
+			"Elaborate problems concerning the parameterization of surfaces",
+			"Work out problems concerning the curvatures of a surface",
+			"Plan the process to approach a complex geometric problem"
+		],
+		"Description":[
+			"Parameters of a curve",
+			"Tangent Vectors",
+			"Vector Fields and Moving Guides",
+			"Curves in  R^2",
+			"Isometries of  R^n",
+			"Surface settings",
+			"Curvatures"
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Statics I",
+		"ID":"CIVIL-124",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/statics-i-CIVIL-124",
+		"Learning outcomes":[
+			"Analyze isostatic structures by equilibrium equations",
+			"Differentiate between isostatic, hyperstatic structures or mechanisms",
+			"Create free bodies and introduce all forces acting on the free body"
+		],
+		"Description":[
+			"Actions", "forces and laws of statics ",
+			"Reduction and balance of forces ",
+			"Displacements", "supports", "isostaticity",
+			"Section and internal forces ",
+			"Truss", "beams", "cables" ,
+			"Virtual displacements", "lines of influence"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Materials",
+		"ID":"MSE-171",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/materials-MSE-171",
+		"Learning outcomes":[
+			"Describe the composition of common building materials, how they are produced and used",
+			"Explain the hydration reaction of cement and the formulation of a concrete",
+			"Distinguish the different concrete degradation processes",
+			"Describe the composition of soda-lime and special glasses as well as their manufacture and their properties",
+			"Describe the atomic structure of metals and alloys used in civil engineering, the production and forming processes of steels and aluminum alloys",
+			"Analyze from a tensile test the mechanical properties of an alloy",
+			"Identify the modes of hardening of metallic materials and the means of protecting them from corrosion",
+			"Describe the use of wood in construction, the mechanical behavior of a wooden element",
+			"Recognize heat transfer modes",
+			"Distinguish a hardwood from a softwood, whether at the macro or microscopic level",
+			"Describe the manufacture of different types of bricks, their use and their behavior in masonry",
+			"Solve simple heat transfer cases"
+		],
+		"Description":[
+			"Construction materials", 
+			"concrete", 
+			"binders", 
+			"glasses", 
+			"wood", 
+			"bricks", 
+			"masonry", 
+			"metals", 
+			"steels", 
+			"aluminum alloys", 
+			"mechanical properties", 
+			"thermal properties"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Structures II",
+		"ID":"CIVIL-123",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/civil-engineering/coursebook/structures-ii-CIVIL-123",
+		"Learning outcomes":[
+			"Identify all types of structures described in the content and in Structures I.",
+			"Analyze forces in a structure using graphical static constructions.",
+			"Dimension structural elements in tension, compression and bending.",
+			"Choose or rationally select the thickness of a slab on the basis of loads and support conditions.",
+			"Design and size various structures taking into account the imposed constraints.",
+			"Compare the various types of compression structure from the point of view of stability."
+		],
+		"Description":[
+			"Trellis",
+			"Lattice principle." ,
+			"Isostatic and hyperstatic lattices.",
+			"Integral and targeted analysis.",
+			"Shape, typology and stresses in trusses.",
+			"Lattice towers and consoles.",
+			"Spatial lattices.",
+			"Beams and slabs",
+			"Principle of operation, shape, section and forces in the beams.",
+			"Isostatic and hyperstatic beams.",
+			"Pre-sizing of the slabs.",
+			"Beam grids",
+			"Vierendeel frames and beams",
+			"Structural functioning.",
+			"Stability",
+			"Phenomenon of buckling, slenderness.",
+			"Material, section, supports, shape."
+		],
+		"Pre-requisites":[
+			"Structures I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 1,
+		"Course Title":"Global issues: Propedeutic BA2",
+		"ID":"SHS",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/propedeutics/humanities-and-social-sciences-program/",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Analysis III",
+		"ID":"MATH-203(b)",
+		"ECTS":4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/analysis-iii-MATH-203-B",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			"Vector analysis",
+			"Gradient", "rotational", 
+			"divergence and Laplacian operators",
+			"Curvilinear integrals and surface integrals",
+			"Vector and potential fields",
+			"Green's theorem", "divergence theorem",
+			"Stokes' theorems",
+			"Fourier analysis",
+			"Fourier series",
+			"Identity of Parceval",
+			"Fourier transforms",
+			"Identity of Plancherel. "
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Analysis II",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Fundamentals of indoor climate",
+		"ID":"CIVIL-212",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/fundamentals-of-indoor-climate-CIVIL-212",
+		"Learning outcomes":[
+			"Discuss the impact of building design and operation on the quality of indoor environment, human health and comfort.",
+			"Identify control strategies that contribute to the improvement of building climate.",
+			"Report a project in groups and present the work in a report and in an oral presentation",
+			"Search for the contemporary literature on indoor climate topic"
+		],
+		"Description":[
+			"Building climate", 
+			"indoor environmental quality", 
+			"human comfort and productivity"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Introduction to optimization and operations research",
+		"ID":"MATH-265",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/introduction-to-optimization-and-operations-research-MATH-265",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			"introduction to the course",
+			"Linear optimization",
+			"The simplex algorithm",
+			"Duality",
+			"Networks",
+			"Transhipment",
+			"Shortest path",
+			"Integer optimization - Branch and bound.",
+			"Unconstrained non linear optimization."
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Analysis II",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title": "Probability and statistics",
+		"ID":"MATH-234(a) ",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/probability-and-statistics-MATH-234-A",
+		"Learning outcomes":[
+		],
+		"Description":[
+			"Probability", "conditional probability", "random variables", 
+			"probability distributions", "expectation", "variance", "correlation", 
+			"normal approximation", "estimators", "test", "type I and II error", 
+			"tests based on normal distribution", "regression"
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Analysis II",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Continuum mechanics (for GC)",
+		"ID":"CIVIL-225",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/continuum-mechanics-for-gc-CIVIL-225",
+		"Learning outcomes":[
+			"Formulate The mechanics of continuums",
+			"Solve a problem in solid mechanics",
+			"Modeling Solid Mechanics"
+		],
+		"Description":[
+			"Solid mechanics",
+			"continuous medium hypothesis",
+			"conservation laws", 
+			"tensors",
+			"forces and constraints",
+			"displacements and deformations",
+			"isotropic linear elastic solid (Hooke's law)",
+			"internal energy",
+			"plane and three-dimensional elasticity",
+			"uniform twist",
+			"principle of virtual work",
+			"energy"
+		],
+		"Pre-requisites":[
+			"Statics I"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Geology",
+		"ID":"CIVIL-211",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/geology-CIVIL-211",
+		"Learning outcomes":[
+			"Identify rocks and minerals",
+			"Interpret the landform and the geological maps",
+			"Assess geological risks",
+			"Plan measurements and field tests",
+			"Characterize a geological site"
+		],
+		"Description":[
+			"Compositions", "properties and behavior of rocks", 
+			"structural geology", "tectonics", "applied geophysics", 
+			"land use planning", "natural hazards", 
+			"applied geotechnical engineering."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Safety and reliability",
+		"ID":"CIVIL-237",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/safety-and-reliability-CIVIL-237",
+		"Learning outcomes":[
+			"Analyze the notions of danger and safety and acquire a systematic approach to control risk situations",
+			"Use the principles of verification for the dimensioning of structural elements",
+			"Design the modeling of actions (loads) and know the order of magnitude of these actions",
+			"Formalize the randomness of parameters",
+			"Outline the temporal component of the durability and life cycle of works"
+		],
+		"Description":[
+			"structural safety", "serviceability", 
+			"actions (loads and forces) and effect of actions",
+			"strength", "durability", "risk"
+		],
+		"Pre-requisites":[
+			"Structural mechanics (for GC)", 
+			"Materials"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Structural mechanics (for GC)",
+		"ID":"CIVIL-238",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/structural-mechanics-for-gc-CIVIL-238",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			"Mechanics of materials", "Stress and strain",
+			"Elastic and nonlinear behaviour", "Torsion", "shear", "bending", "Beam theory",
+			"Curvature", "Deflection of beams", "Principle of virtual work",
+			"Stability"
+		],
+		"Pre-requisites":[
+			"Statics I",
+			"Materials"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Global issues: Propedeutic BA3",
+		"ID":"SHS",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/humanities-and-social-sciences-program/",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Design of Steel structures",
+		"ID":"CIVIL-235",
+		"ECTS": 5,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/design-of-steel-structures-CIVIL-235",
+		"Learning outcomes":[
+			"Restore the principles and calculation models that govern the structural behavior of steel and steel-concrete elements",
+			"Use calculation models",
+			"Dimension frames, steel members and assemblies",
+			"Choose or select to optimize sizing, with strengths in stability and assemblies",
+			"Organize a calculation note, preparation for projects, to build something",
+			"Use the practitioner's tools, standards and Swiss tables"
+		],
+		"Description":[
+			"section resistance", "Sizing principles and materials",
+			"Compressed elements", "Lattice girders", "Composite steel-concrete construction",
+			"Bearing systems of halls and buildings, stabilization and stability",
+			"dimensioning", "beam", "column", "frames", "connections", "stability"
+		],
+		"Pre-requisites":[
+			"Materials", "Statics I", "Structures I", "Structures II",
+			"Continuum mechanics (for GC)", "Safety and reliability"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Fluid mechanics (for GC)",
+		"ID":"CIVIL-210",
+		"ECTS": 5,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/fluids-mechanics-for-gc-CIVIL-210",
+		"Learning outcomes":[
+			"Determine the nature of the flow regime",
+			"Describe the physical properties of ordinary fluids",
+			"Reformulate an equation in dimensionless form",
+			"State the main dimensionless numbers",
+			"Calculate the pressure within a fluid",
+			"State the principles of conservation",
+			"Expose the methods of solving the equations of motion",
+			"Justify a hydraulic calculation of a water line in a river"
+		],
+		"Description":[
+			"fluid", "mechanics", "similarity theory", 
+			"conservation principles", "Euler's theorem", 
+			"Bernoulli's theorem", "free surface hydraulics", 
+			"pressure", "viscosity", "Newtonian fluid", "river", 
+			"turbulence", "flow under load", "pump", "pressure drop"
+		],
+		"Pre-requisites":[
+			"General physics, mecanics", "Analysis I", "Linear Algebra", "Continuum mechanics (for GC)"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Fundamentals of geomatics",
+		"ID":"ENV-140",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/fundamentals-of-geomatics-ENV-140",
+		"Learning outcomes":[
+			"Define the main geomatics disciplines and processes",
+			"Describe the steps for acquiring, managing and representing spatial data",
+			"Explain land, air and space topometric methods for geodata acquisition",
+			"Calculate coordinates from GPS measurements",
+			"Detect measurement errors",
+			"Handling surveying devices in a practical context",
+			"Characterize calculation results with different units and the correct number of significant digits",
+			"Choose or select geodata acquisition methods based on civil or environmental engineering application requirements",
+			"Use online satellite image processing tools"
+		],
+		"Description":[
+			"Basics of geodesy",
+			"Units and coordinate systems",
+			"Geodetic references",
+			"Cartographic projections",
+			"Principles of geomatics techniques",
+			"Spatial data modeling",
+			"Data acquisition methods",
+			"imagery of the territory",
+			"Terrestrial measurement: leveling",
+			"Satellite location (GPS)",
+			"Territory image processing",
+			"Applications and digital products",
+			"Digital terrain model",
+			"Orthophotos"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Introduction to machine learning for engineers",
+		"ID":"CIVIL-226",
+		"ECTS": 5,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/introduction-to-machine-learning-for-engineers-CIVIL-226",
+		"Learning outcomes":[
+			"Define the following basic machine learning problems: regression, classification, clustering, dimensionality reduction",
+			"Explain the main differences between them",
+			"Implement algorithms for these machine learning models",
+			"Optimize the main trade-offs such as overfitting, and computational cost vs accuracy",
+			"Implement machine learning methods for real-world problems, and rigorously evaluate their performance using cross-validation. Experience common pitfalls and how to overcome them.",
+			"Finally, civil students will know the basics of Machine learning, and how they can use it in their fields of interest."
+		],
+		"Description":[
+			"Machine learning basics",
+			"Supervised vs Unsupervised",
+			"Regression vs. Classification",
+			"Underfitting vs Overfitting",
+			"Bias vs. Variance",
+			"Parametric vs Non-parametric approaches",
+			"Discriminative vs Generative models",
+			"Shallow vs Deep learning",
+			"Linear Regression",
+			"Logistic Regression",
+			"Naive Bayes",
+			"Gaussian naive",
+			"Trees",
+			"Random forest",
+			"Ensemble/bagging/boosting",
+			"Support Vector Machine",
+			"Deep learning",
+			"Neural networks overview",
+			"Type Layers",
+			"Activation functions",
+			"Backpropagation",
+			"Unsupervised learning / dimensionality reduction",
+			"SVD",
+			"PCA",
+			"Embeddings",
+			"Autoencoders",
+			"Unsupervised learning / clustering",
+			"K-means",
+			"Gaussian mixture",
+			"DBSCAN",
+			"Role of input",
+			"Feature engineering",
+			"Role of representation",
+			"Handling different types of features",
+			"Missing values",
+			"Feature expansion",
+			"Role of supervision",
+			"Loss functions",
+			"Multitask learning",
+			"Role of optimization",
+			"Stochastic/Gradient descent",
+			"Recipe/tips for training",
+			"Weight initialization",
+			"Data augmentation",
+			"Regularization techniques",
+			"Transfer learning",
+			"ML ethics"
+		],
+		"Pre-requisites":[
+			"Information, Computation, Communication", "Linear Algebra"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Soil mechanics and Groundwater seepage",
+		"ID":"CIVIL-203",
+		"ECTS": 5,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/soil-mechanics-and-groundwater-seepage-CIVIL-203",
+		"Learning outcomes":[
+			"Formalize a problem related to the field of soils and underground flows",
+			"Formulate a hypothesis on the behavior of geomaterials",
+			"Generalize a soil-specific data set",
+			"Interpret test results",
+			"Justify interpretations",
+			"Prove the validity of the conclusions",
+			"Theorizing the behavior of soils and their underground flows"
+		],
+		"Description":[
+			"Soil mechanics", "underground flows", 
+			"effective stress", "constitutive relations", 
+			"elasticity", "plasticity", "anisotropy", 
+			"deformation", "failure criteria."
+		],
+		"Pre-requisites":[
+			"Geology", "Statics I", "Materials"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":2,
+		"Course Title":"Statics II",
+		"ID":"CIVIL-224",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/statics-ii-CIVIL-224",
+		"Learning outcomes":[
+			"Develop an analytical and intuitive understanding of the mechanical behavior of structures",
+			"Critique the result of a finite element calculation of a plane structure",
+			"Quantify approximately the forces in a complex structure at the determining locations",
+			"Apply the method of forces to hyperstatic planar structures",
+			"Apply the method of displacements to hyperstatic planar structures",
+			"Determine the lines of influence of hyperstatic planar structures",
+			"Analyze forces in a simple plate"
+		],
+		"Description":[
+			"Hyperstatic structures", "force method", "displacement method", "plates", "slabs"
+		],
+		"Pre-requisites":[
+			"Statics I", "Continuum mechanics (for GC)", "Structural mechanics (for GC)"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Global issues: Propedeutic BA4",
+		"ID":"SHS",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/humanities-and-social-sciences-program/",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Concrete Structures",
+		"ID":"CIVIL-234",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/concrete-structures-CIVIL-234",
+		"Learning outcomes":[
+			"Interpret and understand the behavior of reinforced concrete structural elements",
+			"Design and size the constituent elements of the structures",
+			"Check different types of slabs and how they work"
+		],
+		"Description":[
+			"basics of dimensioning",
+			"Mechanical behavior of reinforcing steel and concrete",
+			"mode of operation of reinforced concrete tie rods",
+			"cracking",
+			"deformation and dimensioning",
+			"behavior of reinforced concrete in compression", 
+			"hooping",
+			"behavior of reinforced concrete columns",
+			"basics of bending uncracked", 
+			"cracked and plastic behavior",
+			"dimensioning and verification MN interaction diagrams",
+			"behavior at serviceability limit state",
+			"Beams subject to shear force",
+			"model based on stress fields",
+			"dimensioning and verification",
+			"Slabs",
+			"Types of slabs", 
+			"mode of operation",
+			"Elastic approaches and plastic approaches",
+			"Strip method",
+			"Breakline method",
+			"Shear force of slabs without transverse reinforcement",
+			"Punching without and with transverse reinforcement"
+		],
+		"Pre-requisites":[
+			"Structural mechanics (for GC)",
+			"Statics I",
+			"Statics II",
+			"Continuum mechanics (for GC)"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Numerical analysis",
+		"ID":"MATH-251(a)",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/numerical-analysis-MATH-251-A",
+		"Learning outcomes":[
+			"Choose a method for solving a specific problem",
+			"Interpret in the light of theory the results obtained from a computation",
+			"Estimate numerical errors",
+			"Prove theoretical properties of numerical methods",
+			"Implement numerical algorithms",
+			"Apply numerical algorithms to specific problems",
+			"Describe numerical methods",
+			"State the theoretical properties of mathematical problems and numerical methods"
+		],
+		"Description":[
+			"Polynomial approximation",
+			"interpolation",
+			"least squares",
+			"Numerical differentiation", 
+			"Direct methods for solving systems of linear equations",
+			"Iterative methods for solving systems of linear and non-linear equations",
+			"Numerical approximation of differential equations",
+			"Numerical algorithms", 
+			"polynomial interpolation", 
+			"numerical integration", 
+			"numerical linear algebra", 
+			"numerical solution of ODEs", 
+			"iterative methods."
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Linear Algebra"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Rock mechanics",
+		"ID":"CIVIL-308",
+		"ECTS":5,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/rock-mechanics-CIVIL-308",
+		"Learning outcomes":[
+			"State and describe the parameters for characterizing and classifying rock masses",
+			"Determine the quality of a rock mass according to the main classification systems",
+			"Describe and discuss the mechanical properties of the rock matrix, discontinuities and rock masses",
+			"Explain the laboratory and in situ tests for determining the mechanical characteristics of the rock matrix, discontinuities and rock masses",
+			"Investigate and explain water issues in rock projects",
+			"Check the stability of rock foundations and embankments and size the possible reinforcement elements",
+			"Outline and explain the methods of excavation and support of underground structures",
+			"State and explain the main elements of rock mechanics that influence underground structures",
+			"Apply empirical methods for the design of supports",
+			"Solve simple problems of ground-support interaction and estimation of settlements induced by shallow tunnels",
+			"Determine the stresses and displacements around a tunnel considering different mass behaviors and boundary conditions (e.g. deep and shallow tunnels)",
+			"Differentiate the conditions of tunnel face stability and failure modes"
+		],
+		"Description":[
+			"Mechanical properties", 
+			"resistance", 
+			"rock matrix", 
+			"discontinuities", 
+			"rock mass", 
+			"rock foundations", 
+			"rock slope", 
+			"excavation of underground structures", 
+			"stresses and displacements around cavities", 
+			"types of support", 
+			"rock mass-support interaction", 
+			"working face stability", 
+			"settlements"
+		],
+		"Pre-requisites":[
+			"Geology",
+			"Soil mechanics and Groundwater seepage",
+			"Continuum mechanics (for GC)"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Traffic engineering",
+		"ID":"CIVIL-349",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/traffic-engineering-CIVIL-349",
+		"Learning outcomes":[
+			"Analyze mobility and performance of transport systems",
+			"Assess/Evaluate transport phenomena with real data",
+			"Demonstrate knowledge in traffic engineering",
+			"Develop a critical thinking how to resolve mobility problems"
+		],
+		"Description":[
+			"Traffic Modeling",
+			"Basic assessment tools" , 
+			"Traffic flow modeling for urban and freeway systems", 
+			"Fundamental diagram", 
+			"Theory of Shockwaves", 
+			"Route Choice", 
+			"User Equilibrium/System Optimum",
+			"Traffic signal control", 
+			"Signal coordination", 
+			"ramp metering",
+			"Data analytics and Experiments",
+			"Analyzing real data from experiments to connect theory with applications",
+			"Intro to multimodal systems",
+			"Intro to bus operations",
+			"Bus priority", 
+			"HOV/HOT lanes" 
+		],
+		"Pre-requisites":[
+			"Introduction to transportation systems"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year":3,
+		"Course Title":"Urban Thermodynamics",
+		"ID":"CIVIL-309",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/urban-thermodynamics-CIVIL-309",
+		"Learning outcomes":[
+			"Assess / Evaluate heat distribution in urban zones",
+			"Critique the choice of urban materials and design and propose alternative solutions",
+			"Analyze various modes of heat transfer in urban environment",
+			"Carry out thermodynamic analysis at urban scale",
+			"Examine the effect of the outdoor built environment on human comfort",
+			"Assess / Evaluate surface energy balance at various urban surfaces"
+		],
+		"Description":[
+			"Urban heat exchange", 
+			"urban atmosphere/boundary layer", 
+			"urban elements interaction", 
+			"environmental impact", 
+			"built environment", 
+			"urban green areas and water bodies", 
+			"urban heat island (UHI) effect",
+			"outdoor thermal comfort"
+		],
+		"Pre-requisites":[
+			"General physics, thermodynamics",
+			"Fluid mechanics (for GC)",
+			"Fundamentals of indoor climate"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Global issues: Propedeutic BA5",
+		"ID":"SHS",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/humanities-and-social-sciences-program/",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Geotechnical engineering",
+		"ID":"CIVIL-306",
+		"ECTS": 5,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/geotechnical-engineering-CIVIL-306",
+		"Learning outcomes":[
+			"Argue the factors influencing a geotechnical project",
+			"Choose or select in situ recognition methods",
+			"Assess the limit states for the design or verification of geotechnical structures",
+			"Choose or select the types of structure foundations and their construction methods",
+			"Determine the type of foundation of a structure and size the elements (external limit states)",
+			"Expose the methods of carrying out the excavations as well as the retaining or stiffening techniques",
+			"Theorize the general stability of embankment excavations, nailed walls and screen excavations",
+			"Formulate soil failure calculations in drained and undrained conditions",
+			"Estimate the difficulties related to water during a geotechnical project",
+			"Propose solutions taking into account limit states when designing geotechnical structures",
+			"Estimate the effects of settlements and their impact on geotechnical structures"
+		],
+		"Description":[
+			"Limit analysis & failure calculation for geotechnics", 
+			"soil plasticity",
+			"Slope excavations",
+			"Geotechnical works", 
+			"sizing", 
+			"plasticity", 
+			"shallow foundations", 
+			"deep foundations", 
+			"retaining walls", 
+			"embankment excavations", 
+			"nailed walls", 
+			"screen excavations", 
+			"active ground anchors"
+		],
+		"Pre-requisites":[
+			"Continuum mechanics (for GC)",
+			"Soil mechanics and Groundwater seepage",
+			"Geology",
+			"Rock mechanics",
+			"Structural mechanics (for GC)"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Hydraulic structures and schemes",
+		"ID":"CIVIL-312",
+		"ECTS": 5,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/hydraulic-structures-and-schemes-CIVIL-312",
+		"Learning outcomes":[
+			"Design hydraulic works necessary for the use of water",
+			"Sketch the essential elements of hydraulic structures",
+			"Optimizing hydraulic structures (canals, pipes)",
+			"Correctly apply theorems like continuity, Bernoulli and momentum to solve most practical problems in hydraulic engineering",
+			"Determine sediment transport in rivers and channels",
+			"Determine sediment transport in rivers and canals"
+		],
+		"Description":[
+			"Hydraulic facilities", 
+			"hydraulic structures", 
+			"weirs", 
+			"orifices", 
+			"weirs and dams in rivers", 
+			"canals", 
+			"penstocks", 
+			"free surface flows",
+			"stationary",
+			"non-stationary loads"
+		],
+		"Pre-requisites":[
+			"Fluid mechanics (for GC)",
+			"Soil mechanics and Groundwater seepage"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Introduction to transportation systems",
+		"ID":"CIVIL-355",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/introduction-to-transportation-systems-CIVIL-355",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Numerical modelling of solids and structures",
+		"ID":"CIVIL-321",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/numerical-modelling-of-solids-and-structures-CIVIL-321",
+		"Learning outcomes":[
+			"Modeling solid mechanics by finite elements",
+			"Predict The response of finite element codes",
+			"Formulate The finite element method",
+			"Judge the numerical quality of finite element codes"	
+		],
+		"Description":[
+			"Notion of finite element",
+			"conditions to the limits",
+			"differential (strong) and integral (weak) forms", 
+			"Galerkin form",
+			"matrix form of equilibrium",
+			"Solid elements and structural elements", 
+			"interpolation",
+			"convergence", 
+			"stiffness", 
+			"equivalent nodal forces and stress calculation.",
+			"C elements", 
+			"shape functions", 
+			"isoparametric transformation", 
+			"numerical integration.",
+			"Choice of fields",
+			"interpolation",
+			"Galerkin's method",
+			"convergence criteria",
+			"study of the displacement model element",
+			"stiffness matrix",
+			"forces at nodes",
+			"stress calculation",
+			"Structural elements of the bar and beam type",
+			"theories of Bernoulli and Timoshenko",
+			"Displacement method",
+			"assembly", 
+			"reactions", 
+			"resolution", 
+			"energy",
+			"convergence and error."
+		],
+		"Pre-requisites":[
+			"Analysis I",
+			"Linear Algebra",
+			"Information, Computation, Communication",
+			"Structural mechanics (for GC)"
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Project in civil engineering",
+		"ID":"CIVIL-390",
+		"ECTS":6,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/project-in-civil-engineering-CIVIL-390",
+		"Learning outcomes":[
+			"Lead an individual research project",
+			"Apply skills to a specific topic",
+			"Design a search",
+			"Critique project results",
+			"Compose the project in written form in the form of a scientific report",
+			"Present the project in oral form in front of a scientific audience",
+			"Develop experience in a specific research area",
+			"Expose data clearly and consistently"
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 2,
+		"Course Title":"Semaine ENAC",
+		"ID":"ENAC",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Global issues: Propedeutic BA6",
+		"ID":"SHS",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/bachelor/humanities-and-social-sciences-program/",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Bachelor",
+		"Year": 3,
+		"Course Title":"Elective courses",
+		"ID":"",
+		"ECTS": 12,
+		"Semester":"Annual",
+		"URL": "",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+		],
+		"Pre-requisites":[
+			
+		]
+	}
+]
