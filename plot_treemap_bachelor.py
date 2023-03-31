@@ -61,7 +61,9 @@ def main():
     st.markdown('### URL: [fiche de cours](' +
                 str(selected_info['URL'].iloc[0]) + ')')
     st.markdown('## Description')
-    # make_cloud_word(selected_info['Description'].iloc[0])
+    _, col, _ = st.columns(3)
+    with col:
+        make_cloud_word(selected_info['Description'].iloc[0])
     st.markdown(selected_info['Description'].iloc[0])
     st.markdown('## Learning Outcomes')
     st.markdown(format_description(selected_info['Learning outcomes'].iloc[0]))
