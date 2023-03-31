@@ -33,7 +33,7 @@ def filter_word_lists(df):
     df['Learning outcomes'] = df['Learning outcomes'].apply(format_description)
     df['Pre-requisites'] = df['Pre-requisites'].apply(format_description)
 
-    df = df.drop(columns=['URL', 'Degree'])
+    # df = df.drop(columns=['URL', 'Degree'])
     return df
 
 ################################################################
@@ -62,6 +62,10 @@ def cloud_to_cloud_distances(cloud1, cloud2):
 
 
 def find_matching_classes(df1, df2, field='Description'):
+
+    df1 = filter_word_lists(df1)
+    df2 = filter_word_lists(df2)
+
     matching_classes = {}
 
     for i, _class1 in df1.iterrows():
