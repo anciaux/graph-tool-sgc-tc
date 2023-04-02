@@ -61,6 +61,19 @@ def cloud_to_cloud_distances(cloud1, cloud2):
 ################################################################
 
 
+def cloud_to_cloud_score(cloud1, cloud2, threshold=1):
+    if not cloud1:
+        return 5e15
+    num_perfect_match = 0
+    for w in cloud1:
+        d = word_to_cloud_distance(w, cloud2)
+        if d <= threshold:
+            num_perfect_match += 1
+    return num_perfect_match
+
+################################################################
+
+
 def find_matching_classes(df1, df2, field='Description'):
 
     df1 = filter_word_lists(df1)
@@ -69,18 +82,32 @@ def find_matching_classes(df1, df2, field='Description'):
     matching_classes = {}
 
     for i, _class1 in df1.iterrows():
-        correlation = []
+        correlation_distance = []
+        correlation_match = []
         for idx, _class2 in df2.iterrows():
             d = cloud_to_cloud_distances(
                 _class1[field],
                 _class2[field])
             if d < 50000:
-                correlation.append((idx, d, _class2['Course Title']))
-        correlation = pd.DataFrame(correlation, columns=[
-                                   'original_index', 'Distance', 'Course Title'])
-        correlation = correlation.sort_values(by=['Distance'])
-        correlation = correlation.iloc[:4]
-        matching_classes[i] = correlation
+                correlation_distance.append((idx, d, _class2['Course Title']))
+            num_match = cloud_to_cloud_score(
+                _class1[field],
+                _class2[field])
+            correlation_match.append(
+                (idx, num_match, _class2['Course Title']))
+
+        correlation_distance = pd.DataFrame(correlation_distance, columns=[
+            'original_index', 'Distance', 'Course Title'])
+        correlation_match = pd.DataFrame(correlation_match, columns=[
+            'original_index', 'Number Match', 'Course Title'])
+
+        correlation_distance = correlation_distance.sort_values(by=[
+                                                                'Distance'])
+        correlation_distance = correlation_distance.iloc[:4]
+        correlation_match = correlation_match.sort_values(by=[
+            'Number Match'], ascending=False)
+        correlation_match = correlation_match.iloc[:4]
+        matching_classes[i] = correlation_match
     return matching_classes
 
 ################################################################
