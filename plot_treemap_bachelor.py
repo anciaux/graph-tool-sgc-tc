@@ -82,20 +82,33 @@ def main():
     # print(selected_item)
     st.plotly_chart(fig, use_container_width=True)
 
+    match = find_matching_classes(df.copy(), df_epfl.copy())
+    for k, m in match.items():
+        st.markdown(f"# {df.iloc[k]['Course Title']}")
+        st.dataframe(m)
+
+    match_result = st.empty()
+    match_result.markdown("## Searching closest EPFL class")
+
     col, col_EPFL = st.columns(2)
     with col:
         st.markdown(f'### {option} Course details')
         selected_course = st.selectbox('', df['Course Title'].sort_values())
         plot_course_detail(df, selected_course)
 
-    match = find_matching_classes(df.copy(), df_epfl.copy())
-
     with col_EPFL:
         st.markdown(f"### Closest EPFL classes")
         for k, m in match.items():
             if df.iloc[k]['Course Title'] == selected_course:
-                selected_epfl_course = st.selectbox('',
-                                                    m['Course Title'].sort_values())
+                selected_epfl_course = st.selectbox('', m['Course Title'])
+
+                m = m.drop(columns='original_index')
+                m = m.rename(
+                    columns={'Number Match': "Number of matching words"})
+                with match_result.container():
+                    st.markdown(
+                        f'# Classes Matching {option}-{selected_course}')
+                    st.dataframe(m)
 
                 plot_course_detail(df_epfl, selected_epfl_course)
 
