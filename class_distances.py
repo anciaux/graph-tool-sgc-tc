@@ -13,6 +13,9 @@ def filter_word_lists(df):
     def format_description(x):
         if not x:
             return x
+        if isinstance(x, str):
+            x = x.split('\n')
+
         w_list = []
         for e in x:
             w_list += [e.strip() for e in e.split(' ') if e.strip() != '']
@@ -27,9 +30,10 @@ def filter_word_lists(df):
 
         x = set(w_list)
         x = x-stopwords
-        return x
+        return [e for e in x]
 
-    df['Description'] = df['Description'].apply(format_description)
+    df['Description'] = df['Course Title'].apply(
+        format_description) + df['Description'].apply(format_description)
     df['Learning outcomes'] = df['Learning outcomes'].apply(format_description)
     df['Pre-requisites'] = df['Pre-requisites'].apply(format_description)
 
@@ -44,9 +48,11 @@ def word_to_cloud_distance(word, cloud):
         return 5e15
 
     distances = []
+    cloud = list(cloud)
     for w in cloud:
         distances.append(distance(word, w))
-    return np.array(distances).min()
+    idx = np.array(distances).argmin()
+    return np.array(distances).min(), cloud[idx]
 ################################################################
 
 
@@ -55,7 +61,8 @@ def cloud_to_cloud_distances(cloud1, cloud2):
         return 5e15
     distances = []
     for w in cloud1:
-        distances.append(word_to_cloud_distance(w, cloud2))
+        d, closest_word = word_to_cloud_distance(w, cloud2)
+        distances.append(d)
     return np.mean(distances)
 
 ################################################################
@@ -65,11 +72,13 @@ def cloud_to_cloud_score(cloud1, cloud2, threshold=1):
     if not cloud1:
         return 5e15
     num_perfect_match = 0
+    closests_words = []
     for w in cloud1:
-        d = word_to_cloud_distance(w, cloud2)
+        d, closest_word = word_to_cloud_distance(w, cloud2)
         if d <= threshold:
             num_perfect_match += 1
-    return num_perfect_match
+            closests_words.append(closest_word)
+    return num_perfect_match, closests_words
 
 ################################################################
 
@@ -90,23 +99,27 @@ def find_matching_classes(df1, df2, field='Description'):
                 _class2[field])
             if d < 50000:
                 correlation_distance.append((idx, d, _class2['Course Title']))
-            num_match = cloud_to_cloud_score(
+
+            num_match, closests_words = cloud_to_cloud_score(
                 _class1[field],
                 _class2[field])
+
             correlation_match.append(
-                (idx, num_match, _class2['Course Title']))
+                (idx, num_match, _class2['Course Title'],
+                 closests_words
+                 ))
 
         correlation_distance = pd.DataFrame(correlation_distance, columns=[
             'original_index', 'Distance', 'Course Title'])
         correlation_match = pd.DataFrame(correlation_match, columns=[
-            'original_index', 'Number Match', 'Course Title'])
+            'original_index', 'Number Match', 'Course Title', 'closest_words'])
 
         correlation_distance = correlation_distance.sort_values(by=[
                                                                 'Distance'])
         correlation_distance = correlation_distance.iloc[:4]
         correlation_match = correlation_match.sort_values(by=[
             'Number Match'], ascending=False)
-        correlation_match = correlation_match.iloc[:4]
+        correlation_match = correlation_match.iloc[:6]
         matching_classes[i] = correlation_match
     return matching_classes
 

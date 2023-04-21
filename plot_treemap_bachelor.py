@@ -83,9 +83,9 @@ def main():
     st.plotly_chart(fig, use_container_width=True)
 
     match = find_matching_classes(df.copy(), df_epfl.copy())
-    for k, m in match.items():
-        st.markdown(f"# {df.iloc[k]['Course Title']}")
-        st.dataframe(m)
+    # for k, m in match.items():
+    #     st.markdown(f"# {df.iloc[k]['Course Title']}")
+    #     st.dataframe(m, use_container_width=True)
 
     match_result = st.empty()
     match_result.markdown("## Searching closest EPFL class")
