@@ -1,0 +1,2292 @@
+[
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Hydraulic engineering and energy", "Transportation and mobility", "Geotechnical engineering"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Building energetics",
+		"ID":"ENG-445",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/fr/master/genie-civil/coursebook/building-energetics-ENG-445",
+		"Learning outcomes":[
+			"Estimate heat flows and energy demand in buildings",
+			"Assess / Evaluate interactions between comfort needs of occupants, building envelope and HVAC systems",
+			"Interpret indoor environmental quality standards",
+			"Examine the basics of a building energy simulation software"
+		],
+		"Description":[
+			"Energy concepts in buildings",
+			"Indoor thermal comfort",
+			"Indoor air quality",
+			"Building ventilation",
+			"Occupant behavior in buildings",
+			"Heat balance at the building level", 
+			"building envelope",
+			"Heating and cooling demand in buildings",
+			"building energy simulation tools",
+			"Energy demand", 
+			"human comfort",
+			"indoor environmental quality"		
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Dynamic analysis of structures",
+		"ID":"CIVIL-420",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/dynamic-analysis-of-structures-CIVIL-420",
+		"Learning outcomes":[
+			"Determine the Eigenfrequencies of an Oscillating System",
+			"Determine the internal forces and displacements of an oscillating system",
+			"Analyze the dynamic behavior of a simple oscillator",
+			"Analyze the dynamic behavior of a multiple oscillator",
+			"Use a response spectrum",
+			"Choose or select an adequate calculation method of the dynamic response",
+			"Apply the notions of dynamic amplification and transmissibility",
+			"Propose a simple model for the dynamic analysis of a structure"
+		],
+		"Description":[
+			"ONE DEGREE OF FREEDOM SYSTEM",
+			"Undamped oscillations. ",
+			"Damped oscillations. ",
+			"Sustained or forced oscillations (harmonic disturbance). ",
+			"Transmissibility. ",
+			"Movement of the foundation",
+			"Any disturbance. ",
+			"Duhamel integral or convolution." ,
+			"Impact","Blast strength. ",
+			"Digital integration. ",
+			"Newmark method." ,
+			"Distributed mass: rigid and flexible bodies.",
+			"SYSTEM WITH SEVERAL DEGREES OF FREEDOM",
+			"Rayleigh Quotient. ",
+			"eigenpulsations", "eigenvectors",
+			"Spectra" ,
+			"Introduction to modal analysis. ",
+			"Massive shock absorbers.",
+			"Mass shock absorber for pedestrian bridges and diving boards in Switzerland."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transportation and mobility"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Fundamentals of traffic operations and control",
+		"ID":"CIVIL-457",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/fr/master/genie-civil/coursebook/fundamentals-of-traffic-operations-and-control-CIVIL-457",
+		"Learning outcomes":[
+			"Assess / Evaluate the performance of transport systems",
+			"Optimize the level of mobility in a city",
+			"Analyze the different types of congestion",
+			"Apply control strategies in congested networks",
+			"Illustrate with simple examples the complexity of transport systems",
+			"Establish methodologies to model congestion"
+		],
+		"Description":[
+			"Traffic engineering studies"," traffic control devices", 
+			"capacity and level of service analysis of freeways and urban streets for multimodal systems. ",
+			"Performance models", "modeling techniques", "queuing theory", 
+			"network analysis and simulation", 
+			"micro- (car following)", "meso- (link level)", "macro- (network level) .",
+			"Design of control strategies for simple systems. ",
+			"Application of traffic operations to the design of isolated intersection",
+			"coordinated traffic signal control systems. ",
+			"Emission models"," Public Transportation Operations.",
+			"traffic engineering", 
+			"traffic flow theory", 
+			"traffic management", 
+			"ramp metering", 
+			"public transportation", "operations"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Geomechanics",
+		"ID":"CIVIL-402",
+		"ECTS": 3,
+		"Semester":"Any",
+		"URL": "",
+		"Learning outcomes":[
+			"Recognize the stress path(s) to which the soil is subjected in the context of the engineering application of interest",
+			"Use methods for evaluating the in-situ stress state",
+			"Recognize the most suitable constitutive model for the problem of interest in relation to the soil and the problem itself",
+			"Judge capabilities and limitations of constitutive models",
+			"Assess / Evaluate Evaluate the geotechnical parameters governing the geomechanical problem",
+			"Choose the correct laboratory or in-situ tests for the determination of the needed parameters",
+			"Interpret the experimental data resulting from a laboratory campaign in order to obtain the parameters of interest",
+			"Assess / Evaluate the lateral earth pressure under different hydraulic conditions",
+			"Use consciously a finite element software for creating a geomechanical model appropriate for the problem of interest"
+		],
+		"Description":[
+			"Mechanical behaviour of geomaterial", "Constitutive models", 
+			"elasto-plasticity", "numerical modelling in geomechanics", "laboratory and in-situ testing",
+			"Stress-strain behaviour of geomaterials in drained and undrained conditions",
+			"triaxial testing",
+			"In-situ stress state",
+			"Stress-strain constitutive frameworks",
+			"Elasticity",
+			"Linear and non-linear elasticity",
+			"Applications of elastic models",
+			"Plasticity",
+			"Plasticity principle and yield criteria for geomaterials",
+			"Critical state concept",
+			"Elasto-plastic stress-strain constitutive frameworks",
+			"Time dependent behaviour of geomaterials",
+			"Real cases and time-dependent phenomena",
+			"Viscous deformations: basic concepts and experimental evidences",
+			"Visco-elasto plastic models",
+			"Behaviour of unsaturated geomaterials",
+			"Hydraulic and mechanical behaviour",
+			"Effective stress definition for unsaturated geomaterials",
+			"Retaining structures in saturated and unsaturated geomaterials",
+			"Lateral earth pressure for saturated and unsaturated soils (Rankine's theory)",
+			"Shear strength of unsaturated geomaterials",
+			"Darcy's law for saturated and unsaturated geomaterials",
+			"Thermo-mechanics and soil dynamics",
+			"Mechanical behaviour of soils in non-isothermal conditions",
+			"Mechanical behaviour of soils under dynamic loads",
+			"Advanced topics in geomechanics",
+			"Energy related applications",
+			"Bio-improved soils"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic engineering and energy"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Hydraulic and hydroelectric structures and schemes",
+		"ID":"CIVIL-412",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/fr/master/genie-civil/coursebook/infrastructures-et-batteries-hydroelectriques-CIVIL-412",
+		"Learning outcomes":[
+			"Design the main hydraulic structures related to the production and storage of hydroelectric energy",
+			"Characterize the different types of hydroelectric infrastructure including hydraulic batteries",
+			"Assess the hydraulic potential and energy storage by pumping",
+			"Optimize the layout and preliminary sizing of hydroelectric infrastructure and batteries"
+		],
+		"Description":[
+			"Hydroelectric power plants", "evaluation of hydraulic potential", "reservoirs", 
+			"water intakes in reservoirs", "penstocks", "galleries and wells under load", 
+			"diversion during construction", "spillways", "bottom outlets"," ski jumps", "energy dissipation",
+			"Hydroelectric infrastructures", "layout and operation of the main elements", 
+			"Design of low, medium and high head layouts", "Types of turbines",
+			"Hydroelectric batteries", 
+			"alternative types of pumped storage", "energy storage arrangements", "equipment solutions", 
+			"role in the power grid",
+			"Assessment of hydroelectric potential", 
+			"Water intakes in lakes or reservoirs", "hydraulic dimensioning", "formation of vortices",
+			"Equilibrium chimneys",
+			"Galleries and shafts under load", 
+			"types of coatings (permeable/impermeable)", "general design criteria and safety aspects",
+			"Safety works for emptying and for the evacuation of floods", 
+			"purpose and main elements of structures", 
+			"particular aspects related to valves", "aeration", "sediments",
+			"fluid-structure interaction", "rock mechanics", "system optimization", "economy"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Civil Engineering teaching unit: Docta Manus",
+		"ID":"CIVIL-475",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/civil-engineering-teaching-unit-docta-manus-CIVIL-475",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			"Hand drawing", "analysis", "structures", "tectonics", "tacit knowledge",
+			"basic drawing techniques", "sketch", "plan", "section", "elevation", "axonometry", "perspective",
+			"analytical drawing methods",
+			"exploring structural concepts", "architectural solutions",
+			"interplay of architecture and engineering", 
+			"the work of Mies van der Rohe, Jean Prouvé, Luigi Nervi, Robert Maillard or Eugène Freyssinet",
+			"load bearing structure and its tectonic and spatial articulation",
+			"proportion", "material innovation", "tectonic articulation",
+			"importance of detail",
+			"parameters and dependencies of the design process"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Summer workshop",
+		"ID":"PENS-491",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/summer-workshop-PENS-491",
+		"Learning outcomes":[
+			"Independently plan and lead an interdisciplinary project",
+			"Situate the research questions in a broader context",
+			"Structure a problem systemically",
+			"Choose or select the right disciplinary approaches to deal with a subject",
+			"Justify the relevance of the approaches.",
+			"Propose and defend coherent and innovative solutions",
+			"Synthesize information",
+			"Critically evaluate solutions and results"
+		],
+		"Description":[
+
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Civil system project",
+		"ID":"CIVIL-491",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/civil-system-project-CIVIL-491",
+		"Learning outcomes":[
+			"Lead an individual research project",
+			"Model a given system",
+			"Design a search",
+			"Critically evaluate results",
+			"Compose a project report in written form",
+			"Present a project orally for a scientific audience",
+			"Develop experience in a specific area of research",
+			"Represent data consistently and efficiently"
+		],
+		"Description":[
+			"Definition and modeling of a civil engineering system",
+			"Analysis of system behavior", "possible improvements and extensions",
+			"Systematic simulations with the established system", "parametric analysis",
+			"Optimization of the system by adding new elements",
+			"Operation and performance analysis",
+			"Technical report",
+			"Executive summary."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Construction project",
+		"ID":"CIVIL-490",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/construction-project-CIVIL-490",
+		"Learning outcomes":[
+			"Lead an individual research project",
+			"Apply skills to a specific topic",
+			"Design a search",
+			"Critically evaluate results",
+			"Compose a project report in written form",
+			"Present a project orally for a scientific audience",
+			"Develop experience in a specific area of research",
+			"Represent data consistently and efficiently"
+		],
+		"Description":[
+			"Development of a project for a civil engineering work",
+			"Analysis of basic data", "generation of variants", "comparison of variants", 
+			"choice of the best variant", "dimensioning", "optimization within the framework of a preliminary project",
+			"cost estimation", "work planning", "study of construction details", 
+			"development of a plan file",
+			"Technical report with calculation notes", "Executive summary"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"ENAC project",
+		"ID":"PENS-490",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/enac-project-PENS-490",
+		"Learning outcomes":[
+			"Independently plan and lead an interdisciplinary research project",
+			"Situate the research questions in a broader context",
+			"Structure a problem systemically",
+			"Choose or select the right disciplinary approaches to deal with a subject",
+			"Justify the relevance of the approaches.",
+			"Propose and defend coherent and innovative solutions",
+			"Synthesize information",
+			"Critically evaluate solutions and results"
+		],
+		"Description":[
+			"interdisciplinary subject"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Laboratory GC",
+		"ID":"CIVIL-492",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/laboratory-gc-CIVIL-492",
+		"Learning outcomes":[
+			"Run a trial",
+			"Apply skills to a specific topic",
+			"design a trial",
+			"Critically evaluate results",
+			"Compose a test report in written form",
+			"Expose an essay orally for a scientific audience",
+			"Represent data consistently and efficiently"
+		],
+		"Description":[
+			"basic rules of test design",
+			"representativeness of the sample", "reproducibility of tests", "quality assurance and control", 
+			"design of a computer calculation program",
+			"systems and equipment to be used according to the type of test",
+			"setting up", "calibration", "precision" , "stability of the instruments","programming", "algorithms",
+			"principles of operation","data acquisition systems", "calculation programs", "measuring or computer systems and equipment.",
+			"Measurement campaign or programming",
+			"Interpretation of results"
+			
+			
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"HSS : Introduction to project",
+		"ID":"",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/humanities-and-social-sciences-program/",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"HSS : Project",
+		"ID":"",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/humanities-and-social-sciences-program/",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Pre-study master project",
+		"ID":"CIVIL-598",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/pre-study-master-project-only-semester-m3-CIVIL-598",
+		"Learning outcomes":[
+			"Formulate the basic data of the master's project",
+			"Plan the stages of your master's project",
+			"Defining the objectives of the master's project"
+		],
+		"Description":[
+			"Pre-study to acquire the basic knowledge and data of the master's project"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural engineering", "Transportation and mobility", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Master Thesis ",
+		"ID":"CIVIL-599",
+		"ECTS": 30,
+		"Semester":"Any",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/master-project-in-civil-engineering-CIVIL-599",
+		"Learning outcomes":[
+			"Design a complex project",
+			"Produce original methods and reasoning",
+			"Defend the project and its results",
+			"Interpret complex results",
+			"Summarize the major challenges of the project",
+			"Contextualize the results of the project",
+			"Justify project options"
+		],
+		"Description":[
+			"large-scale project"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced composites in engineering structures",
+		"ID":"CIVIL-443",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/advanced-composites-in-engineering-structures-CIVIL-443",
+		"Learning outcomes":[
+			"Analyze the behavior of composite structures.",
+			"Design composite structures.",
+			"Assess / Evaluate the strength of composite structures.",
+			"Manage design projects.",
+			"Express their opinion on design projects.",
+			"Define needs and set priorities.",
+			"Organize their work (especially when working in a team).",
+			"Create complete technical reports."
+		],
+		"Description":[
+			"composite materials", "fibers", "resins",
+			"Manufacturing", "composite components.",
+			"composites-Anisotropic theory of elasticity.",
+			"Mechanics of laminates.",
+			"Classical lamination theory.",
+			"Introduction to structural design.",
+			"Fabrication and testing of laminates.",
+			"Failure of FRP laminates.",
+			"Fatigue of composite materials.",
+			"Joints and joining techniques."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced Steel Design",
+		"ID":"CIVIL-435",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/advanced-steel-design-CIVIL-435",
+		"Learning outcomes":[
+			"Describe the behaviour of various steel lateral load resisting systems and their structural components",
+			"Design steel structures for seismic and wind loading",
+			"Assess / Evaluate the basic behaviour of steel components under cyclic loading",
+			"Recognize different damage mechanism",
+			"Visualize the behaviour of structural elements"
+		],
+		"Description":[
+			"steel structural systems", "moment frames, braced frames", "eccentrically braced frames",
+			"supplemental damping systems", "buckling restrained bracings", "capacity design", "seismic retrofitting with dampers",
+			"seismic steel design", "bolted and welded connections", "steel moment resisting frames",
+			"steel frames with concentric & eccentric bracings", "capacity design",
+			"buckling-restrained bracings", "friction dampers", "seismic retrofitting of existing structures with supplemental damping",
+			"smart statics", "Seismic action and behaviour factors", "Frame stability",
+			"steel moment resisting frames (MRFs)", "welded beam-to-column connections", 
+			"bolted beam-to-column connections",
+			"Column web panel", "steel columns", "Steel frames with concentric bracings (CBFs)",
+			"Steel frames with eccentric bracings (EBFs)",
+			"Eccentric brace links - replacable links",
+			"Buckling restrained bracings (BRBs)",
+			"Seismic design of BRB connections",
+			"Supplemental damping systems for seismic retrofitting"
+		
+		],
+		"Pre-requisites":[
+			"Dynamic analysis of structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced Structural Dynamics",
+		"ID":"CIVIL-467",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/advanced-structural-dynamics-CIVIL-467",
+		"Learning outcomes":[
+			"Understand in detail the fundamental concepts that control the dynamic response of structures",
+			"Compute the dynamic response of nonlinear structural systems with localized material nonlinearity",
+			"Formulate the equations of motion of different types of structural dynamic systems",
+			"Apply and understand the different technique for passive vibration control of structures",
+			"Use proficiently the technique of discrete Fourier analysis of structures",
+			"Use and learn discretization techniques for the analysis of continuous structural systems",
+			"Compute the dynamic response onf any linear dynamic system clasically or non clasically damped"
+		],
+		"Description":[
+			"state-space", "linear systems", "damping"," earthquake engineering", "vibration control", "dynamic response",
+			"dynamic equations of motion of structural sytems",
+			"representations of dynamics systems", "second-order, state-space, input-output relations", 
+			"Integration methods for the equations of motion in continuous and discrete time",
+			"direct integration", "modal analysis", "explicit and implicit methods", "stiff equation methods",
+			"Discrete-time Fourier analysis of structural systmes and mechanical/physical filters",
+			"Dynamic response of non-clasically damped systems",
+			"Approximate methods",
+			"dynamic order reduction of dynamic systems", "truncation", "Ritz and Lanczos vectors", "substructuring",
+			"Dynamic formulation and response of space continuous structural systems",
+			"Application of passive control of structural vibrations",
+			"tuned mass dampers", "viscoelastic", "viscous", "frictional and metallic dampers"
+		],
+		"Pre-requisites":[
+			"Dynamic analysis of structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Aesthetics of civil structures",
+		"ID":"CIVIL-476",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/aesthetics-of-civil-structures-CIVIL-476",
+		"Learning outcomes":[
+			"Defend the aesthetic values of civil engineering works in their environment",
+			"Expose the aesthetic value of significant works",
+			"Integrate the basic notions for the aesthetic design of works and the improvement of the aesthetics of existing works"
+		],
+		"Description":[
+			"Aesthetic considerations", "moral duty", "perception of a work", 
+			"urban and rural sites", "kinds of aesthetics",
+			"Objective rules of aesthetics for bridges, tunnels, retaining walls, noise barriers, galleries, traffic routes, dams" ,
+			"Relationship with the environment (natural and built environment, culture), form and structure, texture and color, entity of works",
+			"Historical overview",
+			"Concrete works (bridges) by three Swiss engineers - Maillart, Sarrasin and Menn",
+			"Works designed by great engineers (Brunel, Eiffel, Freyssinet, Amman, Leonhardt, etc.)",
+			"Trends", "Aesthetics of refurbished or transformed structures", 
+			"aesthetics in new construction", "Calatrava", "cable-stayed structures", "metaphorical works", "industrial design."
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced design of concrete structures",
+		"ID":"CIVIL-414",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/advanced-design-of-concrete-structures-CIVIL-414",
+		"Learning outcomes":[
+			"Design precast structures",
+			"Dimension connections of precast structures",
+			"Design detailing the reinforcement for typical reinforced or prestressed concrete members",
+			"Produce sketches for precast structures",
+			"Present a project to the audience"
+		],
+		"Description":[
+			"Structural concrete", "precast structures"," reinforcement's detailing", "design", "dimensioning methods",
+			"Precast bridge",
+			"Industrial building",
+			"Office or commercial building",
+			"Parking garage",
+			"Drawings", "General drawings of the structure", "detailed drawings with reinforcement of the elements",
+			"detailed drawings of the connections", "prefabrication in buildings", "prefabrication in bridges",
+			"Connections and detailing in precast structures",
+			"General dimensioning of the structure",
+			"Detailed design of the elements",
+			"Detailing of reinforcement",
+			"Design of the connections",
+			"Detailing of the connections",
+			"Sketches (simplified drawings)",
+			"General drawing of the structure",
+			"Detailed drawings of the elements",
+			"Detailed drawings of the connections"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Analysis and management of industrial risks",
+		"ID":"ENV-508",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/analysis-and-management-of-industrial-risks-ENV-508",
+		"Learning outcomes":[
+			"Identify the dangerousness of a process",
+			"Calculate the effects of an accident",
+			"Choose or select the evaluation method"
+		],
+		"Description":[
+			"Reference industrial accidents",
+			"Regulatory bases",
+			"Swiss regulations",
+			"European and international regulations",
+			"Consideration of industrial risks in project management",
+			"Identification of hazards",
+			"Typology of hazards (explosion, fire, toxic dispersion, etc.)",
+			"Methodologies for developing accident scenarios",
+			"Accidentology",
+			"Damage assessment",
+			"Characterization of targets and their mode of exposure", "levels of vulnerability",
+			"Propagation vectors (heat fluxes, suppression wave, toxicity, dose effect)",
+			"Methodologies for assessing damage to humans, the environment, structures",
+			"Presentation of reference software and their implementation",
+			"Probability estimation",
+			"Cause and consequence trees",
+			"Risk assessments",
+			"Individual risks and collective risks",
+			"Concept of acceptability",
+			"Risk reduction strategies",
+			"Application to the installation of facilities and land use planning",
+			"Protection/prevention"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Composites design and innovation",
+		"ID":"CIVIL-464",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/composites-design-and-innovation-CIVIL-464",
+		"Learning outcomes":[
+			"Design and manufacture physical prototypes",
+			"Coordinate a small multidisciplinary group",
+			"Defend their project in front of an audience",
+			"Analyze multiple parameters and take decisions",
+			"Demonstrate the applicability of their product"
+		],
+		"Description":[
+			"Composites", "Design", "Product development", "Life cycle analysis",
+			"Composite design practices",
+			"Composite stress analysis", "failure of composite structures", 
+			"Experimental investigation of composite materials",
+			"Laminate fabrication specimen",
+			"Composite design/ joints in FRP structures", "Specimen mechanical testing", 
+			"property derivation", "mechanical performance",
+			"Numerical simulation of composite structural performance"
+		],
+		"Pre-requisites":[
+			"Advanced composites in engineering structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Computational geomechanics",
+		"ID":"CIVIL-423",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/computational-geomechanics-CIVIL-423",
+		"Learning outcomes":[
+			"Contextualise & create the necessary steps required to develop a numerical model of a geo-mechanical problem",
+			"Assess / Evaluate the benefits of different numerical approaches for a given problem",
+			"Choose the most adequate numerical techniques and solvers for a given geotechnical problem",
+			"Interpret & judge the results of numerical solvers for the solution of poro-elastoplastic problems",
+			"Develop numerical procedures for the solution of linear poroelastic problems",
+			"Conduct numerical solutions for practical geotechnical problems"
+		],
+		"Description":[
+			"numerical modeling", "geomechanics", "soil and rock mechanics",
+			"quantitative modeling of the combined mechanical deformation and fluid flow of porous geo-material.",
+			"modern numerical methods", "coupled & non-linear problems", "geo-mechanics / geotechnical engineering",
+			"quasi-static deformation of fluid-infiltrated porous media", 
+			"elastic and inelastic behavior under small-strain assumption","groundwater flow",
+			"linear poro-elasticity",
+			"fluid storage at depth", "flow around tunnels", "earth dams", "aquifer discharge", "consolidation problems",
+			"irreversible plastic geo-material behavior",
+			"non-linear behavior of interfaces",
+			"different type of numerical algorithms",
+			"commercial solvers", "code verification", "analysis of numerical results"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Concrete bridges",
+		"ID":"CIVIL-430",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/concrete-bridges-CIVIL-430",
+		"Learning outcomes":[
+			"Design and size beam, arch and cable-stayed bridges",
+			"Analyze the particularities of integral bridges and boom bridges",
+			"Distinguish execution modes"
+		],
+		"Description":[
+			"Design of beam bridges",
+			"Longitudinal dimensioning",
+			"Stability and dimensioning of piers",
+			"Interior and exterior prestressing",
+			"Transverse dimensioning",
+			"Influence of the mode of execution (arch, cantilever, pushing, prefabrication, ...)",
+			"Calculation and dimensioning of spacers",
+			"Design of cable-stayed bridges",
+			"Design of integral bridges",
+			"Design of boom bridges"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering", "Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Construction law for engineers I",
+		"ID":"ENG-470",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/construction-law-for-engineers-i-ENG-470",
+		"Learning outcomes":[
+			"Apply standards and regulations in the field of construction",
+			"Organize contractual relations between stakeholders",
+			"Recognize the legal issues specific to each subject taught",
+			"Identify the elements at risk that require the support of construction lawyers"
+		],
+		"Description":[
+			"Construction law", "engineering contract", "construction contract", 
+			"tender documents"," civil liability", "criminal liability", "public contracts", 
+			"warranty for defects", "dispute resolution"," international contracts",
+			"Legal principles", "sources of construction law",
+			"public law", "private law", "criminal law", "rules", "standards and directives issued by professional associations.",
+			"Organization of a project", "rights and duties of the parties", 
+			"roles of the various stakeholders (engineers, project owner, construction company) ", 
+			"phases of a project.",
+			"competitions and mandates for parallel studies", "subjection", "threshold values", "suitability"," award criteria.",
+			"draft contract"," tender conditions.",
+			"differences between mandate contract and company contract.",
+			"Execution of the work", "management of the works:", "role and responsibilities of the parties", 
+			"measurements", "order modifications", "acceptance of the work", "warranty for defects",
+			"Civil and criminal liability of the engineer", 
+			"conditions of liability", "assessment of damage", "role of insurance.",
+			"Dispute resolution methods", "legal proceedings", "negotiation", "mediation", "conciliation", 
+			"dispute boards", "arbitration", "proof for the future", "expertise-arbitration",
+			"FIDIC contracts", "cooperation and development organizations", "project financing", "international tenders", "BOT-BOO-BOOT"
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering", "Structural engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Construction law for engineers II",
+		"ID":"ENG-471",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/construction-law-for-engineers-ii-ENG-471",
+		"Learning outcomes":[
+			"Draw up an engineer's contract and the tender documents",
+			"Defend their interests",
+			"Situate the roles of the various stakeholders in a project and master the responsibilities of each"
+		],
+		"Description":[
+			"Real case studies of conflicts in the field of construction.",
+			"Analysis of contractual measures to limit disputes.",
+			"Development of contractual documents (engineering services and submission of construction works)",
+			"Joint exercises with law students from the University of Fribourg.",
+			"Construction law", "engineering contract", "tender documents", "civil and criminal liability"
+		],
+		"Pre-requisites":[
+			"Construction law for engineers I"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering", "Structural engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Continuum mechanics and applications",
+		"ID":"CIVIL-425",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/continuum-mechanics-and-applications-CIVIL-425",
+		"Learning outcomes":[
+			"Conceptualize and formalize a boundary value problem in continuum mechanics.",
+			"Master the fundamental principles of continuum mechanics."
+		],
+		"Description":[
+			"theory of continuum mechanics",
+			"Kinematics of deformation", "finite kinematics",
+			"Conservation laws (lagrangian and eulerian form)", "conservation of mass", "linear and angular momentum balance", 
+			"principle of virtual work", "energy", "first and second law of thermodynamics",
+			"constitutive theory and applications", "include linear and non-linear elasticicity", "visco elasticity", "plasticity", "Newtonian and non-Newtonian fluids", 
+			"flow in porous media"," shock waves in materials."
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 0,
+		"Track": ["Geotechnical engineering", "Structural engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Dams and appurtenant hydraulic structures",
+		"ID":"CIVIL-411",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/dams-and-appurtenant-hydraulic-structures-CIVIL-411",
+		"Learning outcomes":[
+			"Analyze the elements to be considered for the choice and sizing of the different types of dams",
+			"Compare different solutions from a technical, economic and environmental point of view",
+			"Designing the first installation of a dam",
+			"Dimension the different types of concrete and embankment dams on the level of the pre-studies",
+			"Choose or select the best type of a dam"
+		],
+		"Description":[
+			"Purposes of dams and reservoirs", "Potential positive and negative impacts on the environment.",
+			"Types of dams", "Choice criteria for selecting the type of dam",
+			"Concrete dams", "design criteria", "Calculations of forces and stresses in gravity dams", "buttress dams and arch dams",
+			"Behavior in the event of an earthquake", "Constructive details", "Particular problems of foundations and underpressures",
+			"Drainage and sealing screens", "Specificities of mass concrete", "mode of construction", "heating effect",
+			"Construction alternatives", "roller-compacted concrete", "hard fill", "cyclopean concrete",
+			"Monitoring of dams", "Security and risk management concept", "Equipment for auscultation",
+			"Earth embankment or rock fill dams", "Typical profiles and selection criteria", "Sealing systems", "upstream mask", 
+			"clay core", "internal membrane", "homogeneous dikes", "Treatment of foundations", "Stability calculations", 
+			"Checks during execution and operation", "Surface protection",
+			"Interaction dam-ancillary structures", "Layout of structures", "spillway", "bottom outlet", "water intake", 
+			"diversion", "power station",
+			"Innovation in the field of dams and emergency planning",
+			"Design and sizing of dams as water retention/storage structures",
+			"Embankment",
+			"dams Mixed dams"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transportation and mobility"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Decision-aid methodologies in transportation",
+		"ID":"CIVIL-557",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/decision-aid-methodologies-in-transportation-CIVIL-557",
+		"Learning outcomes":[
+			"Model decision processes in transportation systems as optimization problems",
+			"Implement and solve optimization problems using state-of-the-art solvers, i.e., CPLEX.",
+			"Choose an appropriate optimization approach.",
+			"Analyze and model big data using state-of-the-art mathematical methods.",
+			"Choose an appropriate data analysis and modelling approach."
+		],
+		"Description":[
+			"operations research", "big data analysis and modelling",
+			" decision support in transportation systems",
+			"outline of the process", "analysis of the major challenges",
+			"optimization/data analysis and modelling methods",
+			"Implementation of the methods using software tools",
+			"model and implement decision support methods in transportation systems",
+			"optimization software tool CPLEX"
+		],
+		"Pre-requisites":[
+			"Research skills for engineers"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transportation and mobility"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Deep learning for autonomous vehicles",
+		"ID":"CIVIL-459",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/deep-learning-for-autonomous-vehicles-CIVIL-459",
+		"Learning outcomes":[
+			"Define the fundamental steps behind an AI-driven system",
+			"Design the building steps of an autonomous vehicle",
+			"Implement an algorithm for each step",
+			"Explain and understand the challenges and ethical impacts"
+		],
+		"Description":[
+			"Defining Autonomous Vehicles", "Artificial Intelligence", "Machine Learning", "Deep learning",
+			"3 pillars of Autonomous Vehicles", "Perception", "Prediction", "Planning", "sensing modalities",
+			"Deep learning for Perception", "regression", "classification",
+			"Neural Network", "CNN"," regularization techniques",
+			"State-of-the-art techniques", "Self supervised learning", "Vision Transformer",
+			"Recurrent Neural Networks","clone socially-accepted human behavior","Graph Neural Network", "Transformer", "Diffusion",
+			"Deep Learning for Planning", "role of ethics", "integrate ethical decisions",
+			"Self-driving car", "human-robot tandem race"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering", "Structural engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Energy geostructures",
+		"ID":"CIVIL-444",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/energy-geostructures-CIVIL-444",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			"Energy geostructures",
+			"structural role of foundations",
+			"the heating/cooling role of geothermal heat exchangers",
+			"structural, geotechnical and energy behaviour"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Engineering geology for geo-energy",
+		"ID":"CIVIL-428",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/engineering-geology-for-geo-energy-CIVIL-428",
+		"Learning outcomes":[
+			"Construct a coherent geological model with the available data.",
+			"Anticipate the rock mass and hydraulic perturbations for any subsurface projects (i.e. deep geothermal, CO2 storage, construction of deep geological disposal for radioactive waste).",
+			"Design the rock mass and hydraulic perturbations for any subsurface projects (i.e. deep geothermal, CO2 sequestration,construction of deep geological disposal for radioactive waste).",
+			"Use correctly the acquired data in the project for building a coherent interpretation."
+		],
+		"Description":[
+			"structural geology", "tectonics", "natural and induced seiscimicity", 
+			"stress measurements", "borehole stability", "hydraulic fracturing", 
+			"deep geological disposal for radioactive wastes", "deep geothermal systems", "CO2 sequestration", "heat storage"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 0,
+		"Track": ["Geotechnical engineering", "Structural engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Existing structures : basis",
+		"ID":"CIVIL-436",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/existing-structures-basis-CIVIL-436",
+		"Learning outcomes":[
+			"Evaluate and analyze the physico-chemical and mechanical phenomena of the behavior of existing structures (bridges, buildings) as well as auscultation methods",
+			"Determine data, actions and resistances by updating, as well as models for the verification of structural safety.",
+			"Integrate and assimilate a systematic approach when examining an existing structure"
+		],
+		"Description":[
+			"Engineering in existing structures", "Systematic approach", "material and immaterial values", "requirements", 
+			"terminology", "Deterioration of reinforced concrete", "Transport phenomena", 
+			"reinforcement corrosion due to carbonation and chlorides", "cracking", "frost effect", 
+			"alkali-aggregate reaction", "change in state and damage", "deterioration curves",
+			"Auscultation and statement of the state", "Visual survey", 
+			"characterization of the properties of the concrete cover", "permeability", "thickness", "resistivity",
+			"measurement of the electrochemical potential", "methods impact-echo and georadar", 
+			"measurements of deformations and efforts in the structures", "Structural safety"," Step-by-step approach", 
+			"structural behavior", "updating of resistances", "material properties", "resistance models", "permanent loads", 
+			"traffic loads", "climatic actions", "structural analysis models", "accidental actions", 
+			"application of probabilistic methods", "level security required", "Monitoring", "Methodology", 
+			"monitoring methods (visual and by measurements)", "security considerations", "Interventions", 
+			"rehabilitation", "reinforcement through armed CFUP", "reinforcement with bonded carbon fiber lamellae", 
+			"proportionality of interventions", "existing structure", "updating of actions and resistances", 
+			"auscultation methods", "inspection of works", "verification of structural safety"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering", "Hydraulic engineering and energy", "Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Existing structures : selected topics",
+		"ID":"CIVIL-437",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/existing-structures-selected-topics-CIVIL-437",
+		"Learning outcomes":[
+			"Defend a systematic approach in the development of the intervention project",
+			"Evaluate the principles of intervention methods and processes to improve existing structures",
+			"Apply an approach to control accidental actions",
+			"Implement the notions of monitoring structures and deepen the notion of managing a fleet of structures"
+		],
+		"Description":[
+			"general approach (standard SIA 269)",
+			"economic aspects of the interventions",
+			"Actualization of actions", "effects of actions",
+			"auscultation of massive structures by georadar",
+			"actualization of permanent actions",
+			"monitoring of the effect of traffic actions (rail, road)",
+			"Structural behavior", "ultimate limit state", "fatigue", "failure",
+			"structural response of an existing structure", "methodology to verify the structural safety of a building slab",
+			"load test", "analysis of the structure",
+			"plasticity of reinforced concrete", "failure mechanisms", "bearing capacity of vaults in natural stone masonry",
+			"failure of a structural element under dynamic action",
+			"fatigue of reinforced concrete elements",
+			"Interventions to improve existing structures",
+			"improvement of reinforced concrete elements by means of reinforced CFUP", "deepening",
+			"additional prestressing"
+
+
+		],
+		"Pre-requisites":[
+			"Existing structures : basis"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Flood and dam break waves",
+		"ID":"CIVIL-515 ",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/flood-and-dam-break-waves-CIVIL-515",
+		"Learning outcomes":[
+			"Recognize physical phenomena (advection, diffusion)",
+			"Select the equations corresponding to the physical phenomenon",
+			"Determine a method of solving the equations according to the problem",
+			"Modeling the propagation of a flood on a catchment area",
+			"Justify a hydraulic calculation for non-permanent regimes",
+			"Build a hydraulic risk study (flood)",
+			"Deduce the minimal physical equations representative of a complex engineering problem"
+		],
+		"Description":[
+			"Conservation equations", "Saint Venant equations", "backwater curves", "limits of use of Saint Venant equations", 
+			"diffusion", "convection", "advection-diffusion",
+			"Flood waves and floods", "physical phenomena", "flood estimation", "propagation calculation", "kinematic wave", "diffusive wave",
+			"Waves", "treatment of waves in the equations of Saint Venant", "dynamic wave", "wave train", 
+			"waves due to wind and swell", "tsunami", "impulse wave", "tidal bore",
+			"Dam failures", "physical phenomena", "engineering design", "failure mode", "dam failure for viscous materials", 
+			"dam failure for non-viscous materials", "effect of friction on propagation",
+			"Saint-Venant equations", "hydraulic jump", "backwater curve", "flood", "dam failure", "wave", "flow", 
+			"inundation", "tsunami", "dam", "kinematic wave", "dynamic wave", "diffusive wave", "convection", "advection", 
+			"diffusion"," hyperbolic problem", "parabolic problem"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 0,
+		"Track": ["Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Fluvial hydraulics and river training works",
+		"ID":"CIVIL-410",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/fluvial-hydraulics-and-river-training-works-CIVIL-410",
+		"Learning outcomes":[
+			"Apply the theoretical bases of river hydraulics",
+			"Describe the importance of the interaction between flow and sediment",
+			"Dimension the most important measures of watercourse development for the protection of banks and beds against erosion",
+			"Apply the importance of flood protection and environmental protection"
+		],
+		"Description":[
+			"Non-permanent flow", "hydrodynamic equations", "solution methods", "kinematic wave", "diffusive wave", 
+			"flood wave", "translation wave", "Sediment transport", "bedload transport", "suspension transport", 
+			"total transport", "alluvial morphodynamics", "Material transport", "advection", "molecular diffusion", 
+			"turbulent diffusion", "dispersion", "transport with reaction", "water quality",
+			"Design of watercourse and flood protection facilities", "Hazard analysis", "protection objectives",
+			"Importance of thrust for flood protection", "Flow interaction with riparian vegetation",
+			"Planning and sizing of protection measures on watercourses", 
+			"protection of banks", "stabilization of beds against erosion", "riprap", "protective walls", "groynes", 
+			"sills", "crossings", "block ramps", "widenings",
+			"Methods of revitalization of rivers and space required.",
+			"River hydraulics"," river management", "sediment transport", "fluid mechanics", "river engineering"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Geology for construction and environment",
+		"ID":"CIVIL-403",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/geology-for-construction-and-environment-CIVIL-403",
+		"Learning outcomes":[
+			"Differentiate the main rocks",
+			"Dimension water catchment works",
+			"Analyze aquifer systems",
+			"Assess the dangers of water on constructions",
+			"Assess the spread of a chemical tracer",
+			"Evaluate the operation of slope instability",
+			"Assess natural geological hazards",
+			"Evaluate the hydrogeological context of a structure"
+		],
+		"Description":[
+			"Stratigraphy and tectonics",
+			"Physics of underground flows",
+			"Flow systems", "types of aquifers",
+			"Types of permeability",
+			"Mass transport in solution",
+			"heat transfer",
+			"Well Testing",
+			"Water catchments",
+			"Main types of loose rocks (Alpine arc)",
+			"Clays and soil structure",
+			"Mechanical effects of water on soils",
+			"Fractured rocks and representation",
+			"Energies of geological origin, including hydrocarbons",
+			"Geological storage of CO2 and waste",
+			"Geological hazards and risks",
+			"Slope movements and drainage",
+			"Contaminated sites and remediation",
+			"Geology",
+			"Hydrogeology",
+			"Natural hazards",
+			"Natural resources"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Geophysics for engineers",
+		"ID":"CIVIL-448",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/geophysics-for-engineers-CIVIL-448",
+		"Learning outcomes":[
+			"Measure, map and image the physical properties of the Earth’s crust. ",
+			"Prepare maps, cross sections and images of physical properties of the Earth for economic, engineering, safety and environmental reasons."
+		],
+		"Description":[
+			"methods of geophysical exploration and survey",
+			"investigation of subsurface",
+			"prospecting for natural resources", "geological surveying",
+			"engineering investigations",
+			"gravity methods",
+			"magnetic methods",
+			"radiometric surveys and remote sensing",
+			"electric current methods",
+			"resistivity methods",
+			"electromagnetic methods",
+			"seismic methods",
+			"reflection methods",
+			"Refraction methods",
+			"Induced and natural seismicity (fault mechanics & risk and hazard related to  seismicity)",
+			"Geophysical borehole loggings",
+			"Geophysical prospecting", "geophysical survey", "seismic", "electric", "potential methods."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Impact studies",
+		"ID":"ENG-474",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/impact-studies-ENG-474",
+		"Learning outcomes":[
+			"Calculate emission and immission levels by applying laws and standards"
+		],
+		"Description":[
+			"Swiss and European legal bases", "Reference states", "Procedures", "Actors", "Communication principles",
+			"Reference documents", "identification of issues and relevant areas", 
+			"impact assessment", "calculation techniques", "presentations of solutions to reduce impacts",
+			"synthetic presentation tools",
+			"Principles of liability", "decisive procedure", "competent authority", "partners",
+			"Spatial planning"," natural hazards",
+			"Traffic and mobility",
+			"Road, rail and industrial noise (OPB)", "emissions", "immissions",
+			"Air protection (OPAIR)", "climate", "non-ionizing radiation (ORNI)", "energy",
+			"Protection of ground and surface water",
+			"Waste", "polluted sites",
+			"Major accident risks (OPAM, summary report).",
+			"Landscape protection", "forest", "archeology",
+			"Nature", "renaturation", "soil protection", "crop rotation areas (SDA)",
+			"Site environmental monitoring", "strategic environmental studies",
+			"Choice of sites", "communications", "example from Africa"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Indoor air quality and ventilation",
+		"ID":"CIVIL-460",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/indoor-air-quality-and-ventilation-CIVIL-460",
+		"Learning outcomes":[
+			"Integrate indoor air quality & ventilation requirements into the building design & operation lifecycle",
+			"Discuss about sources of particle- and gas-phase air pollutants in buildings and their impact on human health and well-being",
+			"Perform calculations related to aerosol and gas-phase disctribution and human exposure",
+			"Assess / Evaluate building air pollution control mechanisms and determine their effectiveness",
+			"Integrate air quality data and prepare and review written and oral technical documents",
+			"Perform indoor air quality assessment through handling instrumentation and conducting measurements"
+		],
+		"Description":[
+			"Indoor air pollution properties", 
+			"sources and concentrations", 
+			"sick-building syndrome", 
+			"health effects and risk analysis",
+			"polluant dynamic behaviour and fate", 
+			"source control", 
+			"conventional and advanced ventilation strategies",
+			"ariflow/pollution distribution", "air filtration energy conservation",
+			"human exposure assessment", "models for predicting source emissions and human exposure",
+			"air pollution monitoring", "air quality", "ventilation standards", "healthy building guidelines",
+			"Air quality in buildings", 
+			"ventilation strategies", 
+			"airflow distribution", "human exposure"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering", "Transportation and mobility", "Hydraulic engineering and energy", "Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Innovation for construction and the environment",
+		"ID":"CIVIL-424",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/innovation-for-construction-and-the-environment-CIVIL-424",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			"historical aspects" , "the role of different actors", "Disruptive versus incremental innovation",
+			"Ideation", "Intellectual Property creation" , "Innovation adoption lifecycle",
+			"Systematization of new process", "efficient exploitation of resources" , "material knowledge",
+			"Development of innovative solutions at the construction site",
+			"Large data and Artificial Intelligence in construction",
+			"Innovative inspection methods" , "augmented reality in construction",
+			"AI-assisted design", "3d printing ", "robotics-enabled construction",
+			"Nature-based innovation in materials and methods",
+			"Leveraging Technology to Increase operational productivity, quality & safety",
+			"Life cycle assesement" , "circular economy",
+			"Smart buildings",
+			"Swiss ConstructionTech innovation ecosystem",
+			"innovation", "optimization", "materials", "productivity", "environmental impact"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Machine learning for predictive maintenance applications",
+		"ID":"CIVIL-426",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/machine-learning-for-predictive-maintenance-applications-CIVIL-426",
+		"Learning outcomes":[
+			"Define the learning problem in way that allows its solution based on existing constrains such as lack of fault samples",
+			"Design data-driven predictive maintenance applications for complex engineered systems from raw condition monitoring data",
+			"Assess / Evaluate the performance of the applied algorithms",
+			"Choose machine learning algorithms for fault detection, diagnostics and prognostics",
+			"Interpret the results of the algorithms"
+		],
+		"Description":[
+			"condition monitoring" , "predictive maintenance systems",
+			"Feature extraction" , "selection methodology",
+			"Machine learning algorithms for fault detection and fault isolation",
+			"End-to-end learning architectures (including feature learning) for fault detection and fault isolation",
+			"Unsupervised" ," semi-supervised learning algorithms for predictive maintenance",
+			"Machine learning algorithms for prediction of the remaining useful life",
+			"Performance evaluation",
+			"Predictive maintenance systems at fleet level",
+			"Domain adaptation for fault diagnostics",
+			"decision support systems for maintenance applications",
+			"machine learning", "predictive maintenance", "fault detection", "fault diagnostics", "fault prognostics"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Materials and structures",
+		"ID":"CIVIL-532",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/materials-and-structures-CIVIL-532",
+		"Learning outcomes":[
+			"Choose or select appropriate cementitious materials for structural applications",
+			"Optimize their implementation",
+			"Justify their choice",
+			"Infer their properties in structures",
+			"Model using appropriate calculation methods",
+			"Characterize by appropriate test methods",
+			"Formulate recipes for cementitious materials"
+		],
+		"Description":[
+			"basic components", "mineral binders and additions",
+			"rheology of fresh cementitious materials and admixtures",
+			"property optimization",
+			"improvement of workability (self-compacting concretes - SCC)",
+			"improvement of mechanical resistance (BHP - UHPFRC)",
+			"improvement of deformability (addition of fibers - fiber-reinforced concrete and UHPC)",
+			"mechanics of work-hardening fiber-reinforced concretes",
+			"improvement of durability (BN, BHP, UHPFRC)",
+			"test methods",
+			"material specification","quality assurance",
+			"environmental report",
+			"openings towards the design of innovative structures",
+			"Fiber-reinforced concrete", "UHPFRC", "SCC", "binders", "mineral additives", 
+			"admixtures", "hydration", "microstructure", "work hardening", "compactness", "workability",
+			"deformability", "resistance", "structural behavior", "environmental balance"
+		],
+		"Pre-requisites": [
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Mathematical modelling of behavior",
+		"ID":"MATH-463",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/mathematical-modelling-of-behavior-MATH-463",
+		"Learning outcomes":[
+			"Model discrete choice"
+		],
+		"Description":[
+			"Introduction and examples",
+			"Choice theory",
+			"Binary choice",
+			"Multinomial choice",
+			"Specification testing",
+			"Prediction",
+			"Nested Logit model",
+			"Multivariate extreme Value models",
+			"Sampling",
+			"Mixed models.",
+			"Choice models with latent variables.",
+			"Discrete choice and machine learning"		
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Nonlinear analysis of structures",
+		"ID":"CIVIL-449",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/nonlinear-analysis-of-structures-CIVIL-449",
+		"Learning outcomes":[
+			"Hypothesize different structural members with adequate modelling approaches",
+			"Choose appropriate constitutive laws, element formulations and solution methods for structures undergoing inelastic deformations",
+			"Conduct nonlinear static and dynamic analyses of complete structures",
+			"Apply a nonlinear finite element software for seismic modelling and analysis",
+			"Interpret output and estimate achievable simulation accuracy"
+		],
+		"Description":[
+			"Truss models with material and geometric nonlinearity",
+			"Solution strategies for static loads",
+			"Total and incremental compatibility and equilibrium relations of beams, accounting for large displacements.",
+			"Differential equations for Euler-Bernoulli and Timoshenko beams.", "Sectional analysis of RC sections.",
+			"Beam formulations with concentrated and distributed plasticity approaches (force-based and displacement-based).",
+			"Damping models.",
+			"Nonlinear static and dynamic analysis.",
+			"Review of past blind prediction tests and comparison between numerical and experimental results.",
+			"Finite element analysis", "modelling of structures", "seismic analysis"
+		],
+		"Pre-requisites":[
+			"Dynamic analysis of structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Optional transdisciplinary project",
+		"ID":"CIVIL-493",
+		"ECTS": 4,
+		"Semester":"Any",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/optional-transdisciplinary-project-CIVIL-493",
+		"Learning outcomes":[
+			"Lead an individual research project",
+			"Apply skills to a specific topic",
+			"Design a search",
+			"Critically evaluate results",
+			"Compose a project report in written form",
+			"Present a project orally for a scientific audience",
+			"Develop experience in a specific area",
+			"Represent data consistently and efficiently"
+		],
+		"Description":[
+			"socio-economic problem","economic", "legal", "social", "political", "ecological",
+			"highlight the methodology", "the main results of the study", "personal opinion of the student", "summary", "list of bibliographical references"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Programming concepts in scientific computing",
+		"ID":"MATH-458",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/programming-concepts-in-scientific-computing-MATH-458",
+		"Learning outcomes":[
+			"Interpret algorithms in c++",
+			"Modify algorithms in c++",
+			"Implement algorithms in c++",
+			"Construct class hierarchies",
+			"Use Eigen-C++ linear algebra library",
+			"Use GIT"
+		],
+		"Description":[
+			"Flow control", "I/O",
+			"Pointers",
+			"Blocks", "functions", "variables",
+			"Classes", "derivation", "inheritance",
+			"Templates",
+			"Linear algebra",
+			"Basics of parallel programming"
+			
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Transportation and mobility"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project management and risk analysis",
+		"ID":"MGT-427",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/project-management-and-risk-analysis-MGT-427",
+		"Learning outcomes":[
+			"Lead a project team",
+			"Develop project variants",
+			"Plan project variants",
+			"Select or choose the selected variant",
+			"Anticipate the risks",
+			"Arrange",
+			"Return and communicate",
+			"To implement"
+		],
+		"Description":[
+			"General principles of project management",
+			"The phases of a project",
+			"The strategic and operational approach of a project",
+			"Risk management",
+			"Organizational forms of projects",
+			"Physical evaluation of project variants",
+			"Behavioral evaluation of project variants by digital simulation",
+			"Project economic evaluation",
+			"choice of variant(s)", "multi-criteria analysis",
+			"Project planning and scheduling",
+			"Examples and case studies",
+			"Computer applications",
+			"Project management", "risks", "economic evaluation", "planning"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Geotechnical engineering", "Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Quantitative imaging for engineers",
+		"ID":"CIVIL-510",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/quantitative-imaging-for-engineers-CIVIL-510",
+		"Learning outcomes":[
+			"Analyze An image-based measurement system",
+			"Interpret Quantitative image-based measurements",
+			"Propose Suitable image-based measurement tool for different practical problems",
+			"Quantify Measurement errors and their source"
+		],
+		"Description":[
+			"Images and measurements",
+			"Image acquisition basics", "sensors", "optics",
+			"Image quality basics", "noise", "blur", "contrast",
+			"Microscope characterisation",
+			"Object detection and characterisation",
+			"Depth measurement", "structured light", "time of flight",
+			"Building a 21st centry sandbox", "projecting height map onto sand",
+			"Drone flight to scan building on EPFL campus",
+			"(x-ray) Tomography", "acquiring and analysing 3D volume images",
+			"3D evaluation of a concrete specimen on PIXE",
+			"Advanced image analysis", "tracking movement with image correlation",
+			"Crack detection and characterisation",
+			"quantitative imaging", "satellite imaging", "drone imaging", 
+			"thermal imaging", "photography", "microscopy", "x-ray tomography"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Transportation and mobility","Structural engineering","Geotechnical engineering","Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Research skills for engineers",
+		"ID":"CIVIL-465",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/research-skills-for-engineers-CIVIL-465",
+		"Learning outcomes":[
+			"Plan a research project",
+			"Structure a research report and a presentation",
+			"Apply principles of effective scientific writing",
+			"Apply best practices in research data management, coding and data visualisation",
+			"Apply best practices for using citations in scientific writing."
+		],
+		"Description":[
+			"Research skills"," scientific writing", "scientific presenting", "research data management", "coding"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Geotechnical engineering","Structural engineering","Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Risk analysis and management",
+		"ID":"CIVIL-438",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/risk-analysis-and-management-CIVIL-438",
+		"Learning outcomes":[
+			"Consider issues related to risk management",
+			"Distinguish the main methods of analysis, know the methods of estimating and evaluating risks, and know how to apply them to simple cases",
+			"Design risk mitigation measures, depending on the scenarios and on simple cases"
+		],
+		"Description":[
+			"development of risk analysis methods", "lessons to be learned from past events", "Terminology and definitions",
+			"Risk analysis and estimation methods", "Safety and reliability analyses", "dependability", 
+			"criteria for qualifying severity", "methods for estimating severity", 
+			"deterministic and probabilistic approaches", "Monte-Carlo methods", "risk representation tools",
+			"Risk assessment", "Criteria of acceptability", "comparison between the estimation of risks and these criteria", 
+			"comparison of philosophies according to fields and countries", "the acceptability of risk", "perceptions vs. rational approaches.",
+			"Risk mitigation", "Families of prevention and protection measures (constructive, technical, organizational)", 
+			"impact on risk components", "cost-benefit approaches", "notions of responsibility and stakeholders", 
+			"financing of additional costs"," links between regulations / standards and risk limitation", "insurance",
+			"Response to events", "crisis management", "reconstruction", "impact on regulatory changes", "societal impact",
+			"integrated risk management", "Technological risks", "natural hazards", "project risks", 
+			"risks engineering offices", "risk analysis", "comprehensive risk management."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"River eco-morphology",
+		"ID":"ENV-418",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/river-eco-morphology-ENV-418",
+		"Learning outcomes":[
+			"Assess the ecological state of a river",
+			"Apply Diet Theory",
+			"Determine the formation of bed shapes",
+			"Plan and carry out a measurement campaign in the field",
+			"Recognize the critical points in the context of the revitalization of waterways"
+		],
+		"Description":[
+			"Water course corrections",
+			"Aims pursued and historical examples",
+			"Problems of stream corrections regardless of morphology",
+			"Solid transport and morphology interaction",
+			"The revitalization of waterways",
+			"Classification of natural waterways",
+			"Watercourses as corridors to link biotopes",
+			"Assessment of the ecological state of a watercourse",
+			"Revitalization Constraints",
+			"Technical measures to reduce ecological deficits",
+			"Revitalization of rivers and flood protection - a contradiction?",
+			"River dynamics",
+			"Transient flows and solid transport",
+			"Alluvial dynamics",
+			"Disruption of the natural regime by hydraulic developments",
+			"problem of residual flows", "tidal range", "clogging of the bed", "Solutions for mitigating adverse effects",
+			"Sanitation of locks",
+			"Restoration of thrust",
+			"Bed shapes", "flow resistance",
+			"The dynamic shapes of the bed",
+			"Vertical and horizontal morphologies",
+			"Resistance of the bed and banks",
+			"Natural morphological regimes",
+			"Regime theory (width, slope, depth)",
+			"Meanders and braided beds",
+			"Local enlargements",
+			"Interaction between morphology and habitat quality of aquatic species",
+			"Ecology and fish habitats",
+			"Habitat modeling",
+			"Longitudinal and lateral connectivity"," fish migration",
+			"River revitalization", "stream planning", "stream space", "river morphology", "regime theory", 
+			"habitat diversity", "fish connectivity and migration"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering","Structural engineering","Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Seismic engineering",
+		"ID":"CIVIL-522",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/seismic-engineering-CIVIL-522",
+		"Learning outcomes":[
+			"Explain the effects of an earthquake on structures",
+			"Design wall-type structures (RC and URM) for earthquakes"
+		],
+		"Description":[
+			"Seismicity",
+			"Typical failure modes of structures",
+			"Conceptual seismic design",
+			"Analysis methods",
+			"Response spectra for elastic and inelastic systems",
+			"Equivalent lateral force method",
+			"Response spectrum analysis",
+			"Design and evaluation methods",
+			"Force-based methods",
+			"Displacement-based methods",
+			"Design philosophies",
+			"Conventional design",
+			"Capacity design",
+			"Reinforced concrete structures",
+			"Inelastic behaviour when subjected to cyclic loading",
+			"Seismic detailing of reinforced concrete structures",
+			"Existing structures",
+			"Displacement-based assessment",
+			"Risk-based assessment according to SIA 269/8",
+			"Unreinforced masonry structures",
+			"Types of masonry structures",
+			"In-plane and out-of-plane failures",
+			"Seismic response of historical masonry structures",
+			"Retrofit methods",
+			"Seismic design and assessment of reinforced concrete and unreinforced masonry structrues"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Geotechnical engineering", "Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Selected topics in mechanics of solids and structures",
+		"ID":"CIVIL-527",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/selected-topics-in-mechanics-of-solids-and-structures-CIVIL-527",
+		"Learning outcomes":[
+			"To reinforce the general culture in mechanics of solids and structures of the future engineer by highlighting fundamentals.",
+			"To study some advanced topics in recent or fondamental fields of structural and continuum mechanics.",
+			"To understand and model the behaviour of materials under extreme loading conditions."
+		],
+		"Description":[
+			"Wave dynamics",
+			"mechanics of rupture",
+			"Fracture Mechanics"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Slope stability",
+		"ID":"CIVIL-530",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/slope-stability-CIVIL-530",
+		"Learning outcomes":[
+			"Recognize type and occurrence of natural and man-made slope movements",
+			"Assess / Evaluate the key geotechnical parameters that govern slope stability",
+			"Use methods for slope stability assessment, modelling of slope movement and back-analysis of failed slopes",
+			"Judge capabilities and limitations of slope stability analysis software",
+			"Decide the fundamental steps for landslide investigations and select remedial measures",
+			"Discuss risk analysis and early warning systems"
+		],
+		"Description":[
+			"Mass movement classification and landslide activity",
+			"Methods of slope stability analysis",
+			"Limit equilibrium analysis",
+			"Infinite slope analysis",
+			"Methods for circular and non-circular slip surface",
+			"Seismic slope stability",
+			"Methods for modelling soil mass movements",
+			"Coupled and un-coupled numerical analyses",
+			"The role of pore water pressure",
+			"Characterization of the pore water pressures in slopes",
+			"Drained and undrained conditions",
+			"Delayed failure",
+			"Rapid drawdown",
+			"Unsaturated conditions",
+			"Failure mechanisms and choice of geotechnical parameters",
+			"Shear strength of soils in unsaturated conditions",
+			"Progressive failure",
+			"Landslide instrumentation",
+			"Measurement of displacements",
+			"Location of the slip surface",
+			"Measure of pore water pressures",
+			"Methods for slope stabilisation",
+			"Slope geometry modification and loads",
+			"Drainage systems",
+			"Retaining structures",
+			"Basics of risk analysis and early warning systems"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Steel structures",
+		"ID":"CIVIL-526",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/steel-structures-CIVIL-526",
+		"Learning outcomes":[
+			"Choose or select static systems and construction elements",
+			"Design building structures",
+			"Build buildings and structures",
+			"Formulate a calculation hypothesis",
+			"Analyze a supporting metal structure",
+			"Dimension a supporting structure in metal, in mixed construction"
+		],
+		"Description":[
+			"Design of load-bearing systems", "stabilization of multi-storey steel & mixed buildings",
+			"Structural elements", "building floors", "composite beams", "partial connection", "composite columns",
+			"Fire protection and calculation",
+			"Fatigue", "SN curves", "classification of construction details", "fatigue stresses", "histogram", 
+			"cumulative damage", "introduction to the influence of cracks (fracture mechanics).",
+			"mixed steel-concrete structures", "floor", "columns", "fire", "fatigue"	
+		],
+		"Pre-requisites":[
+			"Selected topics in mechanics of solids and structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structural stability",
+		"ID":"CIVIL-369 ",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/structural-stability-CIVIL-369",
+		"Learning outcomes":[
+			"Assess" , "Evaluate",
+			"Critique",
+			"Design",
+			"Estimate",
+			"Analyze",
+			"Check",
+			"Dimension",
+			"Define"
+		],
+		"Description":[
+			"Advanced topics in structural stability", "elastic & inelastic column buckling", 
+			"lateral-torsional buckling of bridge/plate girders", "nonlinear geometric effects", 
+			"frame stability", "computational formulation of stability theory", "Geometric stiffness method",
+			"Plate buckling"," Plastic collapse analysis",
+			"Plastic analysis" , "collapse loads",
+			"Stability of axially loaded members",
+			"Interaction curves" , "bending and axial load",
+			"Lateral torsional buckling of members",
+			"Euler method and equlibrium paths",
+			"Potential energy method for assessing stability",
+			"Dynamic method for assessing stability",
+			"structural stability", "static & dynamic loading", "nonlinear geometric instabilities", 
+			"nonlinear behaviour","plastic analysis", "plate buckling", "plate girders"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structure and architecture",
+		"ID":"CIVIL-434",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/structure-and-architecture-CIVIL-434",
+		"Learning outcomes":[
+			"Interpret the importance of the load-bearing function of a structure.",
+			"Demonstrate this importance through the study of classic and current examples.",
+			"Discuss and dialogue between trades."
+		],
+		"Description":[
+			"architectural and civil engineering works from the 20th and 21st centuries",
+			"Classical and current examples", "importance of the work","joint dialogue between architect and engineer."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Thermodynamics of comfort in buildings",
+		"ID":"CIVIL-450",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/thermodynamics-of-comfort-in-buildings-CIVIL-450",
+		"Learning outcomes":[
+			"Characterize local thermal environment and comfort",
+			"Assess / Evaluate energy expenditure to provide indoor comfort",
+			"Carry out measurements of indoor comfort and energy performance using diagnostic instrumentation",
+			"Take into consideration the effect of various modes of heat transfer on human body",
+			"Perform data analysis and presentation"
+		],
+		"Description":[
+			"human drivers in terms of heating and cooling in buildings",
+			"Ergonomics of the thermal environment", "subjective and objective assessment of the indoor thermal environment",
+			"Instumentation for measuring physical quantities of the indoor thermal environment",
+			"Heat transfer through opaque and transparent building elements", 
+			"their effect on spatial and temporal indoor thermal conditions",
+			"Relation of human comfort needs with energy systems in buildings", 
+			"matching the quality of energy demand and supply"," the cost of comfort",
+			"Practical evaluation of the intricate thermodynamic relationship between human body, indoor and outdoor environment", 
+			"building envelope",  "mechanical conditioning systems",
+			"Human thermal comfort", "ergonomics of indoor environment", "indoor climatization", "heat transfer", "energy"		
+		],
+		"Pre-requisites":[
+			"Building energetics"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Timber construction",
+		"ID":"CIVIL-433",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/timber-construction-CIVIL-433",
+		"Learning outcomes":[
+			"Choose or select static systems and construction elements",
+			"Design structural systems",
+			"Build assemblies",
+			"Formulate a calculation hypothesis for the dimensioning of the structure",
+			"Analyze the behavior of the structure",
+			"Dimension the structure"
+		],
+		"Description":[
+			"beam", "truss", "crutch tie rod systems",
+			"design of load-bearing systems for multi-storey buildings",
+			"Stabilization of multi-storey buildings",
+			"Structural elements", "posts", "floors of buildings",
+			"Building envelope",
+			"Fire protection and calculation",
+			"wooden buildings", "pole", "floor", "assembly", "fire facade"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Transportation and mobility"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Towns and Transports",
+		"ID":"CIVIL-451",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/towns-and-transports-CIVIL-451",
+		"Learning outcomes":[
+			"Argue",
+			"Choose or select the methods and approaches appropriate to the solution of a 'transport' problem",
+			"Contextualize a general issue based on the specific data of a real case",
+			"Propose mobility solutions",
+			"Evaluate solutions in an environment of conflicting objectives",
+			"Interpret multi-actor and multi-objective situations",
+			"Plan transport policies",
+			"Situate the difficulties, avoiding confusing the trees with the forest"
+		],
+		"Description":[
+			"Demography and mobility",
+			"Supply and demand",
+			"The stages of the project",
+			"Road nodes",
+			"Modes of transport",
+			"Urban transport",
+			"Land use",
+			"Accessibility concept",
+			"Network capacity"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transportation and mobility"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Transportation economics",
+		"ID":"CIVIL-455",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/transportation-economics-CIVIL-455",
+		"Learning outcomes":[
+			"Design multimodal systems",
+			"Analyze equilibrium models",
+			"Assess / Evaluate consumer behaviour",
+			"Demonstrate knowledge in transport economics",
+			"Develop discrete choice models",
+			"Illustrate environmental externalities",
+			"Investigate cost benefit analysis"
+		],
+		"Description":[
+			"Foundation of microeconomics", "consumer behaviour", "firm behaviour", "cost functions", "equilibrium", 
+			"optimum", "perfect and imperfect competition", "regulation", "classical economics", "the new economic world",
+			"Transport in Europe and in the world", "passenger", "freight", "Urban development",
+			"Static model in Transport", "Small network (analytical)", "pricing", "Cost in transport",
+			"Dynamic model in Transport", "One route", "pricing in the homogeneous case", 
+			"Extension to take account of heterogeneity", "Large scale models", "Road pricing",
+			"Cost benefit analysis", "self-financing", "The 4 stage model revisited", "Risk", "theory", "measure", "applications",
+			"Externalities", "environmental externalities", "accidents", "Local and global pollution", "Instruments and regulation",
+			"Demand", "Discrete Choice Models", "Modeling demand from individuals", "households", "firms", "urban Economics",
+			"Estimation of demand using binary and multinomial models",
+			"LUTI Models", "Modeling interactions between residential location, job and firm location", "real estate prices", 
+			"Partial and general equilibrium",
+			"transport economics", "equilibrium", "Rational behaviour", "competition"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": -1,
+		"Track": ["Transportation and mobility", "Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Transport facilities I",
+		"ID":"CIVIL-463",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/transport-facilities-i-CIVIL-463",
+		"Learning outcomes":[
+			"Design transport infrastructure",
+			"Analyze its stresses (loads, materials and climatic conditions)",
+			"Optimize Building Blocks",
+			"Plan laboratory or in-situ tests",
+			"Identify the different production technologies"
+		],
+		"Description":[
+			"Materials that make up transport infrastructure", "aggregates", "ballast", "binders", "concrete", "bituminous mixes", "rails",
+			"General design of the road pavement", "function of the different layers", "works and usual technologies",
+			"traffic", "climatic conditions", "design methods",
+			"Components of the railway track", "rail", "sleepers", "ballast",
+			"Dimensioning of railway tracks",
+			"Realization and design methods of airport pavements",
+			"Rack railways", "funiculars and other cable transport",
+			"roads", "railways", "airports", "cable transport", "realisation", "construction", "materials", "dimensioning methods"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transportation and mobility", "Geotechnical engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Transport facilities II",
+		"ID":"CIVIL-454",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/transport-facilities-ii-CIVIL-454",
+		"Learning outcomes":[
+			"Use transport network maintenance tools",
+			"Establish the record of damage to a transport infrastructure and understand the causes",
+			"Analyze the safety of a road network and propose corrective measures for accidentology",
+			"Use multi-criteria decision support methods to choose a variant"
+		],
+		"Description":[
+			"Basics of road safety", "systemic approach", "statistics"," ISSI tools",
+			"Road safety in operation", "accidentology", "Road Safety Inspection (RSI)", "Black Spot Management (BSM)",
+			"Principles of transport infrastructure maintenance management"," maintenance management system", "road database",
+			"Degradation of road pavements", "typology", "readings", "descriptive indices", "modeling of the evolution of degradations",
+			"Reinforcement of road pavements", "techniques", "design methods",
+			"Degradation of railway tracks", "material-geometry relationships", "typology", "surveys",
+			"Railway track maintenance techniques",
+			"Maintenance strategy choice methods", "economic and multi-criteria aspects", "choice methods (monetarization)",
+			"roads", "railways", "airports", "cable transport", "management", "maintenance", "multi-criteria methods", 
+			"road safety", "safety inspection"	
+		],
+		"Pre-requisites":[
+			"Transport facilities I"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical engineering", "Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Underground construction technology ",
+		"ID":"CIVIL-404",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/underground-construction-technology-CIVIL-404",
+		"Learning outcomes":[
+			"Classify and identify the behavior of the rock mass and the excavation classes",
+			"Determine the major risks and possible solutions in the case of underground work",
+			"Examine and Compare different options for the planning (and alignment) of an underground work",
+			"Choose or select the most appropriate construction and support techniques for the identified excavation classes, taking into account the associated risks",
+			"Evaluate the best solutions using multi-criteria analysis methods to compare the different options for the location and alignment of an underground structure",
+			"Defend and justify the options chosen in terms of excavation methods and types of support",
+			"Synthesize the results obtained in a final report"
+		],
+		"Description":[
+			"Geoplanning and design of underground space", "geological considerations and investigations", "planning and design",
+			"Risk assessments", "construction and safety management (including environment)",
+			"Underground works", "construction techniques", "conventional and mechanized methods", "pipe-jacking (push tube)", 
+			"construction of wells", "soil improvement", "water management (drainage systems and waterproofing)", 
+			"temporary and permanent retaining techniques", "instrumentation and monitoring", "ventilation",
+			"Maintenance and renovation", "considerations on the long-term behavior of structures", "degradation and instabilities", 
+			"maintenance and upkeep monitoring methodologies", "repair of tunnels",
+			"underground space projects"," urban tunnels", "base tunnels", "underwater tunnels", 
+			"tunnel rehabilitation",
+			"Underground space and works", "Tunnels", "Caverns", "Planning and management",
+			"Maintenance"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Urban hydraulic systems",
+		"ID":"CIVIL-413",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/urban-hydraulic-systems-CIVIL-413",
+		"Learning outcomes":[
+			"Describe the objectives of urban hydraulic systems",
+			"Analyze the legal environment of urban hydraulic networks",
+			"Assess / Evaluate the sewer types and existing systems",
+			"Elaborate relevant discharges",
+			"Characterize fresh water supply nets, captures and reservoirs",
+			"Design sewer pipes considering all related phenomena",
+			"Estimate the hydraulically correct dimensions of manholes",
+			"Compose urban hydraulic nets out of the relevant elements"
+		],
+		"Description":[
+			"urban hydraulics",
+			"Legal and conceptual aspects", "common concepts of fresh and waste water nets",
+			"Sustainable design", "natural water cycle" ," reducing the pollution outfall",
+			"reduce the runoff generation", 
+			"evapotranspiration", "infiltration",
+			"Design bases related to fresh water consumption", "storm water and dry-weather discharge in sewer", 
+			"flood retention with hydraulic design of components",
+			"competent organizations", "fresh water", "consumption", "production", "Capture",
+			"Reservoirs",
+			"Supply net hydraulics", "wastewater hydraulics",
+			"Hydraulic design of sewer conduit",
+			"Standard manhole",
+			"Special manhole", "Drop and junction", "sewer side weir", "bottom opening"
+
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic engineering and energy"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Water resources mangagement",
+		"ID":"CIVIL-466",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://edu.epfl.ch/studyplan/en/master/civil-engineering/coursebook/water-resources-mangagement-CIVIL-466",
+		"Learning outcomes":[
+			"Assess / Evaluate and model water resources a vailability at different scales",
+			"Calculate different water needs",
+			"Formulate an integrated and sustainable water management concept",
+			"Perform a basic economic analysis and assess the economic value of water projects",
+			"Distinguish between project development with or without profitability goal",
+			"Assess / Evaluate the internal rate of return and the net present value - Optimise the regulation of a watercourse",
+			"Assess / Evaluate he water issue in the current economic context"
+		],
+		"Description":[
+			"water resources management (natural, environmental, social)",
+			"Integrated Management",
+			"Water resources",
+			"Hydrological cycle", "water balance", "renewal time",
+			"Surface waters", "Groundwater", "Water quality", "Quantification of water resources", "Climate change",
+			"Data availability and uncertainty", "statistical properties", "related modelling approaches",
+			"Water uses", "demand", "protection", " Urban use",
+			"Industrial use (e.g., hydropower, irrigation, thermal, etc.)", "Environmental use", "impact assessment",
+			"Flood protection", "Management", "sustainability",
+			"Multipurpose scheme",
+			"Water allocation",
+			"Balancing demand and supply",
+			"Conflict of interests",
+			"International river basins",
+			"Environmental, social and governance",
+			"Water economics and financing",
+			"Discounted cash-flow model",
+			"Sponsor's vs. lender's perspective",
+			"Risk management",
+			"Performance criteria",
+			"Optimization techniques",
+			"Decision making",
+			"Round table",
+			"Water cycle", "water resources", "water allocation", "optimization"
+		],
+		"Pre-requisites":[
+			
+		]
+	}
+]

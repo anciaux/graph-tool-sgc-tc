@@ -20,6 +20,7 @@ def main():
     option = st.selectbox(
         "Select the university", _filenames)
 
+    print(option)
     df = pd.read_json(option+'.json')
     raw_df = pd.read_json(option+'.json')
 
@@ -41,8 +42,12 @@ def main():
               df.apply(lambda x: x['Course Title'] +
                        '<br>ECTS:' + str(x['ECTS']), axis=1))
 
+    # fig = px.treemap(df, path=[px.Constant("all"),
+    #                           'Degree', 'Year', 'Semester', 'Title'], values='ECTS',
+
     fig = px.treemap(df, path=[px.Constant("all"),
                                'Degree', 'Year', 'Semester', 'Title'], values='ECTS',
+
                      # hover_name='Course Title',
                      # hover_data=['Description']
                      )

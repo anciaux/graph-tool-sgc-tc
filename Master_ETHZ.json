@@ -1,0 +1,3863 @@
+[
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "All",
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Project Management for Construction Projects",
+		"ID":"101-0007-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=163042&lang=en",
+		"Learning outcomes":[
+			"The goal is that at the end of this course students should have a good understanding of the different project management knowledge areas, the phases required for successful project management, and the role of a project manager."
+		],
+		"Description":[
+			"Project and organization structures",
+			"Project scheduling",
+			"Resource management",
+			"Project estimating",
+			"Project financing",
+			"Risk management",
+			"Project Reporting",
+			"Interpersonal skills"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Building Physics: Application and Theory",
+		"ID":"151-8011-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=161919&lang=de",
+		"Learning outcomes":[
+			"The students will acquire in the following fields",
+			"Principles of heat and mass transport and its mathematical description.",
+			"Indoor and outdoor climate and driving forces.",
+			"Hygrothermal properties of building materials.",
+			"Building envelope solutions and their construction.",
+			"Hygrothermal performance and durability."
+		],
+		"Description":[
+			"Principles of heat and mass transport",
+			"hygro-thermal performance", 
+			"durability of the building envelope and interaction with indoor and outdoor climates", 
+			"applications"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Design and Building Process MIBS",
+		"ID":"066-0427-00L",
+		"ECTS": 2,
+		"Semester":"Any",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162351&lang=de",
+		"Learning outcomes":[
+			"Participants will come to understand how they can best navigate the design and building process, especially in relation to understanding their profession, gaining a thorough knowledge of rules and regulations, as well as understanding how involved parties' minds work. ",
+			"They will also have the opportunity to investigate ways in which they can relate to, understand, and best respond to their clients' wants and needs." ,
+			"Finally, course participants will come to appreciate the various tools and instruments, which are available to them when implementing their projects." ,
+			"The course will guide the participants, bringing the individual pieces of knowledge into a superordinate relationship."
+		],
+		"Description":[
+			"competencies and the responsibilities of involved parties through the design and building process",
+			"profession", 
+			"service model", 
+			"organisation", 
+			"project", 
+			"design quality", 
+			"coordination", 
+			"costing", 
+			"tendering and construction management", 
+			"contracts and agreements", 
+			"life cycle", 
+			"real estate market", 
+			"the criteria of the project",
+			"highlights the proveded services of the consultants",
+			"the understanding of the twelve selected aspects"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Public Transport Design and Operations",
+		"ID":"101-0427-01L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162618&",
+		"Learning outcomes":[
+			"Goal of the class is to understand the main characteristics and differences of public transport networks.",
+			"Their various performance criteria based on various perspective and stakeholders.",
+			"The most relevant decision making problems in a planning tactical and operational point of view",
+			"At the end of this course, students can critically analyze existing networks of public transport, their design and use; consider and substantiate possible improvements to existing networks of public transport and the management of those networks; optimize the use of resources in public transport."
+		],
+		"Description":[
+			"Basics for line transport systems and networks",
+			"Passenger/Supply requirements for line operations",
+			"Objectives of system and network planning, from different perspectives and users, design dilemmas",
+			"Conceptual concepts for passenger transport: long-distance, urban transport, regional, local transport",
+			"Planning process, from demand evaluation to line planning to timetables to operations",
+			"Matching demand and modes",
+			"Line planning techniques",
+			"Timetabling principles",
+			"Allocation of resources",
+			"Management of operations",
+			"Measures of realized operations",
+			"Improvements of existing services"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Compulsory",
+		"Course Title": "Infrastructure Management 1: Process",
+		"ID":"101-0509-00L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&lerneinheitId=162572&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&",
+		"Learning outcomes":[
+			"understand the main tasks of an infrastructure manager and the complexity of these tasks",
+			"understand the importance of setting goals and constraints in the management of infrastructure",
+			"be able to predict the deterioration of individual assets using discrete states that are often associated with visual inspections",
+			"be able to develop and evaluate simple management strategies for individual infrastructure assets",
+			"be able to develop and evaluate intervention programs that are aligned with their strategies",
+			"understand the principles of guiding projects and evaluating the success of projects",
+			"be able to formally model infrastructure management processes", 
+			"understand the importance of evaluating the infrastructure management process and have a general idea of how to do so."
+		],
+		"Description":[
+			"introduction to infrastructure management",
+			"Positioning infrastructure management in society",
+			"Setting goals and constraints",
+			"Predicting the future",
+			"Determining and justifying general interventions",
+			"Determining and justifying monitoring",
+			"Converting programs to projects / Analysing project",
+			"Ensuring good information",
+			"Ensuring a well-run organization",
+			"Describing the IM process",
+			"Evaluating the IM process"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"An Introduction to Sustainable Development in the Built Environment",
+		"ID":"101-0577-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&lerneinheitId=162314&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&",
+		"Learning outcomes":[
+			"At the end of the semester, the students have an understanding of the term of sustainable development, its history, the current political and scientific discourses and its relevance for our built environment.",
+			"Students will learn a holistic approach of sustainable development. ",
+			"Ecological, economical and social constraints will be presented and students will learn about methods for argumentation and tools for assessment (i.e. life cycle assessment).",
+			"For this purpose an overview of sustainable development is presented with an introduction to the history of sustainability and its today definition as well as the role of cities, urbanisation and material resources (i.e. energy, construction material) in social economic and environmetal aspects.",
+			"The course aims to promote an integral view and understanding of sustainability and describing different spheres (social/cultural, ecological, economical, and institutional) that influence our built environment.",
+			"Students will acquire critical knowledge and understand the role of involved stakeholders, their motivations and constraints, learn how to evaluate challenges, identify deficits and define strategies to promote a more sustainable construction.",
+			"After the course students should be able to define the relevance of specific local, regional or territorial aspects to achieve coherent and applicable solutions toward sustainable development.",
+			"The course offers an environmental, socio-economic and socio-technical perspective focussing on buildings, cities and their transition to resilience with sustainable development. Students will learn on theory and application of current scientific pathways towards sustainable development."
+		],
+		"Description":[
+			"Overview on the history and emergence of sustainable development",
+			"Overview on the current understanding and definition of sustainable development",
+			"Life cycle assessment (planning, construction, operation/use, deconstruction)",
+			"Life Cycle Costing",
+			"Labels and certification",
+			"Operation energy at building, urban and national scale",
+			"Mobility and density questions",
+			"Embodied energy for developing and developed world",
+			"Synthesis: Transition to sustainable development"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Tunnelling I",
+		"ID":"101-0317-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163721&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Basic aspects of design and analysis of underground structures.", 
+			"Conventional tunnel construction methods." ,
+			"Auxiliary measures (ground improvement and drainage, forepoling, face reinforcement).", 
+			"Numerical analysis methods."
+		],
+		"Description":[
+			"Numerical analysis methods in tunnelling.",
+			"Conventional excavation methods (full face, top heading and bench, side drift method, ...)",
+			"Injections",
+			"Jet grouting",
+			"Ground freezing",
+			"Drainage",
+			"Forepoling",
+			"Face reinforcement"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Theoretical and Experimental Soil Mechanics",
+		"ID":"101-0357-00L",
+		"ECTS": 6 ,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162728&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Extend knowledge of theoretical approaches that can be used to describe soil behaviour.",
+			"Offer the opportunity to perform hands on element tests required for constitutive model calibration.",
+			"Enable students to select an appropriate constitutive model and calibrate it using element test performed in the lab.",
+			"Enable students to carry out FE analyses for realistic geotechnical applications."
+		],
+		"Description":[
+			"Overview of soil behaviour",
+			"Discussion of general gaps between basic theory and soil response",
+			"Stress paths in practice & in laboratory tests",
+			"Explanation of typical applications: reality, modelling, laboratory tests with transfer of results to the practical examples",
+			"Consolidation theory for incremental and continuous loading oedometer tests and typical applications in practice",
+			"Triaxial & direct shear tests: consolidation & shear, drained & undrained response",
+			"Plasticity theory & Critical State Soil Mechanics, Cam Clay",
+			"Application of plasticity theory",
+			"Introduction to physical modelling with emphasis on centrifuge modelling"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Design and Construction in Geotechnical Engineering",
+		"ID":"101-0307-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=163759&lang=en",
+		"Learning outcomes":[
+			"Transfer of the fundamental knowledge taught in the Bachelor degree to practical application.",
+			"Ability to plan and design geotechnical structures based on the state of the art."
+		],
+		"Description":[
+			"Introduction to Swisscode SIA",
+			"Foundations and settlements",
+			"Pile foundations",
+			"Excavations",
+			"Slopes",
+			"Soil nailing",
+			"Reinforced geosystems",
+			"Ground improvement",
+			"River levees"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Forensic Geotechnical Engineering",
+		"ID":"101-0369-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162045&lang=en",
+		"Learning outcomes":[
+			"In this course selected famous geotechnical failures are investigated with the following purpose:",
+			"to deepen understanding of the geotechnical risks and possible solutions",
+			"to practice design and analysis methods",
+			"to learn the techniques for investigation of failures",
+			"to learn the techniques for mitigation of the failure damage"
+		],
+		"Description":[
+			"Failure due to the loading history",
+			"Failure due to excessive settlements",
+			"Failure due to the leaning instability",
+			"Bearing capacity failure",
+			"Excavation failure",
+			"Failure in the creeping landslides",
+			"Failure evolution in submarine landslides",
+			"Construction in the landslide influence zone",
+			"Delayed failure in snow avalanches"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Theory of Structures III",
+		"ID":"101-0117-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162184&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Explain the equilibrium of continuous structural elements.",
+			"Formulate mechanical models of continuous prismatic structural elements.",
+			"Analyze the axial, shear, bending and torsion load-deformation response of prismatic structural elements and structures assembled using these elements.",
+			"Determine the state of forces and deformations in rods, beams, frame structures, arches, cables and rings under combined mechanical and thermal loading.",
+			"Use the theory of continuous structures to design structures and understand the basis for structural design code provisions."
+		],
+		"Description":[
+			"axial, shear, bending and torsion load-deformation response of continuous elastic prismatic structural elements (rods, beams, shear walls, frames, arches, cables and rings)",
+			"behavior of inelastic prismatic structural elements",
+			"the behavior of planar structural elements and structures (if time permits)",
+			"practical structural analysis of modern structures"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Advanced Structural Concrete",
+		"ID":"101-0127-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163190&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"deepen their understanding of structural concrete models and apply them to general design problems, including the assessment of existing structures.",
+			"enhance their knowledge about the load-deformation response of reinforced and prestressed concrete structures.",
+			"identify and assess the limits of applicability of limit analysis methods.",
+			"recognise the assumptions of models suitable for computer-aided structural design and use in a critical way structural concrete design software.",
+			"evaluate the long-term behaviour and the behaviour under fire conditions of concrete structures.",
+			"assess the behaviour of fibre reinforced concrete structures."
+		],
+		"Description":[
+			"Fundamentals (structural analysis, theorems of limit analysis, applicability of limit analysis methods)", 
+			"shear walls and girders (stress fields and truss models, deformation capacity, membrane elements with yield conditions and load-deformation behaviour, computer-aided structural design)", 
+			"slabs (equilibrium solutions, yield conditions, shear and punching shear)",
+			"fibre reinforced concrete (mechanical behaviour, applications)",
+			"long term effects",
+			"fire behaviour."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Steel Structures III: Advanced Steel and Composite Structures",
+		"ID":"101-0137-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162840&lang=en",
+		"Learning outcomes":[
+			"In Steel Structures III, students will deepen and expand their theoretical background and practical knowledge of the design and construction of steel and composite structures. ",
+			"The focus of the course lies on design tasks and solutions in modern, multi-storey, steel-framed buildings driven by architectural needs, as well as on certain special fields of application of steel structures. ",
+			"Students will learn how to solve complex structural engineering tasks in larger building projects, e.g. through the use and correct design of large-span slim-floor girders and ultra-slender composite columns, or the use of glazing and cable structures as principal load-carrying components. ",
+			"They learn how steel structures behave under fire conditions and how they can be protected and designed accordingly." ,
+			"Finally, students learn about the fundamental aspects governing the design of specialty steel structures, such as thin-walled cold-formed sections, crane girders, masts and storage tanks.",
+			"The examples of scientific and standardisation work provided in the lectures give the students the opportunity to learn about the most current developments and see how these are used to shape the future practice in the structural engineering field."
+		],
+		"Description":[
+			"multi-storey, steel-framed buildings ",
+			"use and design of large-span slim-floor girders",
+			"ultra-slender composite columns,",
+			"glazing and cable structures as principal load-carrying components",
+			"The design of steel structures under elevated temperatures (fire conditions) is treated",
+			"design for serviceability",
+			"design of cold-formed steel framed structures",
+			"overview on the design of specialty steel structures, such as crane girders, masts and storage tanks."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structural Reliability and Risk Analysis",
+		"ID":"101-0187-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162486&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The goal of this course is to provide the students with a thorough understanding of the key concepts behind structural reliability and risk analysis.",
+			"After this course the students will have refreshed their knowledge of probability theory and statistics to model uncertainties in view of engineering applications.", 
+			"They will be able to analyze the reliability of a structure and to use risk assessment methods for decision making under uncertain conditions.",
+			"They will be aware of the state-of-the-art computational methods and software in this field."
+		],
+		"Description":[
+			"probability theory",
+			"reliability and risk analysis",
+			"random variables and vectors", 
+			"dependence",
+			"correlation",
+			"Basic statistical inference methods used for building a probabilistic model from the available data",
+			" structural reliability analysis",
+			"Reliability indices",
+			"first order-second moment method (FOSM)",
+			"first order reliability method (FORM)",
+			"Methods based on Monte Carlo simulation",
+			"sensitivity measures and partial safety coefficients",
+			"reliability of structural systems",
+			" risk assessment methods",
+			"fault trees and event trees",
+			"concept of expected utility in the framework of decision making",
+			"Elements of Bayesian decision making",
+			"tutorial using the UQLab software"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structural Dynamics and Vibration Problems",
+		"ID":"101-0157-01L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162143&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Explain the dynamic equilibrium of structures under dynamic loading.",
+			"Use second-order differential equations to theoretically and numerically model the dynamic equilibrium of structural systems.",
+			"Model structural systems using single-degree-of-freedom and multiple-degree-of-freedom models.",
+			"Compute the dynamic response of structural system to harmonic, periodic, pulse, and impulse excitation using time-history and response-spectrum methods.",
+			"Use dynamics of structures to identify the basis for structural design code provisions related to dynamic loading."
+		],
+		"Description":[
+			"structural dynamics", 
+			"structural analysis for loads that induce significant inertial forces and vibratory response of structures", 
+			"Dynamic responses of elastic and inelastic single-degree-of-freedom and multiple-degree-of-freedom structural systems subjected to harmonic, periodic, pulse, and impulse excitation",
+			"vibration problems in flexible structures caused by humans, machinery, wind or explosions"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Moisture Transport in Porous Media",
+		"ID":"151-8015-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163154&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Basic knowledge of moisture transport and related degradation processes in porous materials",
+			"Knowledge of experimental determination of moisture transport properties",
+			"Application of knowledge to moisture transport in cracked materials, drying of porous materials and microclimate in urban street canyons"
+		],
+		"Description":[
+			"Moisture damage: problem statement, durability",
+			"Applications: building materials, soil science, geoscience",
+			"Moisture transport: theory and application",
+			"Description of moisture transport",
+			"Determination of moisture transport properties",
+			"Exercises on moisture transport properties",
+			"Liquid transport in cracked materials", 
+			"Drying of porous materials", 
+			"Microclimate in urban street canyons"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Fibre Composite Materials in Structural Engineering",
+		"ID":"101-0167-01L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162072&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Design advanced FRP composites for your structures",
+			"To consult owners and clients with necessray testing and SHM techniques for FRP structures",
+			"Continue your education as a phd student in this field."
+		],
+		"Description":[
+			"Lamina and Laminate Theory",
+			"FRP Manufacturing",
+			"Testing Methods",
+			"Design and Application of Externally Bonded Reinforcement to Concrete, Timber, and metallic Structures",
+			"FRP Reinforced Concrete", 
+			"All FRP Structures",
+			"Measurement Techniques",
+			"Structural Health Monitoring"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Timber Structures I",
+		"ID":"101-0637-01L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162428&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Comprehension and application of basic knowledge of structural timber design including material behaviour especially anisotropy, moisture and long duration effects and their consideration in structural analysis and detailing.",
+			"Conceptual design, detailing and structural analysis of multi-storey timber buildings as well as timber roof structures and halls."
+		],
+		"Description":[
+			"Field of application of timber structures",
+			"Timber as building material (wood structure, physical and mechanical properties of wood and wood-based products)",
+			"Durability",
+			"Principles of design and dimensioning",
+			"Connections (dowels, nails, screws, glued connections)",
+			"Timber components and assemblies (mechanically jointed beams, trusses)",
+			"Design and detaling of multi-storey timber buildings as well as timber roof structures and halls."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Energy and Climate Design I",
+		"ID":"052-0609-00L",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161955&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"At the end of this one-year course, students will be able to estimate the impact of energy and climate on a building.",
+			"You will be able to independently apply the steps of an integrated design process to your own project and master selected tools from the A/S knowledge platform (https://moodle-app2.let.ethz.ch/course/view.php?id=11917).",
+			"Future own designs can be supplemented and enriched with potentials from energy and climate analyses."
+		],
+		"Description":[
+			"physical principles", 
+			"concepts and methods for the efficient and sustainable heating", 
+			"cooling and ventilation of buildings",
+			"Interactions of energy and climate with architectural and urban design"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Computational Science Investigation for Material Mechanics",
+		"ID":"101-0617-02L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161885&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"In this course, we will use real-life cases to learn how to deal with such problems. ",
+			"Starting from the problem description with governing equations, you will learn how to tackle non-linear and multi-field problems using numerical simulations. ",
+			"A particular focus will be on fracture. ",
+			"We will investigate the conditions and mechanisms that lead to material failure and analyze the contributions of plastic behavior, size effects, randomness in the underlying material micro-structure, and various other non-linear material behavior. ",
+			"You will learn various approaches to model the mechanics of complex heterogeneous materials and to implement your model in Python code to run numerical simulations."
+		],
+		"Description":[
+			"Introduction to (numeric) forensic engineering",
+			"The nature of engineering problems (governing equations)",
+			"Numerical recipes for dealing with non-linear problems",
+			"Multi-field problems (HTM)",
+			"On the nature of failure - Physics of damage and fracture",
+			"Cracks and growth in structures (LEFM and beyond)",
+			"Introduction to metal plasticity",
+			"Damage and fracture in heterogeneous materials",
+			"Mechanics of fatigue",
+			"Visco-elastic failure"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Public Transport Design and Operations",
+		"ID":"101-0427-01L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162618&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Goal of the class is to understand the main characteristics and differences of public transport networks.",
+			"Their various performance criteria based on various perspective and stakeholders.",
+			"The most relevant decision making problems in a planning tactical and operational point of view",
+			"At the end of this course, students can critically analyze existing networks of public transport, their design and use; consider and substantiate possible improvements to existing networks of public transport and the management of those networks; optimize the use of resources in public transport."
+		],
+		"Description":[
+			"line transport systems and networks",
+			"Passenger/Supply requirements for line operations",
+			"system and network planning",  "different perspectives and users", "design dilemmas",
+			"Conceptual concepts for passenger transport", "long-distance", "urban transport", "regional", "local transport",			
+			"Planning process", "demand evaluation" , "line planning" , "timetables to operations",
+			"Matching demand and modes",
+			"Line planning techniques",
+			"Timetabling principles",
+			"Allocation of resources",
+			"Management of operations",
+			"Measures of realized operations",
+			"Improvements of existing services",
+			"system design",
+			"mathematical models for design and line planning",
+			"timetabling and tactical planning",
+			"operations",  "quantitative support" , "operational problems",
+			"evaluation of public transport systems"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Traffic Engineering",
+		"ID":"101-0437-00L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163171&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The objective of this course is to fully understand the fundamentals of traffic flow theory in order to effectively manage traffic operations. ",
+			"By the end of this course students should be able to apply basic techniques to model different aspects of urban and inter-urban traffic performance, including congestion."
+		],
+		"Description":[
+			"traffic flow theory and control",
+			"traffic data collection", "processing techniques", 
+			" data analysis", "traffic modeling", "methodologies for traffic control"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Transport Planning Methods",
+		"ID":"101-0417-00L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163062&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Knowledge and understanding of statistical methods and algorithms commonly used in transport planning",
+			"Comprehend the reasoning and capabilities of transport models",
+			"Ability to independently develop a transport model able to solve / answer planning problem",
+			"Getting familiar with cost-benefit analysis as a decision-making supporting tool"
+		],
+		"Description":[
+			"develop models", "planning problems", "cost-benefit analysis", "decision-making tool",
+			"estimation of traffic volumes", "prediction of estimated utilization of new public transport lines",
+			"evaluation of effects", "new infrastructure", "changes to operational regulations",
+			"regression", "discrete choice analysis", "iterative proportional fitting", "shortest path algorithms", 
+			"method of successive averages"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Introduction to Mathematical Optimization",
+		"ID":"401-0647-00L",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163472&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The goal of the course is to obtain a good understanding of some of the most fundamental mathematical optimization techniques used to solve linear programs and basic combinatorial optimization problems.",
+			"The students will also practice applying the learned models to problems in engineering."
+		],
+		"Description":[
+			"Linear programming", "simplex method", "duality theory", "shadow prices",
+			"Basic combinatorial optimization problems", "spanning trees", "shortest paths", "network flows",
+			"Modelling with mathematical optimization", "applications of mathematical programming in engineering"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Spatial Planning and Development",
+		"ID":"103-0317-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163695&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Inward development and challenges of spatial transformation",
+			"Planning approaches and The (political) steering of spatial development",
+			"Interplay of formal and informal processes and processes across different scales of spatial development",
+			"Methods of action-oriented planning in situations of insecurity",
+			"Integrated space and infrastructure development",
+			"Different types of participation in spatial development"
+		],
+		"Description":[
+			"Planning approaches and political organization in Switzerland",
+			"Tasks of spatial relevance",
+			"Key figures and ratios",
+			"Drivers of spatial development",
+			"Steering spatial development" , "Policy",
+			"Formal and informal instruments", "Governance", "Processes and organization",
+			"Methods in spatial planning",
+			"Planning in complex situations",
+			"Participation in spatial development",
+			"Present and future core tasks of spatial development"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Basics of Air Transport (Aviation I)",
+		"ID":"151-0227-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162321&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The goal is to understand and explain basics, principles and contexts of the broader air transport industry.",
+			"Further, we provide the tools for starting a career in the air transport industry. ",
+			"The knowledge may also be used for other modes of transport.",
+			"Ideal foundation for Aviation II - Management of Air Transport."
+		],
+		"Description":[
+			"Transport as part of the overall transportation scheme", 
+			"Aerodynamics"," Aircraft (A/C) Designs & Structures", "A/C Operations", 
+			"Aviation Law", "Maintenance & Manufacturers", "Airport Operations & Planning",
+			"Aviation Security", "ATC & Airspace", "Air Freight", "General Aviation",
+			"Business Jet Operations", "Business models within Airline Industry", "Military Aviation"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Railway Systems I",
+		"ID":"227-0523-00L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163934&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Overview of the technical characteristics of railway systems",
+			"Know-how about the design and construction principles of rail vehicles",
+			"Interrelationship between different fields of engineering sciences (mechanics, electro and information technology, transport systems)",
+			"Understanding tasks and opportunities of engineers working in an environment which has strong economical and political boundaries",
+			"Insight into the activities of the railway vehicle industry and railway operators in Switzerland",
+			"Motivation of young engineers to start a career in the railway industry or with railway operators"
+		],
+		"Description":[
+			"History and structure of the railway system",
+			"Driving dynamics",
+			"mainline vehicles",
+			"Mechanics", "box", "bogies", "running technique", "adhesion",
+			"Brakes",
+			"Traction Drive Systems",
+			"Auxiliary operations and comfort systems",
+			"Control and Regulation",
+			"Route",
+			"Traction power supply",
+			"Security Systems",
+			"operation",
+			"Interoperability", "Standards and Approval",
+			"RAMS", "LCC",
+			"Basic characteristis of railway vehicles", "interfaces with the railway infrastructure",
+			"Transportation tasks", "vehicle types",
+			"Running dynamics",
+			"Mechanical part of rail vehicles",
+			"Traction chain", "auxiliary supply",
+			"Railway power supply",
+			"Signalling systems",
+			"Standards",
+			"Availability and safety",
+			"Traffic control and maintenance"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Infrastructure Management 1: Process",
+		"ID":"101-0509-00L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162572&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"understand the main tasks of an infrastructure manager and the complexity of these tasks",
+			"understand the importance of setting goals and constraints in the management of infrastructure",
+			"be able to predict the deterioration of individual assets using discrete states that are often associated with visual inspections",
+			"be able to develop and evaluate simple management strategies for individual infrastructure assets",
+			"be able to develop and evaluate intervention programs that are aligned with their strategies",
+			"understand the principles of guiding projects and evaluating the success of projects",
+			"be able to formally model infrastructure management processes",
+			"understand the importance of evaluating the infrastructure management process and have a general idea of how to do so."
+		],
+		"Description":[
+			"infrastructure management","consideration of the benefits and costs", 
+			"balancing the need for prediction accuracy with analysis effort", "infrastructure management in society",
+			"role and activities of a network regulator", "service", "measures of service", "quantifiable and non-quantifiable benefits", 
+			"proxies of service", "valuing service", "expectations of service",
+			"justification of management activities", "provided service", "physical state of the infrastructure",
+			"predict their evolution over time", "Determining and justifying general interventions",
+			"explanation of the types of interventions", "how these interventions will achieve the goals",
+			"budget constraints", "determine optimal intervention strategies for individual assets", 
+			"convert these strategies into network level intervention programs",
+			"Determining and justifying monitoring", "Converting programs to projects", "Analysing projects",
+			"create, supervise and analyse projects",
+			"Ensuring good information", "development of a good information model",
+			"Ensuring a well-run organization", "Describing the IM process",
+			"modelling notation BPMN 2.0", "Evaluating the IM process"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Urban Systems and Transportation",
+		"ID":"363-1047-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163021&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The main objective of this course is to provide students with some basic tools to analyze the fundamental economic forces at play in urban systems (i.e., agglomeration and congestion forces), and the role of transport networks in shaping the structure of these systems. ",
+			"Why do urban areas grow or decline? How do transport networks affect the location of individuals and firms? Does the location of a firm determine its productivity? Can transport infrastructure investments reduce economic disparities? These are some of the questions that students should be able to answer after having completed the course."
+		],
+		"Description":[
+			"economic activity", "economic forces at play behind these trends", "effects within and across urban areas", 
+			"natural or man-made geographical characteristics affect the development of such urban systems",
+			"planning and pricing of transport networks", "local models", "complex transport models at a global scale",
+			"the first and second best road pricing", "the public provision of transport networks", "the demographic effects of transport networks",
+			"analyze the interaction between urban systems and transportation",
+			"economic mechanisms", "general equilibrium", "historical development of urban systems and transport networks",
+			"interaction in the past shapes today's economic geography",
+			"the relation between urban systems and fiscal federalism",
+			"environmental policies", "latest research developments in urban and regional economics", 
+			"economic approaches", "theoretical frameworks with strong micro-foundations", "precise policy recommendations"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Hydraulic Structurs II",
+		"ID":"101-0247-01L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162657&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Knowledge of hydraulic structures and their functiosn within hydraulic systems. ",
+			"Skills for the layout and design of hydraulic structures with regard to economy and safety."
+		],
+		"Description":[
+			"Weirs", "Weir stability", "gates", "inflatable dams", "appurtenant structures", "fish up- and downstream passages",
+			"Conduits", "Design of headraces", "pressure shafts",  "penstocks", "constructive details and construction",
+			"Power plants", "Power house and turbine types", "design", "structure", "construction",
+			"Dams", "Types"," appurtenant structures", "temporary diversions", "spillways", "bottom and low-level outlets", "dam type selection criteria", "layout and design of gravity dams", 
+			"buttress dams", "arch dams", "rockfill dams with central core or concrete face"," measures in the foundation"," mass concrete", "RCC dams", "reservoir siltation and sediment management", "dam surveillance",
+			"Artificial reservoirs", "Purpose", "layout", "sealing", "appurtenant structures", "environmental aspects"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Numerical Hydraulics",
+		"ID":"101-0267-01L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162867&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The goal of the course is to develop the understanding of the students for numerical simulation of flows to an extent that they can later use commercial software in a responsible and critical way."
+		],
+		"Description":[
+			"basic equations", "first principles", "Possible simplifications",
+			"their applicability", "non-steady state pipe flow", "numerical methods", "method of characteristics",
+			"finite difference methods", "finite volume method", "shallow water equations", "wave propagation", 
+			"turbulence modelling", "programs in MATLAB",
+			"BASEMENT", "non-steady shallow water flows"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Groundwater I",
+		"ID":"102-0455-01L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161979&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"In Groundwater I the competencies of process understanding are taught, applied and examined. ",
+			"Furthermore, system understanding and concept development are taught and applied, which are previous steps to groundwater modeling. ",
+			"To add measurement methods are taught and data analysis & interpretation is applied during the course.",
+			"Understanding of the basic concepts on groundwater flow and contaminant transport processes. ",
+			"Formulation and solving of practical problems."
+		],
+		"Description":[
+			"Properties of porous and fractured media", "Darcy's law", "flow equation", "stream functions", 
+			"interpretation of pumping tests", "transport processes", "transport equation", "analytical solutions for transport", 
+			"numerical methods", "finite differences method", "aquifers remediation", "case studies"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"River Engineering",
+		"ID":"101-0258-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162035&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"recall and describe the fundamentals of transport processes in rivers",
+			"apply different calculation approaches and methods to tackle river engineering problems and tasks such as the discharge capacity of a river, scour estimation, or sediment budget of a river",
+			"design and dimension river engineering works needed to influence the processes in watercourses", 
+			"determine the interaction between flow (discharge), sediment transport, wood transport and the resulting channel evolution."
+		],
+		"Description":[
+			"fundamentals of river engineering", "river discharge", "sampling methods", "characterize the bed material",
+			"transport processes of sediment", "bedload and suspended load", "wood in rivers", "incipient motion", 
+			"initiation of erosion", "deposition processes", "quantify the bed load budget", "morphological changes",
+			"erosion", "deposition", "natural channel formation processes", "different bed forms plan forms of rivers", "straight", 
+			"meandering", "braided", "design of river engineering structures", "ongoing flood and river revitalization project at the Alpine Rhine"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Watershed Modelling",
+		"ID":"102-0468-10L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162982&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The main aim of the course is to provide practical training with watershed models for environmental engineers. "
+		],
+		"Description":[
+			"watershed properties analysed from DEMs",
+			"global sources of hydrological data for modelling applications.", 
+			"GIS applications (ArcGIS, Q-GIS) in hydrology",
+			"flow direction routines", 
+			"catchment morphometry", 
+			"extracting river networks", 
+			"defining hydrological response units",
+			"conceptual watershed models",
+			"performance measures in modelling", 
+			"calibrate the parameters and validate models", 
+			"methods to simulate stochastic climate to drive models",
+			"uncertainty analysis",
+			"physically-based model components",
+			"components for soil water fluxes and evapotranspiration", 
+			"fully-distributed physically-based model Topkapi-ETH", 
+			"simulated discharge", 
+			"snow", 
+			"soil moisture",
+			"evapotranspiration spatial patterns"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "",
+		"Course Title":"Solving Partial Differential Equations in Parallel on GPUs",
+		"ID":"101-0250-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162403&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"When quantitative assessment of physical processes governing natural and engineered systems relies on numerically solving differential equations, fast and accurate solutions require performant algorithms leveraging parallel hardware.",
+			"The goal of this course is to offer a practical approach to solve systems of differential equations in parallel on GPUs using the Julia language. "
+		],
+		"Description":[
+			"Julia language",
+			"diffusion process",
+			"parallel and distributed computing ((multi-)GPUs, multi-core CPUs)",
+			"software development tools: git, version control, continuous integration (CI), unit tests",
+			"wave propagation",
+			"porous convection",
+			"spatial and temporal discretisation (finite-differences, various time-stepper)",
+			"efficient iterative algorithms",
+			"shared (on CPU and GPU) and distributed memory parallelisation (multi-GPUs/CPUs);",
+			"main simulation performance limiters.",
+			"advanced physical processes (solid and fluid dynamic - elastic and viscous solutions)."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Concrete Technology",
+		"ID":"101-0677-00L",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162789&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Advanced education in concrete technology for civil engineers who are designing, specifying and executing concrete structures."
+		],
+		"Description":[
+			"concrete components",
+			"concrete properties",
+			"concrete mix design",
+			"production", 
+			"transport", 
+			"casting",
+			"demoulding", 
+			"curing and additional protective measures",
+			"durability",
+			"standards",
+			"chemical admixtures",
+			"alternative binders",
+			"specialty concretes such as",
+			"self compacting concrete",
+			"fiber reinforced concrete",
+			"fast setting concrete",
+			"fair faced concrete",
+			"recycled concrete",
+			"new research in digital fabrication with concrete"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Mechanics of Comporsite Materials",
+		"ID":"151-0353-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162318&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"To introduce the underlying concept of composite materials and give a thorough understanding of the mechanical response of materials and structures particularly made from fiber reinforced polymer composites, including elastic behavior, failure, fracture and damage analysis as well as structural design aspects.",
+			"The ultimate goal is to provide the necessary skills to address the design and analysis of modern lightweight composite structures."
+		],
+		"Description":[
+			"Elastic anisotropy",
+			"Micromechanics aspects",
+			"Classical Laminate Theory (CLT)",
+			"Failure hypotheses and damage analysis",
+			"Analysis and design of composite structures",
+			"Thin ply composite shells & effects of material non-linearity"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Advances in Building MAterials",
+		"ID":"101-0617-01L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161886&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"In this course, the students will gain a broad overview of the use of materials in the building sector, with a particular focus on concrete and wood.",
+			"Current limitations and in particular sustainability related challenges will be detailed with the objective of laying the grounds to discuss future developments anticipated in this field."
+		],
+		"Description":[
+			"Material selection",
+			"Materials and sustainability",
+			"Recyclability",
+			"Material science of wood durability",
+			"Material science of concrete durability",
+			"Foams in construction and thermal insulation",
+			"Sealants and adhesives in construction",
+			"Coatings",
+			"Flame retardants",
+			"Future of wood",
+			"Future of concrete"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Selected Topics on Legal Aspects in Civil Engineering",
+		"ID":"101-0549-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162580&lang=en",
+		"Learning outcomes":[
+			"The students shall acquire basic knowledge of the public law concerning civil engineering",
+			"The students shall acquire basic knowledge of the private law concerning civil engineering"
+		],
+		"Description":[
+			"public building law",
+			"building and zoning regulations",
+			"construction and zoning regulations", "district plans", "environmental impact assessments", 
+			"building approval procedures", "Principles of private construction law", "acceptance and approval of buildings", 
+			"authority of the architect / engineer", "legal acts on behalf of the client", "complaints in the building industry", 
+			"majority of participants in compensation", "general contractor contract", "liability of the building material seller", 
+			"construction contractor substitute", "basic pawns of the SIA standard 118", "construction consortium", 
+			"technical standards", "international building contracts", "architects / engineers as court experts", 
+			"aspects of the construction process ",
+			"space management", "conception of buildings", "protection of the environment", "procedures"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Workshop on Sustainable Building Certification",
+		"ID":"101-0587-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162315&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"After this course, the students are able to understand and use the different certification labels.",
+			"They have a clear view of what the labels take into consideration and what they don't."
+		],
+		"Description":[
+			"certification schemes", "LEED (American standard)", "DGNB (German Standard with Swiss adaptation)", "Label SNBS", 
+			"MINERGIE-ECO", "2000-Watt-Site (Swiss standards)",
+			"specific aspects of sustainability"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project Management: Project Execution to Closeout",
+		"ID":"101-0520-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163812&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"A student after completing the course will have the understanding of the Project Management duties, responsibilities, actions and decisions to be done during the Execution phase of a complex project."
+		],
+		"Description":[
+			"Execution Phase of the Project",
+			"Engineering Management", "Scope", "EV Measurement", "Reporting and Organization",
+			"Procurement and Transportation",
+			"Civil Construction and Erection" ,
+			"Financial Reporting and forecasting",
+			"Risk & Opportunity Identification Assessment and Quantification during Execution",
+			"Team Organization and Leadership",
+			"Risk and opportunity identification and quantification",
+			"Contract Claims and Delays",
+			"Execution Quality",
+			"Environmental Health and safety during execution"
+		],
+		"Pre-requisites":[
+			"Project Management: Pre-Tender to Contract Execution"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Design-Integrated Life Cycle Assessment",
+		"ID":"101-0608-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162356&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Know the methodology of LCA",
+			"Be able to apply LCA in the design process to assess and improve the environmental performance of their projects",
+			"Be able to use the parametric LCA tool and link it to additional performance assessment tools for a holistic optimisation"
+		],
+		"Description":[
+			"LCA",
+			"System boundaries", "functional unit", "end of life",
+			"Carbon budget", "LCA benchmarks",
+			"BIM-LCA", "available calculation tools and databases",
+			"Integrated analysis of environmental and cost assessment",
+			"Bio-based carbon storage",
+			"Introduction to Rhinoceros",
+			"Introduction to grasshopper",
+			"Integrated assessment tools (ladybug tools)",
+			"Introduction to in-house grasshopper plugin for LCA analysis"
+		],
+		"Pre-requisites":[
+			"An Introduction to Sustainable Development in the Built Environment"			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Materials and Constructions",
+		"ID":"101-0527-10L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163606&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Fundamentals of material performance",
+			"Introduction to durability problems of building facades",
+			"Materials for the building envelope:",
+			"Overview of structural materials and systems: concrete, steel, wood and bamboo, earth",
+			"Insulating materials (bio-based vs conventional)",
+			"Air barrier, vapour barrier and sealants",
+			"Interior finishing",
+			"Assessment of materials and components behaviour and performance",
+			"Solutions for energy retrofitting of (historical) buildings",
+			"Aspects of sustainability and durability"
+		],
+		"Description":[
+			"Sustainable cement and concrete",
+			"Earth construction",
+			"Visit",
+			"Steel and bamboo",
+			"Timber construction",
+			"Building physic and conventional insulation",
+			"Bio-based insulation",
+			"Finishing",
+			"Reuse"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Geotechnical Engineering",""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Tunnelling III",
+		"ID":"101-0329-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162414&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Deepen the knowledge on selected topics of underground construction.",
+			"Conceptual solutions of complex problems."
+		],
+		"Description":[
+			"Caverns", "Geometry",
+			"Shafts", "Construction methods", "support",
+			"Urban tunnelling", "Boundary conditions", "system choice", "alignement", 
+			"Field measurements", "Principles", "monitoring layout", "applications", "interpretation",
+			"Cut and cover tunnels", "Modelling", "design",
+			"conceptual solution of complex tunnelling problems"
+		],
+		"Pre-requisites":[
+			"Tunnelling I", "Tunnelling II"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Geotechnical Engineering",""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Environmental Geotechnics",
+		"ID":"101-0339-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162963&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Introduction of basic knowledge about problems with contaminated sites, investigation of this sites, risque management, remediation and reclamation techniques as well as monitoring systems.",
+			"Introduction in landfill design and engineering with focus on barrier- and drainage systems as well as lining materials, evaluation of geotechnical problems, e.g. stability.",
+			"In the course Environmental Geotechnics, the competencies of process understanding, system understanding, concept development, and measurement methods are taught and examined."
+		],
+		"Description":[
+			"Definition of contaminated sites", "site investigation methods", "historical research", "technical investigation", 
+			"risque assessment", "contamination transport", "remediation", "clean-up", "retaining techniques", "bioremediation", "incineration", 
+			"retaining walls", "pump-and-treat", "permeable reactive barriers", "monitoring", "research projects and results",
+			"waste", "waste disposal", "treatment and management", "multi-barrier-systems", "site investigation", 
+			"lining systems", "recovering systems of landfill", "materials", "drainage systems", "geosynthetics", 
+			"stability"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Geotechnical Engineering","Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Geotechnical Engineering in Transportation",
+		"ID":"101-0367-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162865&lang=en",
+		"Learning outcomes":[
+			"Aim of the course is to teach students the most important aspects of the road structure, its building and design methods.",
+			"An essential part of the course is devoted to understand the influence of the insitu conditions: soil, underground, climate, water, as well as of the charachteristics of building materials and of road surface on the durability of the pavement."
+		],
+		"Description":[
+			"Road design criteria", "Technology of road construction materials", "geotechnical testing methods in Laboratory and in situ", "Planning",
+			"monitoring and interpretation of soil field tests", "Soil classification for traffic construction", 
+			"Compaction of road structures and dams", "Frost characteristics of soil materials", "soil stabilization"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structural Masonry",
+		"ID":"101-0119-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=163421&lang=en",
+		"Learning outcomes":[
+			"Knowledge of the engineering properties of materials for masonry construction.",
+			"Technical understanding of the structural behaviour of load-bearing masonry structures subjected to in-plane forces and combined actions.",
+			"Develop a technical competence for design procedures for load-bearing masonry structures by means of exercises."
+		],
+		"Description":[
+			"Historical Development of Masonry Construction",
+			"Detailing and Execution",
+			"Construction Materials",
+			"Structural Behaviour and Modelling",
+			"Structural Analysis and Dimensioning",
+			"Reinforced Masonry",
+			"Seismic Behaviour"
+		],
+		"Pre-requisites":[
+			"Advanced Structural Concrete"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Non Destructive Evaluation & Rehabilitation of Existing Structures",
+		"ID":"101-0129-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162254&lang=en",
+		"Learning outcomes":[
+			"The goal is for students to familiarize themselves with the handling of assessment and rehabilitation of existing structures from the perspective of a consulting engineer, following a systematic approach as described in current codes and to further learn how to use new non destructive evaluation technologies."
+		],
+		"Description":[
+			"non destructive evaluation", "principle of operation of such methods",
+			"wave propagation", "acoustic emission analysis", "tomography",
+			"current implementation of condition assessment processes in codes and standards",
+			"structural evaluation", "interventions", "rehabilitation", "retrofitting", "different construction materials"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering", "Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Method of Finite Elements II",
+		"ID":"101-0159-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=163077&lang=en",
+		"Learning outcomes":[
+			"Recognize when linear elastic analysis is insufficient",
+			"Solve nonlinear dynamics problems, which form the core for limit state calculations (e.g. ultimate capacity, failure) of structures",
+			"Numerically simulate fracture; a dominant failure phenomenon for structural systems."
+		],
+		"Description":[
+			"beyond linear elasticity", " excessive loading effects", "energy dissipation mechanisms",
+			"reliably computing structural capacity",
+			"Material Nonlinearity (Plasticity)",
+			"Geometric Nonlinearity (Large Displacement Problems)",
+			"Nonlinear Dynamics",
+			"Fracture Mechanics"
+		],
+		"Pre-requisites":[
+			"Method of Finite Elements I"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Seismic Design of Structures II",
+		"ID":"101-0189-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162274&lang=en",
+		"Learning outcomes":[
+			"Model and explain the seismic behavior of new structures with moment frame, braced frame and shear wall structural systems.",
+			"Evaluate the performance of new structures under earthquake loading using modern risk-informed performance assessment methods and analysis tools.",
+			"Use the knowledge of nonlinear dynamic response of structures to interpret the design code provisions and apply it in seismic design of structural systems.",
+			"Successfully design such systems to achieve the performance objectives stipulated by the design codes"
+		],
+		"Description":[
+			"dynamic analysis", "seismic design of structures",
+			"behavior and non-linear response modeling of structural systems under earthquake excitation",
+			"displacement-based inelastic design of new building structures",
+			"seismic design of moment frame", "braced frame and shear wall structures",
+			"risk-informed performance-based seismic design"
+		],
+		"Pre-requisites":[
+			"Seismic Design of Structures I"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Seismic and Vibration Isolation",
+		"ID":"101-0191-00L",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162053&lang=en",
+		"Learning outcomes":[
+			"Understand the mechanics of and design isolator bearings.",
+			"Understand the dynamics of and design an isolated structure."
+		],
+		"Description":[
+			"Overview of seismic isolation",
+			"review of structural dynamics", "earthquake engineering principles", "Viscoelastic behavior",
+			"Linear theory of seismic isolation",
+			"Types of seismic isolation devices", "Modelling of seismic isolation devices",
+			"Nonlinear response analysis of seismically isolated structures in Matlab",
+			"Behavior of rubber isolators under shear and compression",
+			"Behavior of rubber isolators under bending",
+			"Buckling and stability of rubber isolators",
+			"Code provisions for seismically isolated buildings"
+		],
+		"Pre-requisites":[
+			"Structural Dynamics and Vibration Problems"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structural Design",
+		"ID":"101-0123-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=163599&lang=en",
+		"Learning outcomes":[
+			"Critically question structural design concepts of historical and contemporary references",
+			"Use graphic statics and strut-and-tie models based on the Theory of Plasticity to describe the load bearing behavior of structures",
+			"Understand different construction technologies and have an awareness of their potential for structural design",
+			"Use contemporary digital tools for the design of structures in equilibrium",
+			"Design an appropriate structural system for a given design task taking into account architectural considerations"
+		],
+		"Description":[
+			"Graphic statics", "geometric construction techniques",
+			"visualize the relation between the geometry of a structure and the forces acting in and on it",
+			"geometrically dependent form and force diagrams",
+			"the relationship to analytical statics", "lower bound theorem of the Theory of Plasticity",
+			"contemporary methodologies and tools (parametric CAD software)",
+			"Specific structural design approaches", "design methodologies",
+			"references from construction history", "developing a design project", 
+			"open design tasks"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Fatique and Fracture in Materials and Structures",
+		"ID":"101-0121-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=163351&lang=en",
+		"Learning outcomes":[
+			"Mechanisms of fatigue crack initiations in materials.",
+			"Linear elastic and elastic-plastic fracture mechanics.",
+			"Modern computer-based techniques (using ABAQUS Finite Element Package) to simulate cracks in both bulk materials and bonded joints/interfaces.",
+			"Laboratory fatigue and fracture tests on details with cracks."
+		],
+		"Description":[
+			"importance of fatigue and fracture",
+			"Fatigue of materials",
+			"Mechanisms of fatigue crack initiation in (ductile and brittle) metals",
+			"Crack initiation under uni-axial high-cycle fatigue (HCF) loadings",
+			"Wöhler (S-N) curves", "constant life diagram approach (mean-stress effects)", "rainflow analysis and Miner's damage rule",
+			"Crack initiation under multi-axial HCF loadings", "multi-axial fatigue mechanisms", 
+			"critical plane approach (critical distance theory)", "equivalent stress approach", 
+			"proportional and non-proportional loading",			
+			"Fracture mechanics",
+			"ELinear elastic fracture mechanics (LEFM)", "limits of LEFM", "stress intensity factors", 
+			"crack opening displacement", "mixed-mode fracture",
+			"Elastic-plastic fracture mechanics", "Irwin and Dugdale models", "plastic zone shapes", 
+			"crack-tip opening displacement", "J-integral",
+			"Fatigue crack growth (FCG)", "FCG models", "Paris' law", "cyclic plastic zones", "crack closure effects",
+			"FE modeling of the FCG", "laboratory tests (at Empa)",
+			"Introduction to cohesive zone models (CZMs)",
+			"Advantages and disadvantages of CZMs compared to fracture mechanics",
+			"Different bond-slip models for the bonded joints/interfaces",
+			"Computer laboratory to simulate cracks and debonding problems",
+			"Finite Element (FE) modeling of complex details with cracks",
+			"FE simulations of debonding problems using CZMs",
+			"Computer laboratory", "FE training and exercises using (the student edition of) the ABAQUS FE Package",
+			"Introduction to fatigue and fracture design in civil structures", 
+			"Different methods for fatigue strengthening will be disscussed",
+			"Visits to the Empa (Swiss Federal Laboratories for Materials Science and Technology) in Dübendorf"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Timber Structures III",
+		"ID":"101-0169-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162349&lang=en",
+		"Learning outcomes":[
+			"In-depth understanding of the theoretical and design aspects of timber construction. ",
+			"Dimensioning, structural design, optimisation and refurbishment of complex timber structures with high requirements for earthquake resistance, sound insulation and fire protection."
+		],
+		"Description":[
+			"Multi-storey timber buildings", "cross laminated timber", "high-rise buildings", "fire protection", "sound insulation", 
+			"Post-tensioned timber constructions", "building with hardwood", "robustness of timber structures", 
+			"earthquake-resistant timber structures", "maintenance and renovation of structures"
+		],
+		"Pre-requisites":[
+			"Timber Structures I", 
+			"Timber Structures II"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structural Glass Design and Facade Engineering",
+		"ID":"101-0120-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=164098&lang=en",
+		"Learning outcomes":[
+			"Understand and apply the fundamentals of the material glass and glass products, the basic principles for using glass as a load-carrying building material for structural applications and the types of connections used for glass elements",
+			"Recognize requirements for glass elements depending on their application area and chose the appropriate glass products and assemblies accordingly",
+			"Structurally design out-of-plane loaded glass elements based on available standards, both by hand calculations and specific software applications",
+			"Apply selected approaches for the structural design of in-plane loaded glass elements",
+			"Select suitable supporting systems (post-and-beam façade, curtain wall, etc.) and connections (point fixings, brackets, etc.) for the glass elements and structurally design them."
+		],
+		"Description":[
+			"Production methods", "properties of the material", "glass", "glass products", "structurally relevant properties", 
+			"annealed glass", "thermally tempered glass", "chemically tempered glass", "laminated glass", "insulating glass", 
+			"curved glass",
+			"Connection principles", "types for glass elements"," mechanical fixing", "adhesive bonding",
+			"Requirements for glass elements", "vertical glazing", "overhead glazing", "walk-on glazing", "barrier glazing",
+			"Structural design of glass elements", "standards and research results", 
+			"out-of-plane loaded glass elements", "in-plane loaded glass elements", 
+			"Typologies and design of structural systems for transparent façades", "transparent facades",
+			"Hand calculation methods", "their limitations",
+			"SJ Mepla", "numerical calculation procedures", "software Abaqus"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Scientific Machine and Deep Learning for Design and Construction in Civil Engineering",
+		"ID":"101-0139-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=162934&lang=en",
+		"Learning outcomes":[
+			"This course aims to provide graduate level introduction into Machine and especially scientific Machine Learning for applications in the design and construction phases of projects from civil engineering.",
+			"understand main ML background theory and methods",
+			"assess a problem and apply ML and DL in a computational framework accordingly",
+			"Incorporating scientific domain knowledge in the SciML process",
+			"Define, Plan, Conduct and Present a SciML project"
+		],
+		"Description":[
+			"Fundamentals of Machine and Deep Learning (ML / DL)",
+			"Incorporation of Domain Knowledge into ML and DL",
+			"ML training", "validation", "testing", "pipelines for academic and research projects"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Road Safety",
+		"ID":"101-0469-00L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162359&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Imparting knowledge base about road safety and the event of accident, presenting possibilities to increase road safety"
+		],
+		"Description":[
+			"Accident origin", "collection of road accidents", 
+			"statistical, descriptive and multivariate, accident prediction models", 
+			"geographical analysis of road accidents", "risk analysis", "rehabilitation measures", 
+			"road safety instruments", "Swiss and international transport policy"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Methodology of Planning Research and Practice",
+		"ID":"103-0417-02L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162806&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"to address complex real-world spatial problems in adequate ways",
+			"to know relevant theories and maxims that are subject to specific methods of problem solving",
+			"to identify key questions and key concepts in contemporary planning research",
+			"to select appropriate research methods to properly address the research questions",
+			"learn to deal with uncertainties and estimate quantities",
+			"improve their ability to take decisions based on incomplete data and information",
+			"are informed about different (qualitative and quantitative) methods and techniques for spatial research",
+			"learn about different types of research (theoretical, empirical, action-oriented, qualitative, quantitative)",
+			"get skilled for writing simple research essays",
+			"are urged to question their own knowledge and challenge the course of action taken in planning processes"
+		],
+		"Description":[
+			"complex issues in planning",
+			"Forms of knowledge", 
+			"Occurrence and explanation patterns for irrational behaviour",
+			"Spatial research and planning practice",
+			"Planning maxims",
+			"Mapping complex topics in research questions",
+			"Methods for scientific data generation",
+			"Applied handling of quantities and probabilities",
+			"Estimating despite uncertainties",
+			"Opportunities of digitisation in planning (Participation, BigData)",
+			"Methods of scientific data analysis",
+			"Making decisions despite incomplete information",
+			"Dealing with robustness and fragility",
+			"(Half-) knowledge/behaviour/irrationalities",
+			"Initial situation: Solving complex problems",
+			"Behavioural patterns",
+			"Methods for solving complex tasks in planning practice",
+			"Methodology in spatial research",
+			"Research design",
+			"Research questions", "Importance of scales and key figures in planning",
+			"Estimation methods",
+			"Danger of the anchor effect",
+			"Digitization in planning",
+			"New data sources and sizes",
+			"Opportunities and challenges through digitisation in planning",
+			"Data analysis methods", "Research ethics",
+			"Role of science in planning"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Agent Based Modeling in Transportation",
+		"ID":"101-0491-00L",
+		"ECTS": 6,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162366&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"have an understanding of agent-based modeling",
+			"have an understanding of MATSim",
+			"have an understanding of the process needed to set up an agent-based study",
+			"have practical experience of using MATSim to perform practical transportation studies"
+		],
+		"Description":[
+			"agent-based models", "transportation policy analysis", "traditional state of practice modeling",
+			"MATSim", 
+			"different statistical methods", "the open-source eqasim framework", "transport policy study"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Microscopic Modelling and Simulation of Traffic Operations ",
+		"ID":"101-0492-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162679&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The objective of this course is to conduct a realistic traffic engineering project from beginning to end. ",
+			"Understand the basic models used in microsimulation software (car-following, lane changing, gap acceptance, give ways, on/off-ramps, etc.).",
+			"Design a road transport network inside the simulation software.",
+			"Understand the basics behind modeling traffic demand and supply, vehicle dynamics, performance indicators for evaluation and network design for a realistic road transport network.",
+			"Understand how to design a complete study, implement and validate it for planning purposes, e.g. creating a new road infrastructure.",
+			"Make valid and concrete engineering proposals based on the simulation model and alternative scenarios."
+		],
+		"Description":[
+			"microscopic modelling and simulation concepts", 
+			"microscopic traffic simulator Aimsun",
+			"Car following models",
+			"Lane change models",
+			"Calibration and validation methodology",
+			"replicate and analyze the traffic conditions measured/observed",
+			"Calibrating and validating the simulation model",
+			"Redesigning/extending the model",
+			"improve the traffic performance"
+
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Basics of Java and Best Practices for Scientific Computing",
+		"ID":"101-0491-10L",
+		"ECTS": 1,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=165478&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Have acquired object-oriented programming skills with a focus on Java.",
+			"Have an understanding of version control using git",
+			"Have learned to deploy java applications on servers"
+		],
+		"Description":[
+			"object-oriented programming with Java",
+			"Basics of Java", "objects", "classes", "interfaces", "abstract classes", "static classes", "static methods",
+			"Injection", 
+			"Code versioning",
+			"Java application deployment on servers"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Railway Infrastructures 2",
+		"ID":"101-0419-02L",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=164027&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The lecture gives a deeper insight into track geometry including clearance profile, the interaction between track and vehicles as well as in construction and dimensioning of the track." ,
+			"Methods for the diagnosis of the state of the track and its forcast are shown. ",
+			"State-of-the-art maintenance strategies and technologies are presented."
+		],
+		"Description":[
+			"Track geometry", "related data systems", "clearance profiles",
+			"Interaction between track and vehicles", "vehicle dynamics",
+			"Railway Track",
+			"Stress", "track construction", "railway bridges", "tunnels",
+			"Environmental aspects in track construction",
+			"Fundamentals", "noise protection", "vibration protection",
+			"Diagnostics"," maintenance strategies",
+			"Track diagnostics and forcast", "maintenance strategies",
+			"Track maintenance",  "related methods"
+		],
+		"Pre-requisites":[
+			"Railway Infrastructures 1"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Hydraulic Engineering: Selected Topics",
+		"ID":"101-0249-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163211&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The overarching goal of the course is to deepen knowledge on special aspects in hydraulic engineering and to understand the procedures and the planning sequence of hydropower projects."
+		],
+		"Description":[
+			"dam safety", "materials in dam building"," possible problems at reservoirs", "natural hazards by impulse waves", 
+			"the hydraulics of spillways", "intake structures at dams and weirs",
+			"the area of conflict between hydropower and ecology",
+			"planning process of hydropower projects",
+			"national and international level"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Applied Glaciology",
+		"ID":"101-0289-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163107&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"learn about fundamental glaciological processes, including glacier mass balance, ice dynamics, and glacier-related hazards",
+			"apply the above knowledge to some case studies inspired by contract-works performed at ETH's Glaciology section",
+			"generate the own computer code to solve the above case studies, and interpret the results",
+			"understand, both in class and in the field, the practical relevance of glaciology, with a focus on the Swiss applications."
+		],
+		"Description":[
+			"How glaciology became a scientific discipline",
+			"Glaciology", "hydropower",
+			"Glacier mechanics", "ice flow",
+			"Gravitational glacier instabilities",
+			"Glacier hydrology", "glacier lake outbursts",
+			"Lake ice", "ice bearing capacity",
+			"Field excursion to Jungfraujoch"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Hydrualics of Engineering Structures",
+		"ID":"101-1249-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163666&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Understanding and quantification of fundamental hydraulic processes with particular focus on hydraulic structures for wastewater, flood protection and hydropower.",
+			"In the course Hydraulics of Engineering Structures, the competencies of process understanding, system understanding and measurement methods are taught, applied and examined." ,
+			"The competencies modeling, concept development and data analysis & interpretation are taught and data analysis & interpretation is applied in addition."
+		],
+		"Description":[
+			"Basic equations",
+			"Losses in flow", "Maximum discharge",
+			"Uniform flow", "Critical flow",
+			"Hydraulic jump", "Stilling basin",
+			"Backwater curves",
+			"Weirs", "End overfall",
+			"Sideweir", "Side channel",
+			"Bottom opening", "Venturi", "Culverts", "Restrictors", "Inverted siphons",
+			"Fall manholes", "Vortex drop",
+			"Supercritical flow", "Special manholes",
+			"Aerated flows", "Low level outlets",
+			"Hydraulics of sediment bypass tunnels",
+			"Vegetated flows"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Urban Water Management II",
+		"ID":"102-0215-00L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163828&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Consolidation of the basic procedures for design and operation of technical networks in water engineering."
+		],
+		"Description":[
+			"Demand Side Management"," Supply Side Management", "Optimization of Water Distributed Networks",
+			"Lime precipitation", "corrosion of pipes",
+			"Hygiene in distribution systems",
+			"Settlement hydrology", "rain", "discharge",
+			"Instationary flows in sewer systems",
+			"Fabric transport in the sewer system",
+			"Initiation conditions in rainy weather",
+			"Infiltration of rainwater",
+			"General drainage planning (GEP) "
+		],
+		"Pre-requisites":[
+			"Introduction to Urban Water Management"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Management of Hillslope and Channel Processes",
+		"ID":"101-1250-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163951&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"To recognise and understand channel and hillslope processes and their interactions. ",
+			"To learn about methods of hazard analysis and of technical and bioengineering protection measures and their assessment. ",
+			"Determination of critical loads and design of protective structures. ",
+			"Assessment of spatial and future developments with and without protective measures."
+		],
+		"Description":[
+			"Hydromechanics", "soil mechanics", "dynamics of torrents and hillslopes", 
+			"Interactions between torrents and adjacent slopes",
+			"Technical and bioengineering stabilisation methods", 
+			"Hazard analysis", "general aspects of torrent catchments",
+			"Safety analysis", "design of protective structures", " Limits of protective measures",
+			"Inspection and maintenance of technical and bioengineering systems"
+		],
+		"Pre-requisites":[
+			"Essentials of Construction Analysis",
+			"Hydraulics",
+			"Geology and Petrography",
+			"Soil Physics",
+			"Soil Mechanics and Geotechnics"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Science and Engineering of Glass and Natural Stone in Construction",
+		"ID":"101-0639-01L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162215&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"recognize and choose specific applications from the broad overview you were provided with",
+			"relate processing technologies to typical products and building applications and recognize (and explain typical damage related to wrong material choice or application",
+			"explain the nature of glassy and crystalline materials and interpret their physical behavior against this background",
+			"explain the major deterioration mechanisms in natural stone and how this relates to durability",
+			"analyze material combinations and appraise their application in future products as well as integration in existing constructions",
+			"summarize with appropriate guidance publications on a related topic in an oral presentation and short report."
+		],
+		"Description":[
+			"glass and natural stone in construction",
+			"Glass chemistry", "historical development of glass composition", "use of raw materials", "melts", 
+			"chemical stability", "corrosion",
+			"Geology and mineralogy of stones used in construction", "Formation processes", "chemistry", "crystal structure",
+			"Microscopic models for glassy materials", "Physics of vitrification", 
+			"microscopic physical models", "thermodynamics", "rheology", "mechanics of glassy materials",
+			"Stone properties and behavior", "microstructure", "density", "porosity", "mechanical properties",
+			"Glass physics", "Optical properties",
+			"transmission", "reflection", "emission", "refraction", "polarization" , "birefringence", "testing methods",
+			"electric properties", "glass testing",
+			"Stone properties and durability", "transport", "moisture", "thermal cycling",
+			"Forming and processing of glass", "plate", "molded glass", "drawing", "slumping", "profiling",
+			"Processing", "Cutting", "mechanical processing", "tempering", "gluing", "bending", 
+			"laminating of glass Surface treatments", "coating", "sputtering", "enameling", "printing", "etching", 
+			"chemical pre-stressing",
+			"Durability", "Salt crystallization", "freezing", "biodeterioration",
+			"Glass products for civil engineering applications", "Molded glasses", "fiber glass", "foam glass", 
+			"plate glass"," construction glass", "insulation glass", "structural glass"," protective glass", 
+			"intelligent glass", "codes",
+			"Conservation", "Consolidation", "cleaning", "other treatments",
+			"Glass in constructions", "modelling"," application and regulation", "typical damage in glass",
+			"Durability of natural stone",
+			"Fracture of glass"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Durability and Maintenance of Reinforced Concrete",
+		"ID":"101-0659-01L",
+		"ECTS": 4,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163275&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"the different mechanisms of deterioration of concrete structures, in particular reinforcement corrosion",
+			"the relevant parameters affecting durability of reinforced concrete (cover depth, concrete quality, moisture, etc.)",
+			"current engineering approaches for durability design (according to standards) and their limitations",
+			"refined models for enhanced durability design and service life predictions",
+			"preventive measures to improve durability (e.g. stainless steel reinforcement, concrete surface coatings, etc.)",
+			"the particular durability challenges with post-tensioned structures and ways to overcome them (electrically isolated tendons)",
+			"methods for inspection and condition assessment of existing, ageing structures (including non-destructive techniques and monitoring with sensors)",
+			"repair methods for deteriorated concrete structures such as conventional repair and electrochemical methods (in particular cathodic protection)",
+			"possible future problems for durability that may arise with modern materials and construction technologies"
+		],
+		"Description":[
+			"Socio-economic challenges", "ageing infrastructures",
+			"corrosion", "durability", "Corrosion in concrete", "chlorides", "carbonation",
+			"Passivity and pitting corrosion", "Cracking", "influence of cracks",
+			"Degradation mechanisms for concrete", "sulphate attack", "ASR", "frost attack",
+			"Inspection and condition assessment", "Chloride analyses", "carbonation depth", 
+			"Non-destructive tests", "particularly potential mapping to detect corrosion", 
+			"New developments", "monitoring with sensors",
+			"Pre-stressed", "post-tensioned structures", "problem with existing structures",
+			"New systems with polymer ducts / electrically isolated tendons", "Monitoring techniques",
+			"Stainless steel as reinforcing steel for concrete", 
+			"Different types of stainless steels", "Coupling with black reinforcing steel", "Life-cycle-costs",
+			"Repair methods", "Conventional", "Coatings", "Corrosion inhibitors", "Electrochemical methods", "cathodic protection",
+			"Durability design", "Prescriptive approach", "Service life modeling", "Limitations and opportunities",
+			"Modern materials", "modern construction technologies",
+			"expected implications for the durability of structures today and in the future"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Shrinkage and Cracking of Concrete: Mechanisms and Impact on Durability",
+		"ID":"101-0689-00L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162720&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"This course will begin with a brief introduction about hydration and microstructure development in cement paste and concrete.", 
+			"The students will learn the main causes of cracking at early ages, namely plastic, drying, thermal and autogenous shrinkage, with special emphasis on the driving mechanisms.", 
+			"The importance of concrete curing, especially in the first few days after casting, will be stressed and explained. Building on the knowledge of the driving forces of shrinkage, the way of action of shrinkage-reducing admixtures will be clarified and different applications illustrated.",
+			"As an extension of external curing, the students will become familiar with internal water curing by means of saturated lightweight aggregates and superabsorbent polymers.",
+			"The students will acquire an understanding of the mechanisms of transport through cracked concrete, with special focus on experimental evidence and on techniques able to visualize the transport process and follow it in time.",
+			"As a final outcome of the course, the students will be able to estimate the impact of cracking on the expected durability of concrete structures and to implement different types of measures to reduce the extent of cracking."
+		],
+		"Description":[
+			"Hydration and microstructure development",
+			"Plastic shrinkage",
+			"Development of mechanical properties",
+			"Thermal deformation",
+			"Autogenous deformation",
+			"Drying shrinkage",
+			"Creep and relaxation",
+			"Curing",
+			"Shrinkage-reducing admixtures",
+			"Internal curing", "saturated lightweight aggregates", "superabsorbent polymers",
+			"Fracture", "microcracking",
+			"Transport in cracked concrete",
+			"Impact of cracking on concrete durability",
+			"Self-healing of cracks"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Wood Structure and Function",
+		"ID":"101-0637-10L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163531&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Learning target is a basic understanding of the anatomy of wood and the related impact of endogenous and exogenous factors.", 
+			"The students can learn how to distinguish common central European wood species at the macroscopic and microscopic level. ",
+			"A deeper insight will be given by wood identification exercises for softwood species. ",
+			"Further, the students will gain insight into the relationships between tree growth and wood properties with a specific focus on the wood function in the living tree."
+		],
+		"Description":[
+			"wood anatomy", "general structural features", "softwoods", "hardwoods",
+			"factors of diversity and variability",
+			"common central European tree species",
+			"macro-and microstructural investigations",
+			"wood structure", "properties", "function in the living tree",
+			"water transport", "trends in wood anatomy within trees", "environmental impact on wood anatomy", 
+			"wood defects and their causes", "tools to study wood properties over time", "secondary changes in wood", "tree biomechanics"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Fundamentals of Wood Elaboration and Woodmachining",
+		"ID":"101-0637-20L",
+		"ECTS": 3,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163398&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Learning target is a fundamental understanding of the dominating wood machining processes, which are applied to fabricate common wood products." ,
+			"Students will be introduced to the economic relevance of the renewable resource wood and are trained in its technological properties. ",
+			"The students will learn to identify the relationships between wood species and their properties as well as the suitable wood machining processes to fabricate targeted wood products." ,
+			"Finally, the digital transformation process, which will affect all sectors of the wood industry with impact on the entire value chain and business models will be covered. ",
+			"It will be illustrated how production processes will become more flexible, efficient and less resource demanding."
+		],
+		"Description":[
+			"economic relevance","resource wood in a global", "European and Swiss context",
+			"sustainability", "wood production and certification" ,"bulk wood products",
+			"sawn timber production", "drying processes", "wood veneer production", "steaming", "veneer cutting", "assembly",
+			"veneer lumber products", "common technologies", "particle boards", "fibre boards", "paper",
+			"wood gluing", "wood protection", "potentials",  "limitations",
+			"digital technologies", "Internet of Things", "artificial intelligence",
+			"their impact on the wood industry"			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project on Construction Engineering",
+		"ID":"101-0198-10L",
+		"ECTS": 11,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163297&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Promote independent, structured and scientific work",
+			"learn to apply engineering methods",
+			"deepen the knowledge in the field of the treated task."
+		],
+		"Description":[
+			"Working on a concrete task in Construction Engineering"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project on Hydraulic Engineering and Water Resources",
+		"ID":"101-0298-10L",
+		"ECTS": 11,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161901&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Promote independent, structured and scientific work",
+			"learn to apply engineering methods",
+			"deepen the knowledge in the field of the treated task."
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project on Geotechnical Engineering",
+		"ID":"101-0398-10L",
+		"ECTS": 11,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161899&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Promote independent, structured and scientific work",
+			"learn to apply engineering methods",
+			"deepen the knowledge in the field of the treated task."
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project on Transport Systems",
+		"ID":"101-0498-10L",
+		"ECTS": 11,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161900&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Promote independent, structured and scientific work",
+			"learn to apply engineering methods",
+			"deepen the knowledge in the field of the treated task."
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project on Construction and Maintenance Management",
+		"ID":"101-0598-10L",
+		"ECTS": 11,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162094&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Promote independent, structured and scientific work",
+			"learn to apply engineering methods",
+			"deepen the knowledge in the field of the treated task."
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project on Materials and Mechanics",
+		"ID":"101-0698-10L",
+		"ECTS": 11,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=164065&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Promote independent, structured and scientific work",
+			"learn to apply engineering methods",
+			"deepen the knowledge in the field of the treated task."
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management", "Transport Systems", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Infrastructure Management 2: Evaluation Tools",
+		"ID":"101-0579-00L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167323&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The course learning objective is to equip students with tools to be used to the service being provided from infrastructure.",
+			"The course increases a student's ability to analyse complex problems and propose solutions and to use state-of-the-art methods of analysis to assess complex problems"
+		],
+		"Description":[
+			"Reliability",
+			"Availability", "maintainability",
+			"Markov chains",
+			"Event trees",
+			"Fault trees",
+			"Regression analysis",
+			"Neural networks",
+			"Bayesian networks"
+		],
+		"Pre-requisites":[
+			"Infrastructure Management 1: Process"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Re-/Source the Built Environment",
+		"ID":"101-0588-01L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168212&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"After the lecture series, the students are aware of the main challenges for the production and use of building materials.",
+			"They know the different technologies/propositions available, and environmental consequence of a choice.",
+			"They understand in which conditions/context one resource/technology will be more appropriate than another"
+		],
+		"Description":[
+			"global context", "sustainable built environment",			
+			"Notion of resource depletion", "resilience", "criticality", "decoupling", 
+			"different resources", "proposing different option to build or maintain a sustainable built environment"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Project Management: Pre-Tender to Contract Execution",
+		"ID":"101-0517-01L",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167977&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Upon successful completion of this course students will have the understanding of the Project Management duties and responsibilities from the Pre-Tender stage of a project to Contract Execution.",
+			"The project teams will prepare a project tender proposal base on a request for quotation on a construction project."
+		],
+		"Description":[
+			"Project scope definition", "project organization",
+			"Technical specification proposals",
+			"Work Breakdown Structure",
+			"Estimating",
+			"Schedule development",
+			"Interface management",
+			"Resource and cost integration",
+			"Risk and opportunity identification and quantification",
+			"Contract review and analysis",
+			"Project life cycle",
+			"Contract Execution", "Project Manager Check List"
+		],
+		"Pre-requisites":[
+			"Project Management for Construction Projects"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Prospective Environmental Assessments",
+		"ID":"102-0348-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167190&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Understanding prospective environmental assessments, including scenario analysis techniques, prospective emission models, dynamic MFA and LCA.",
+			"Ability to properly plan and conduct prospective environmental assessment studies, for example on emerging technologies or on technical processes that cause long-term environmental impacts.",
+			"Being aware of the uncertainties involved in prospective studies.",
+			"Getting to know measures to prevent long-term emissions or impact in case studies",
+			"Knowing the arguments in favor and against a temporally differentiated weighting of environmental impacts (discounting)"
+		],
+		"Description":[
+			"Scenario analysis",
+			"Dynamic material flow analysis",
+			"Temporal differentiation in LCA",
+			"Systems dynamics tools",
+			"Agent based models",
+			"Assessment of future and present environmental impact",
+			"Case studies"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management", "Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Infrastructure Systems in Urban Water Management",
+		"ID":"102-0248-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167097&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Know the key principles of infrastructure management",
+			"Know the basics of performance and risk assessment",
+			"Can perform basic engineering economic analysis",
+			"Know how to quantify the future rehabilitation needs"
+		],
+		"Description":[
+			"water distribution", "wastewater treatment",
+			"Water services in Switzerland", "maintenance and optimization",
+			"professionally maintained", "reduce costs", "implementation of modern, improved technologies and approaches",
+			"basic principles of water infrastructure management"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management", "Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Transformation of Urban Landscapes",
+		"ID":"103-0448-01L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167460&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Understand cities as complex adaptive systems",
+			"Understand planning in a complex context and planning competitions as decision-making",
+			"Seeing cities through big data",
+			"Understand (urban) governance as self-organization",
+			"Learn basic practical approaches such as Design-Thinking methods for solving problems of inward development"
+		],
+		"Description":[
+			"transformation of urban landscapes", "Swiss Mittelland", "globally",
+			"cities as complex systems", "practical questions", "complex interplay of economic", "political and spatial systems",
+			"globalization", 
+			"networking of hitherto rather isolated places and systems across scales on the basis of information and communication technologies (ICTs)",
+			"networking", "self-organization", "multitude of relational networks",
+			"planning problems", "«command-and-control» approaches", "instruments of spatial development",
+			"spatial planning and governance", "participatory approaches", "increasingly available wealth of data"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Digital Transformation for Circular Construction",
+		"ID":"101-0531-00L",
+		"ECTS": 8,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169181&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"By the end of this course, students will be able to use digital technologies enabling circular design and construction, with a view to environmental implications. ",
+			"They will be able to assess the challenges and opportunities of low-carbon, circular construction and evaluate possible solutions using digital technologies to enable a circular built environment (more specifically, with reused building materials).",
+			"Apply circular principles to a real case study disassembling and reassembling a building.",
+			"Compare different digital technologies applied in circular construction (e.g., material passports, LiDAR scanning, drone imagery, photogrammetry, tracking, tracing, blockchain technology, materials, computational design, digital fabrication, AI, computer vision, extended reality, LCA tools etc.)",
+			"Communicate the importance and urgency of circular construction.",
+			"Assess the environmental impact implications of their design and technology decisions through a preliminary Life Cycle Assessment (LCA)."
+		],
+		"Description":[
+			"circular principles", "demolition sites", "Flexibility", "responsibility", "spontaneity",
+			"digital technologies", " LiDAR scanning", "photogrammetry", "scan-to-BIM", "computer vision", "computational design", "digital fabrication", "blockchain technology",
+			"communicate the urgency of circular construction",
+			"evaluate the environmental impact savings",  "simplified life cycle assessment methods"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Construction and Maintenance Management", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Introduction to Visual Machine Perception for Architecture, Construction and Facility Management",
+		"ID":"101-0526-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=170338&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"By the end of the course students will develop computational thinking related to visual machine perception applications for the ACFM domain.",
+			"Gain a fundamental understanding of how this technology works and the impact it can have in the ACFM industry by being exposed to example applications.",
+			"Be able to identify limitations, pitfalls, and bottlenecks in these applications.",
+			"Critically think on solutions for the above issues.",
+			"Acquire hands-on experience in creatively thinking and designing an application given a base system.",
+			"Use this course as a “stepping-stone” or entry-point to Machine Learning-intensive courses offered in D-BAUG and D-ARCH."
+		],
+		"Description":[
+			"AI in the Architecture, Construction, and Facility Management (ACFM) industry",
+			"essential points to consider when applying AI",
+			"increase efficiency and decrease risk",
+			"fundamentals in computer vision and machine learning technology", 
+			"latest developments", "pointing out their impact in the final solution",
+			"3 ACFM processes", "architectural design", "construction renovation",  "facility management",
+			"application requirements when designing an AI system", 
+			"their impact on the building blocks"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Tunnelling II",
+		"ID":"101-0318-01L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167462&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Understanding the geotechnics of mechanized tunnelling.",
+			"Tunnel design and construction for high rock pressures. "
+		],
+		"Description":[
+			"Closed shield tunnelling",
+			"Tunnelling by hard rockTBMs", "geotechnical aspects",
+			"Tunnelling through squeezing rock",
+			"Tunnelling through swelling rock", "design and analysis issues"
+		],
+		"Pre-requisites":[
+			"Tunnelling I"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Blasting Technique",
+		"ID":"101-0558-00L",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167709&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Advanced knowledge for planning and execution of blasting activities in open excavation or underground."
+		],
+		"Description":[
+			"Detailled theoretical and practical basics of blasting technology",
+			"Application and effectiveness of explosives",
+			"Application and effectiveness of nonel, electrical and electronical firing systems",
+			"Highly effective blasting technology for open and underground excavation",
+			"HSE"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Constitutive and Numerical Modelling in Geotechnics",
+		"ID":"101-0368-00L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168372&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"This course targets geotechnical engineers, who face these days more often the necessity of the numerical analysis in their practice. ",
+			"Understanding of the limitations of the built-in constitutive models is crucial for critical assessment of the results of numerical calculations, and, hence, for the conservative and cost efficient design of geotechnical structures.",
+			"The purpose of this course has been to bridge the gap between the graduate courses in Geomechanics and those in Numerical Modeling."
+		],
+		"Description":[
+			"introductory",
+			"constitutive and numerical modeling of soils",
+			"conventional continuum mechanics approaches",
+			"exploring more advanced theories",
+			"applications of the constitutive models within the available numerical codes",
+			"Important issue of derivation of model parameters from the lab tests"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Soil Dynamics",
+		"ID":"101-0378-00L",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167454&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Goal of the lecture is to achieve a basic knowledge of soil dynamics, to be able to solve simple problems and to specify the tasks for specialists for more complex problems in different fields involved."
+		],
+		"Description":[
+			"Basics of dynamics","soil mechanics", "soil dynamics",
+			"Repition of spring", "mass", "damping systems", "Wave propagation in ideal and non ideal soil conditions",
+			"Dynamical Soil Properties",
+			"Constitutive Modelling of Soils", "Soil parameter for different soil types", 
+			"Soil liquefaction", "Determination of soil parameters", "field and laboratory investigation",
+			"Applications", "Vibration calculation and isolation", 
+			"geotechnical earthquake engineering", "seismic hazard site amplification towards aspects of design on foundations and geotechnical structures"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Clays in Geotechnics: Problems and Applications",
+		"ID":"101-0302-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167305&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Describe clay minerals and their fundamental properties",
+			"Describe/propose methods for characterisation of clays and clay minerals",
+			"Draw conclusion about specific properties of clays with a focus to their potential use, problematics and things to consider in geotechnics and engineering geology."
+		],
+		"Description":[
+			"clays", "clay minerals", "importance and application in geosciences, industry and everyday life",
+			"Origin of clays", "formation", "geological origin",
+			"Clay mineral structure"," classification", "identification", "methods for investigation", "XRD",
+			"Properties of clay materials", "characterisation", "quantification",  "methods for investigation", 
+			"cation exchange", "rheology", "plasticity", "shearing", "swelling", "permeability", "retardation", "diffusion",
+			"Clay Minerals in geotechnics", "Problems and applications ", "soil mechanics", "barriers", "slurry walls", "tunnelling"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Geotechnical Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Planning of Underground Space",
+		"ID":"101-0388-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168350&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Gain an appreciation and knowledge of what lies beneath our feet and what an asset the underground is for our cities. ",
+			"The need to plan this asset is more complex than on the surface, as it is invisible and in parts impenentrable. ",
+			"We look at methods and tools to gain an understanding of the subsurface and what issues and challenges are involved in planning it."
+		],
+		"Description":[
+			"Major aspects of urban development",
+			"The Subsurface as the final frontier",
+			"Historical approaches to underground space development",
+			"Urban sustainability aspects",
+			"Modelling and mapping the underground",
+			"Policy building", "urban planning",
+			"Design and architecture", "creating a new urban tissue",
+			"Constructability of underground spaces",
+			"Future cities"," resilient cities",
+			"Governance and legal challenges",
+			"Investment aspects and value capture",
+			"Future proofing our infrastructure",
+			"Best practice of underground space use",
+			"Excursion to underground facility"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Bridge Design",
+		"ID":"101-0138-00L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&ansicht=KATALOGDATEN&lerneinheitId=167274&lang=en",
+		"Learning outcomes":[
+			"Define the main bridge design parameters and identify constraints and boundary conditions",
+			"Explain the structural behaviour and peculiarities of today's most important bridge typologies",
+			"Explain the main elements of bridges and their structural behaviour",
+			"Define the relevant actions on bridges",
+			"Dimension a standard bridge (pre-dimensioning by hand; dimensioning using computer-aided tools)",
+			"Explain the most relevant bridge construction and erection methods",
+			"Select an appropriate typology and conceive a convincing bridge for a site with its specific boundary conditions",
+			"Name the most eminent bridge designers and their relevant works"
+		],
+		"Description":[
+			"Conceptual design",
+			"Superstructure", "Girder bridges",
+			"Support and articulation",
+			"Substructure",
+			"Arch bridges",
+			"Frame bridges",
+			"Special girder bridges",
+			"Cable-supported bridges"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Building Structures",
+		"ID":"101-0148-01L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167428&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Get to know building structures in its entirety"
+		],
+		"Description":[
+			"Interaction between building and structure",
+			"Bearing structures of high-rise buildings",
+			"Stabilization of structure and stuctural members"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Method of Finite Elements I",
+		"ID":"101-0158-01L",
+		"ECTS": 5,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168864&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The Direct Stiffness Method is revisited and the basic principles of Matrix Structural Analysis are overviewed.",
+			"The basic theoretical concepts of the Method of Finite Elements are imparted and perspectives for problem solving procedures are provided.",
+			"Linear finite element models for truss and continuum elements are introduced and their application for structural elements is demonstrated.",
+			"The Method of Finite Elements is implemented on practical problems through accompanying demonstrations and assignments."
+		],
+		"Description":[
+			"background motivating adoption of finite element analysis",
+			"The Direct Stiffness Method",
+			"Formulation of the Method of Finite Elements",
+			"the Principle of Virtual Work", "Isoparametric formulations", 
+			"1D Elements (truss, beam)", "2D Elements (plane stress/strain)",
+			"Practical application of the Method of Finite Elements"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Timber Structures II",
+		"ID":"101-0168-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167909&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Comprehension and application of basic knowledge of structural timber design including material behaviour especially anisotropy, moisture and long duration effects and their consideration in structural analysis and detailing.",
+			"Design, detailing and structural analysis of timber roof structures, buildings and bridges."
+		],
+		"Description":[
+			"Field of application of timber structures", "Timber as building material",
+			"wood structure", "physical and mechanical properties of wood and wood-based products", "Durability",
+			"Principles of design and dimensioning", "Connections", "dowels", "nails", "screws", "glued connections",
+			"Timber components and assemblies", "mechanically jointed beams", "trusses", 
+			"Design and detaling of timber roof structures", "buildings and bridges"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Seismic Design of Structures I",
+		"ID":"101-0188-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168040&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Explain the nature of earthquake hazard and risk.",
+			"Explain the seismic response of simple linear and nonlinear single- and multi-degree-of-freedom structural systems and quantify it using response time history and response spectrum approaches.",
+			"Apply design code provisions to size the structural elements in a lateral force resisting system of a typical frame and wall buildings."
+		],
+		"Description":[
+			"Structural Dynamics", "Vibration Problems", 
+			"origin and quantification of earthquake hazard",
+			"seismic response of elastic and inelastic single- and multiple-degree-of-freedom structures",
+			"response history and response spectrum seismic response evaluation methods",
+			"basis for seismic design codes",
+			"fundamentals of seismic design of structures",
+			"performance-based seismic design"
+		],
+		"Pre-requisites":[
+			"Structural Dynamics and Vibration Problems"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Uncertainty Quantification in Engineering",
+		"ID":"101-0178-01L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168091&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"After this course students will be able to properly pose an uncertainty quantification problem, select the appropriate computational methods and interpret the results in meaningful statements for field scientists, engineers and decision makers.",
+			"The course is suitable for any master/Ph.D. student in engineering or natural sciences, physics, mathematics, computer science with a basic knowledge of probability theory."
+		],
+		"Description":[
+			"uncertainty quantification", "probabilistic modelling", "introduction to copula theory", 
+			"uncertainty propagation", "Monte Carlo simulation and polynomial chaos expansions", 
+			"sensitivity analysis", "correlation measures", "Sobol' indices"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Structural Identification and Health Monitoring",
+		"ID":"101-0008-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168165&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Test Structural Systems for assessing their condition, as this is expressed through measurements of dynamic response.",
+			"Analyse vibration signals for identifying characteristic structural properties, such as frequencies, mode shapes and damping, based on noisy measurements of the structural response.",
+			"Formulate structural equations in the time and frequency domain",
+			"Identify possible damage into the structure by picking up statistical changes in the structural behavior"
+		],
+		"Description":[
+			"Elements of Vibration Theory",
+			"Transform Domain Methods",
+			"Digital Signals",
+			"Nonparametric Identification for processing test and measurement data",
+			"transient", "correlation", "spectral analysis",
+			"Parametric Identification", "time series analysis"," transfer functions"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Energy and Climate Design II",
+		"ID":"052-0610-00L",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168988&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"At the end of this one-year course, students will be able to estimate the impact of energy and climate on a building." ,
+			"You will be able to independently apply the steps of an integrated design process to your own project and master selected tools from the A/S knowledge platform.",
+			"Future own designs can be supplemented and enriched with potentials from energy and climate analyses."
+		],
+		"Description":[
+			"Local power generation",
+			"Storage",
+			"Environmental impact",
+			"Visualization"
+		],
+		"Pre-requisites":[
+			"Energy and Climate Design I"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Seismic Evaluation and Retrofitting of Existing Buildings",
+		"ID":"101-0194-00L",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169102&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"A large percentage of the existing building inventory worldwide has been constructed before the introduction of the current seismic code provisions. ",
+			"The seismic deficiencies observed in many of these structures are a direct outcome of their non-compliance with these provisions and the established engineering practices in seismic design. ",
+			"Moreover, the unavoidable material deterioration in these structures could further inhibit their seismic performance. ",
+			"Therefore, the knowledge of the current procedures and common practices for the seismic evaluation and retrofitting of buildings is of paramount importance. ",
+			"This course presents an overview of these procedures through a wide spectrum of applied case studies in Switzerland and worldwide. ",
+			"The students will work on a project related to the presented case studies, thus obtaining deep understanding on the application of these procedures and a feeling on how to engineer practical retrofitting strategies towards the seismic upgrading of existing buildings."
+		],
+		"Description":[
+			"seismic hazard", "seismic performance objectives",
+			"Common structural deficiencies", "observed damage patterns in buildings due to strong earthquake ground motion excitation",
+			"Seismic evaluation of buildings in Switzerland using Norm SIA 269/8", 
+			"Presentation of the code in steps", "discussion of the critical issues",
+			"Seismic retrofitting of buildings in Switzerland using Norm SIA 269/8",
+			"Application of seismic evaluation using SIA 269/8 on an existing building in Switzerland",
+			"Application of seismic retrofitting using SIA 269/8 on an existing building in Switzerland",
+			"Seismic evaluation methodologies worldwide", "State of the art",
+			"Yield Point Spectra", "Constant Yield Displacement Evaluation (CYDE) method",
+			"Seismic retrofitting strategies worldwide"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Bridge Design: Project Competition",
+		"ID":"101-0138-11L",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=166998&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Consideration of governing boundary conditions and constraints.",
+			"Conception of an efficient structural system with an adequate aesthetic expression considering the environment.",
+			"Definition of the relevant actions and decisive load cases.",
+			"Proof of feasibility by dimensioning the main structural elements.",
+			"Schematic overview of construction processes.",
+			"Appropriate presentation and visualisation of the proposed bridge design."
+		],
+		"Description":[
+			"design tools", "working methods",
+			"requirements", "boundary conditions",
+			"Study of references", "possible concepts",
+			"Choice of best variant",
+			"Structural modelling & calculations",
+			"Plans", "visualisation"
+		],
+		"Pre-requisites":[
+			"Bridge Design"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Seismic Design and Evaluation of Bridges",
+		"ID":"101-0194-10L",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169223&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The existing bridge inventory in Switzerland consists of about 3340 bridges, facilitating the continuous function of the national highway transportation network. ",
+			"Furthermore, a large number of new bridges are under construction in Switzerland." ,
+			"These bridges serve as intermediate links, connecting different communities and enabling the accessibility of different infrastructure components. ",
+			"Within this frame, the seismic protection of new and existing bridges is critical for the maintenance of the functionality of our communities and their ability to recover after a strong earthquake event." ,
+			"Along these lines, this course aims to provide knowledge of the latest code provisions and analysis methods for the seismic design and evaluation of bridges in Switzerland and worldwide. ",
+			"This knowledge will be provided through a combination of theoretical background with practical case study examples. ",
+			"The students will work on a project related to the presented case studies, thus obtaining hands-on experience in the seismic evaluation and seismic retrofitting of existing bridges located in Switzerland."
+		],
+		"Description":[
+			"bridges in low and moderate seismic hazard regions",
+			"Common seismic deficiencies of typical bridges",
+			"Dynamic modelling of bridge systems",
+			"Dynamic modelling of bridge components", "columns", "bearings",
+			"joints", "abutments", "reinforcement splices", "foundations", "piles",
+			"Nonlinear static analysis",
+			"Nonlinear dynamic analysis",
+			"Swiss code: seismic design",
+			"Swiss code: seismic evaluation",
+			"seismic design issues",
+			"seismic evaluation",
+			"Seismic evaluation and retrofitting of bridges", "EU perspective", "US perspective"
+		],
+		"Pre-requisites":[
+			"Bridge Design", "Seismic Design of Structures I"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced Analysis and Design of Steel Structures",
+		"ID":"101-0149-01L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=166842&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"In „Advanced Analysis and Design of Steel Structures”, students will learn the background and practical application of simulation-based analysis and design methods in the design and assessment of steel and steel-concrete composite structures."
+		],
+		"Description":[
+			"Materially nonlinear analysis of steel and composite elements in frames and trusses",
+			"Linear buckling analysis",
+			"Geometrically nonlinear analysis of perfect and imperfect structures",
+			"Geometrically and materially nonlinear analysis",
+			"Methods of fatigue analysis", "stress design by global and local approaches",
+			"calculation of stress intensity factors and J-integrals", "crack propagation",
+			"Fire structural engineering of steel elements", "thermal and stress analysis"
+		],
+		"Pre-requisites":[
+			"Steel Structures III: Advanced Steel and Composite Structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Structural Engineering"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Fire Safety and Acoustics Engineering",
+		"ID":"066-0424-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169494&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+		],
+		"Description":[
+			"Fire Safety Engineering",
+			"Fire safety objectives and regulations",
+			"Fire safety concepts and measures",
+			"Fire statistics",
+			"Human behavior and escape",
+			"Structural fire safety",
+			"Technical fire safety",
+			"Organizational fire safety",
+			"Risk and probabilistic",
+			"Economy of fire safety measures",
+			"Fundamentals of sound", "Sound waves", "Sound sources", "free field sound propagation", 
+			"Sound descriptors", "sound levels",
+			"Sound fields in rooms", "Reflection and absorption at boundaries", 
+			"Diffuse sound fields (reverberation time)", "Room modes",
+			"Airborne sound transmission through building elements",
+			"Homogenous structures", "Monolithic elements", "Double leaf elements (walls, windows, )", 
+			"Linings", "toppings", "additional layers",
+			"Assembled (lightweight) structures", "Double leaf framed elements",
+			"Impact sound transmission through building elements", "Impact sources", "Floor elements and floor toppings", 
+			"Introduction structure-borne sound and vibration",
+			"Sound transmission in buildings", "Composite elements", "Flanking sound transmission",
+			"Concept of flanking", "Monolithic buildings",
+			"Lightweight framed buildings", "Outline prediction methods", "Noise from building systems and installations",
+			"Measurement", "Descriptors and Regulations", "Standardized measurement techniques and protocols"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Highway Geometric Design and Engineering",
+		"ID":"101-0428-00L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167894&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Knowledge and application of the bases and connections of the geometric highway design.",
+			"Assessing of construction risks, knowledge of dimensioning road structures and drainage systems."
+		],
+		"Description":[
+			"Design bases and modells", "alignement", "cross-section", "intersections"," highway equipment", "project handling",
+			"Identification and assessing of construction risks", 
+			"application of principles and certification of safety requirements", 
+			"dimensioning and construction of road structures and drainage systems"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Logistics and Freight Transportation",
+		"ID":"101-0459-00L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167679&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Identification and understanding the interconnections between logistic requirements, market, transport offers, operational processes, transport means and regulation in freight transport of all transport systems (road, rail, intermodal, waterborne and air)."
+		],
+		"Description":[
+			"Basics and concepts of logistics", "actors in logistics and freight transport", 
+			"transport demand", "inventory-management", "in-house logistics", "storage", "transport safety", 
+			"dangerous goods", "basics to transport offers", "production processes", "infrastructure for road", 
+			"rail", "intermodal", "waterborne (sea and inland waterways)", "air transport", "urban logistics", 
+			"transport policy", "regulation", "spatial planning", "location issues", "network design with optimization methods"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Active Mobility",
+		"ID":"101-0488-01L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167326&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Acquirement of basic knowledge in the field of pedestrian and cycle traffic planning",
+			"Knowledge and understanding of the transport-related attributes of human beings and the consequences for the design and planning of appropriate transport facilities",
+			"Ability to assess level of service and performance",
+			"Basic knowledge about pedestrian microsimulation as an up-to-date instrument for planning and analysis"
+		],
+		"Description":[
+			"active mobility",
+			"Characteristics of bicycle transport",
+			"Principles of bicycle networks",
+			"design of a bicycle network",
+			"design and development of bicycle traffic facilities",
+			"Bicycle parking",
+			"Characteristics of pedestrians", "walking speed",
+			"Quality of traffic conditions", "capacity of cycling and walking facilities",
+			"design and development of pedestrian traffic facilities",
+			"Configuration and design of pedestrian traffic facilities in public transport hubs",
+			"Obstacle free traffic areas", "Demands of people with disabilities",
+			"Counting pedestrian and bicycle traffic",
+			"Pedestrian simulations",
+			"Technologies for pedestrian micro-simulations",
+			"Design of pedestrian facilities",
+			"Shared Space",
+			"Promoting pedestrian and bicycle transport",
+			"Excursions to selected topics in pedestrian and bicycle transport"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Economical Land Use",
+		"ID":"103-0458-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168421&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Students learn to understand backgrounds, basic principles, goals and approaches of appropriate and economical use of land as a scarce resource.",
+			"They are able to summarise in a comprehensible way the core arguments for redevelopment before new development. ",
+			"Furthermore, students can illustrate how to implement economical land use in a differentiated and customised manner."
+		],
+		"Description":[
+			"settlement development", "land use", "facts", "trends", "causes", "consequences",
+			"redevelopment before new development", "basic principles", "strategic goals",
+			"overviews of existing land reserves",
+			"formal and informal instruments and procedures",
+			"comprehensive settlement management", "implementation on municipal, regional and national level",
+			"complementary current external inputs from research and practice"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Laboratory Transport and Spatial Planning",
+		"ID":"101-0408-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167203&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"This laboratory applies main transport planning methods based on land use types and patterns. ",
+			"Using a small scale case study, students implement a four-stage travel demand model based on real-world data and propose scenarios for improvements of transport and land use infrastructure."
+		],
+		"Description":[
+			"Methods for analyzing and solving transport planning issues",
+			"Dependencies between land use and transport planning",
+			"Development of models for solving of planning tasks",
+			"Model plausibility and calibration",
+			"Development of solutions and scenarios",
+			"Scenario evaluation and effect"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Management of Air Transport (Aviation II)",
+		"ID":"151-0228-00L",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167131&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"After completion of the course, they shall be familiar with tasks, processes and interactions and have the ability to understand implications of developments in the airlines industry and its environment. ",
+			"This shall enable them to work within the air transport industry."
+		],
+		"Description":[
+			"airline industry", "managment practises",
+			"Strategy", "Alliances", "Joint Ventures", "Negotiations with Stakeholder", 
+			"Environmental Protection", "Safety & Risk Management", "Airline Economics"," Network Management", 
+			"Revenue Management & Pricing", "Sales & Distribution", "Airline Marketing", "Scheduling & Slot Management", 
+			"Fleet Management & Leasing", "Continuing Airworthiness Management", "Supply Chain Management", "Operational Steering"
+		],
+		"Pre-requisites":[
+			"Basics of Air Transport"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Regional Economics",
+		"ID":"103-0427-00L",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168619&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Students shall know the theoretical basics of spatial economy and growth theories an a regional scale",
+			"they shall gain the competence to apply concepts and theories of spatial science as well as regional economics to concrete problems of their area of study."
+		],
+		"Description":[
+			"Origin of Spatial Economics",
+			"Indices of regional economics", "growth analysis",
+			"Regional advantages in competition", "growth theories",
+			"Regional innovation theory", "innovation processes", "cluster theory", "innovation policy",
+			"Regional labour markets",
+			"Theory and political implications with examples", "New Regional Policy NRP", "Regional Innovation Systems RIS",
+			"Evaluation of policy instruments for regional development",
+			"External Speaker and discussion of topicality by press"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Railway Systems II",
+		"ID":"227-0524-00L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168121&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Know-how about the design and construction principles of rail traction systems",
+			"Overview of overall-system tasks (electrical system integration, train control, energy consumption)",
+			"Insight into the activities of the railway vehicle industry and railway operators in Switzerland",
+			"Motivation of young engineers to start a career in the railway vehicle manufacturers, railway infrastructure and operating companies"
+		],
+		"Description":[
+			"Specialisation of drive systems", "system questions ",
+			"traction equipment",
+			"System concepts for traction drives",
+			"Main transformer",
+			"Travel motors",
+			"Power converters",
+			"High voltage circles and grounding",
+			"Thermal design",
+			"Diesel drive systems",
+			"Battery memory",
+			"System integration",
+			"Train influence",
+			"Energy consumption",
+			"Structure of the railway power supply",
+			"Electrical system compatibility"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Readings in Transport Policy",
+		"ID":"101-0481-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168237&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"This course will explore the issues and constraints of transport policy through the joint readings of a set of relevant papers.",
+			"Familiarize the students with issues of transport policy making and the conflicts arising."
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Transport Systems"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Railway Infrastructures 1",
+		"ID":"101-0419-01L",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=166964&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Teaches the basic principles of railway infrastructures, of network and infrastructure design, of the railway technology and aspects of infrastructure operation. ",
+			"Fundamentals for railway infrastructures 2"
+		],
+		"Description":[
+			"Infrastructures of public transport systems", "interaction between track and vehicles",
+			"passengers and goods as infrastructure users", "management and financing of networks",
+			"railway standards and normes", "Infrastructure planning", "Planning processes and decision levels", 
+			"planning processes of governmental bodies and railway companies", "layout of a line", 
+			"Infrastructure design", "Topologies of passenger stations", "rail freight facilities", 
+			"Geometric design", "switches", "clearance profile", 
+			"Planning and design of the passenger parts of stations",
+			"Rail technology", "Track", "power supply", "safety systems", "telecommunication systems",
+			"Commission of rail infrastructure", "Definitions", "processes", "test methods", "responsibilities",
+			"Maintenance", "Fundamentals of infrastructure maintenance", "kinds of depreviations", "supervision methods",
+			"steps of infrastructure maintenance", "maintenance need", "methods to minimize maintenance costs", "operational aspects"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Flood Protection",
+		"ID":"101-0278-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167902&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"To get to know processes leading to flood damage, the different concepts and structural measures allowing to prevent or mitigate flood damage, as well as promising practical planning methods to implement flood protection measures in practice."
+		],
+		"Description":[
+			"Explanation of relevant processes", "flooding", "aggradation", "sedimentations", "erosion", "debris flows",
+			"Concept of different objectives of protection for various land uses (from rural areas to industrial regions)",
+			"General possibilities of flood protection / control",
+			"Land use planning on the basis of hazard zones",
+			"Classical procedures against flood damage", "increase of flow capacity", "release structures", "flood detention basins", "polder",
+			"Property protection as continuative measure.",
+			"Maintenance.",
+			"Considering of overload case"," Emergency procedures",
+			"Damage determination and risk analysis",
+			"Management of residual risk",
+			"Conflict of objective during implementation of procedures",
+			"Situatively adjusted approach",
+			"Handling driftwood",
+			"Surface runoff",
+			"Examples of projects in Switzerland"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Water Resources Management",
+		"ID":"102-0488-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168569&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"The course provides the essential knowledge and tools of water resources planning and management. ",
+			"Core of the course are the concepts of data analysis, simulation, optimization and reliability assessment in relation to water projects and sustainable water resources management."
+		],
+		"Description":[
+			"sustainable water resources management", "problem understanding", "tools identification",
+			"Time Series Analysis", "Linear Stochastic Models", "Nonlinear Time Series Analysis",
+			"optimal allocation of water resources",
+			"linear and dynamic programming", "optimization (deterministic and stochastic)",
+			"simulation techniques as design methods for allocation of water resources in complex and competitive systems", 
+			"basic indexes used in economical and reliability analyses", 
+			"multicriteria analysis methods as a tool to assess the reliability of water systems in relation to design alternatives"
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Physical Modelling in Hydraulics",
+		"ID":"101-0268-01L",
+		"ECTS": 2,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168177&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"To deepen knowledge on possibilities and limitations of experimental modelling in hydraulic engineering and relevant measurement techniques, and to advance in data analysis i.e. time and frequency domains, error analysis and data interpretation."
+		],
+		"Description":[
+			"Fluid properties and basic equations",
+			"Similitude and dimensional analysis",
+			"Scaling laws and upscaling limits",
+			"Modelling techniques and how to build physical scale models",
+			"Sediment transport modelling (gravel bed rivers) & Sediment monitoring techniques",
+			"Measurement techniques:",
+			"Laser Doppler Anemometry (LDA)",
+			"Particle Image Velocimetry (PIV)",
+			"Particle Tracking Velocimetry (PTV)",
+			"Acoustic Doppler Velocimetry (ADV)", "Acoustic Doppler Current Profiler (ADCP)",
+			"Video-metry and fibre optical instruments",
+			"Data analysis including curve fitting and error analysis",
+			"Laboratory visit including introduction to experimental facilities",
+			"Individual laboratory work in groups (measurement, data analysis and interpretation)"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Snow and Avalanches: Processes and Risk Management",
+		"ID":"101-0288-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168142&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"basics of snow and avalanche mechanics",
+			"methods to model snow and avalanche processes",
+			"interaction of snow and avalanches with structures and forest",
+			"methods of stability evaluation and hazard assessment",
+			"avalanche protection measures in the context of integral risk management",
+			"basics on the design and effectiveness of protection measures"
+		],
+		"Description":[
+			"snow precipitation", "extreme events", "snow loads", "snow and snow cover properties",
+			"snow-atmosphere interaction", "avalanche formation", "stability evaluation", "avalanche forecasting",
+			"avalanche dynamics", "avalanche impact on structures", "hazard mapping", "protection measures (permanent and temporary)", 
+			"integral risk management."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Groundwater II",
+		"ID":"102-0448-00L",
+		"ECTS": 6,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168823&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"formulate practical flow and contaminant transport problems.",
+			"solve steady-state and transient flow and transport problems in 2 and 3 spatial dimensions using numerical codes based on the finite difference method and the finite element methods.",
+			"solve simple inverse flow problems for parameter estimation given measurements.",
+			"assess simple multiphase flow problems.",
+			"assess spatial variability of parameters and use of stochastic techniques in this task.",
+			"assess simple coupled reactive transport problems."
+		],
+		"Description":[
+			"basic flow", "contaminant transport equation",
+			"Numerical solution of the 3D flow equation", "finite difference method", 
+			"Numerical solution to the flow equation", "finite element equation",
+			"Alternative methods for transport modeling like method of characteristics and the random walk method",
+			"Two-phase flow", "Unsaturated flow problems",
+			"Spatial variability of parameters and its geostatistical representation", "geostatistics" , "stochastic modelling",
+			"Reactive transport modelling"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"River Restoration",
+		"ID":"101-0259-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167128&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"describe the most important relations in river morphodynamics and their impact on the ecosystem of riverscapes",
+			"elaborate solutions within river restoration, dealing with the different societal expectations towards riverscapes.",
+			"deal with personal, social and technical obstacles in the planning of a river restoration project."
+		],
+		"Description":[
+			"River restoration", "reestablish near natural processes in riverscapes",
+			"habitat quality", "biodiversity", "river morphodynamics", 
+			"sediment transport processes", "flood protection", "different expectations",
+			"space for agriculture", "water for energy production", "flood protection", "nature protection",
+			"riverscapes in modern society"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Hydraulic Engineering and Water Resources Management"],
+		"Comp/Elect": "Elective",
+		"Course Title":"River Morphodynamic Modelling",
+		"ID":"101-0269-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=166963&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"First, the students develop a throughout understanding of the basics of river morphodynamic processes." ,
+			"Second, they get familiar with numerical tools for the simulations in one- and two-dimensions of morphodynamics."
+		],
+		"Description":[
+			"fundamentals of river morphodynamic modelling (Exner equation, bed-load, suspended-load, closure relationships)",
+			"aggradation and degradation processes",
+			"differences between 1D and 2D approaches",
+			"river bars: characterization and prediction",
+			"non-uniform sediment morphodynamics: the Hirano model",
+			"short and long term response of gravel bed rivers to change in sediment supply",
+			"vegetation and morphodynamics interaction"
+		],
+		"Pre-requisites":[
+			"Numerical Hydraulics",
+			"River Engineering"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Concrete Material Science",
+		"ID":"101-0658-00L",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=166967&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"In this course you will gain a thorough understanding of common techniques for characterizing engineering, microstructural, physical and chemical properties of concrete. ",
+			"You will learn how this knowledge can be used both in research and industrial environments. In practice, these techniques are used, for example, to evaluate new materials, diagnose causes of problems, determine responsibilities, handle reclaims or quality insurance as well as devise an experimental program in research and development. ",
+			"Throughout the course various references you will also learn about how concrete can be designed to have a reduced environmental impact and increased service life."
+		],
+		"Description":[
+			"Concrete Material Science",
+			"Thermodynamic modeling of cement hydration and its industrial relevance", "Dr. Thomas Matschei (Holcim Group Support)",
+			"Characterization techniques of cementitious materials", "Solid State NMR"," Prof. Jean-Baptiste d'Espinose (ESPCI)",
+			"Fresh properties of concrete", "Rheology",
+			"Chemical admixtures",
+			"Transport in porous media",
+			"Durability",
+			"Alternative binders",
+			"Alkali-Silica Reaction. Dr. Andreas Lehmann (EMPA)"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Wood Physics & Wood Materials",
+		"ID":"101-0678-00L",
+		"ECTS":3 ,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167944&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"At a global scale wood is one of the most important building materials. ",
+			"Knowledge of significant physical properties of wood, wood based materials and advanced wood materials as well as the relationship between structure and properties are conveyed. ",
+			"This knowledge is fundamental for an appropriate use of wood and wood based materials as well as for a further improvement of the reliability of wood and for establishing new fields of application."
+		],
+		"Description":[
+			"Hierarchical structure of wood and assembly of wood-based products",
+			"Physical properties (density, wood moisture, swelling and shrinkage)",
+			"Mechanical properties at different length scales",
+			"Nanostructural characterization",
+			"Materials from nanocellulose",
+			"Wood modification and durability",
+			"Wood polymer composites",
+			"Wood hybrid materials",
+			"Wood surfaces",
+			"Functional wood materials"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Non-Destructive Test Methods and Health Monitoring",
+		"ID":"101-0679-00L",
+		"ECTS": 3,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167505&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Important non-destructive test methods shall be learnt. ",
+			"These methods that are based on the same physical principles (e.g. resistance measurement, ultrasound, hardness) are used for wood and concrete in a comparative way. ",
+			"The course shall the address the fundamentals for condition assessment of structures in wood and reinforced concrete."
+		],
+		"Description":[
+			"Detailed knowledge of the microscopic structure of concrete and wood.",
+			"Knowledge of non-destructive test methods for concrete and wood (humidity, ultrasound, hardness, etc.).",
+			"Problems in calibration of measuring instruments, influence of disturbing parameters (e.g. temperature).",
+			"Basics of condition assessment of wood and reinforced concrete structures, assessment of deterioration processes (corrosion).",
+			"Writing of reports for condition assessment.",
+			"Possibilities of restoration of structures."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics"],
+		"Comp/Elect": "Elective",
+		"Course Title":"MaP Distinguished Lecture Series on Additive Manufacturing",
+		"ID":"327-2224-00L",
+		"ECTS": 1,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167710&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"Participants become acquainted with the state-of-the-art and frontiers in Additive Manufacturing, a topic of global and future relevance for materials and process engineering. ",
+			"A focus is placed on simulation and biohybrid robotics applications. ",
+			"The self-study of relevant literature and active participation in discussions following presentations by internationally renowned speakers stimulate critical thinking and allow participants to deliberately discuss challenges and opportunities with leading academics and industrial experts and exchange ideas within an interdisciplinary community."
+		],
+		"Description":[
+			"Additive Manufacturing"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Materials and Mechanics", "Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Towards Efficient and High-Performance Computing for Engineers",
+		"ID":"101-0691-00L",
+		"ECTS": 4,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167090&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"This course provides an overview of programming techniques relevant for efficient and high-performance computing. ",
+			"It builds on introductory coding experience (e.g. matlab/python/java) and introduces the students to more advanced tools, specifically C++, external libraries, and supercomputers." ,
+			"The objective of this course is to introduce various approaches of good practice in developing your own code (for your research or engineering project) or using/modifying existing open-source programs." ,
+			"The course targets engineering students and seeks to provide a practical introduction towards performance-based computational simulation."
+		],
+		"Description":[
+			"code versioning and DevOps lifecycle",
+			"introduction to C++",
+			"structured programming",
+			"object-oriented programming",
+			"code testing",
+			"code performance (design, data structure, evaluating, using external libraries)",
+			"code parallelization",
+			"running simulations on supercomputers"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Hydraulic Engineering and Water Resources Management", "Construction and Maintenance Management", "Geotechnical Engineering", "Materials and Mechanics", "Structural Engineering", "Transport Systems"],
+		"Comp/Elect": "Compulsory",
+		"Course Title":"Master Thesis",
+		"ID":"101-0010-10L",
+		"ECTS": 20,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168968&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"To work independently and to produce a scientifically structured work."
+		],
+		"Description":[
+			"The topics of the Mastrer Thesis are published by the professors. ",
+			"The Topic can be set also in consultation between the student and the professor."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": ["Project Based Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"Research-Focused Project Work",
+		"ID":"101-0200-10L",
+		"ECTS": 11,
+		"Semester":"Spring",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&ansicht=KATALOGDATEN&lerneinheitId=167866&lang=en",
+		"Learning outcomes":[
+			"Promote independent, structured and scientific work; learn to apply engineering methods",
+			"deepen the knowledge in the field of the treated task."
+		],
+		"Description":[
+			"The project work is supervised by a professor." ,
+			"The topic is going to be continued as master's thesis."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"urban Design III",
+		"ID":"052-0707-00L",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=STUDPLANINFO&lerneinheitId=164035&lang=en",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": [""],
+		"Comp/Elect": "Elective",
+		"Course Title":"New Materiality for the Passage Notre Dame",
+		"ID":"101-0599-10L",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169621&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": ["Digitalisation Specific Courses"],
+		"Comp/Elect": "Elective",
+		"Course Title":"CAD for Civil Engineers",
+		"ID":"101-0185-01L",
+		"ECTS": 2,
+		"Semester":"Fall",
+		"URL": "https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162870&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en",
+		"Learning outcomes":[
+			"an eventual internship between bachelor and master course",
+			"the project works in the master course",
+			"the master thesis"
+		],
+		"Description":[
+			"CAD"
+		],
+		"Pre-requisites":[
+			
+		]
+	}
+]

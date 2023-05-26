@@ -1,0 +1,2620 @@
+[
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "All",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Interdisciplinary Mechanics and Design for CE",
+		"ID":"CIEM0000",
+		"ECTS": 9,
+		"Semester":"Fall",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63234",
+		"Learning outcomes":[
+			"Know how to develop Civil Engineering Systems (CES) within the broader social, economic, natural and built environment", 
+			"use the basic concepts of continuum mechanics to define a mathematical model for a CE problem. ",
+			"reduce the model to a simpler (engineering) one, explain the corresponding assumptions and classify the obtained result. ",
+			"solve the reduced model/problem using the appropriate technique, interpret the behaviour and its relevance to CE practice. "
+		],
+		"Description":[
+			"surrounding social-technical-natural-economic environment",
+			"principles of Systems Engineering",
+			"Open Design Learning",
+			"continuum mechanics",
+			"reduce the basic problems to simpler engineering forms" ,
+			"differences and similarities between the various mechanical problems"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "All",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Modelling, Uncertainty and Data for Engineers",
+		"ID":"CEGM1000",
+		"ECTS": 12,
+		"Semester":"Fall",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63155",
+		"Learning outcomes":[
+			"is able to describe and formulate a research question (or alternatively, design requirements) given a set problem and select the appropriate methodology and tools",
+			"is able to present a fitting work plan to investigate a set of research questions or design requirements",
+			"is able to compose a technical document using appropriate academic language and citation with references",
+			"is able to work in a collaborative group environment effectively",
+			"is able to code according to basic coding standards (e.g., consistency, readability, conciseness, structure, etc.) and collaborate with their peers via distributed control software (e.g., git)",
+			"can perform spatial / temporal / multivariate analysis of data to extract knowledge via physics-based modelling tools, data-driven approaches, and uncertainty quantification methods",
+			"can present and communicate with peers in Civil Engineering and Geosciences, results of analyses using specific modelling, uncertainty and data approaches with appropriate metrics and visualization techniques",
+			"can design a modelling framework (from problem conceptualization to governing equation setup) for a physical/engineering process",
+			"can translate the modelling framework into discretized equations and computer code",
+			"can mathematically formulate and solve an optimization problem and discuss its properties",
+			"can assess optimization and simulation models performance using a set of indicators",
+			"can derive relevant models and complete probability and statistic calculations for faculty-wide applications",
+			"can construct relevant models for probabilistic dependence, for example using bivariate distributions or discrete Bayesian Networks",
+			"use deterministic models with probabilistic inputs to evaluate engineering questions to quantify model output uncertainty (in time and/or space)",
+			"use risk and reliability analyses concepts to describe systems, their characteristics and behaviour in time and space to support decision making under uncertainty",
+			"can identify parameters of interest, describe the functioning of common field/remote sensors used for measuring them, and explain resolution implications in space and time",
+			"is able to apply parameter estimation using observations and perform a quality assessment",
+			"can illustrate the procedure of gathering data from different sources, pre-processing it for analysis purposes, and sharing it according to FAIR principles"
+		],
+		"Description":[
+			"Theory, Application and Coding (TAC)",
+			"modelling", 
+			"uncertainty",
+			"data (MUD)", 
+			"integrated applications"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Base: Fundamentals of Construction Materials",
+		"ID":"CIEM1000",
+		"ECTS": 15,
+		"Semester":"Any",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63746",
+		"Learning outcomes":[
+			"Explain the chemical roots of mechanical behaviour of construction materials",
+			"Categorize construction materials based on their composition, engineering properties and function",
+			"Design and predict engineering properties of construction materials based on composition and production methods",
+			"Quantify sustainability of construction materials.",
+			"Analyse, model and predict failure of construction materials",
+			"Apply fracture mechanics principles to develop materials more resistant to cracking ",
+			"Select construction materials based on functional requirements, economic, environmental and ethical considerations",
+			"Design mixture of concrete, asphalt and other composite materials for application-related requirements"
+		],
+		"Description":[
+			"Chemistry of Construction Materials", "Phases and Microstructures",
+			"Thermodynamic concepts", "First and Second Law of Thermodynamics", "Earth Materials", "Aggregates",
+			"Portland Cement", "Electrochemistry", "Glass", "Metals", "FRC",
+			"Wood and Timber", "Bituminous Materials",
+			"Polymers and Organic Additives", "Recycled Construction Materials"," Sustainability Aspects",
+			"Fracture Mechanics",
+			"Theory of Elasticity", "Theory of Griffith", "Linear Elastic Fracture Mechanics",
+			"Mixed Mode Fracture", "Elastic/Plastic Fracture Mechanics", "Quasi-Brittle Failure", "The Cohesive Zone Model",
+			"Fracture in Timber", "Environmental Influences on Fracture",
+			"Fracture Mechanics in Steel", "Implementation of the Prediction Methods in Real Case Situations",
+			"Construction Materials Selection",
+			"Engineering Materials in the Build Environment 1800-2050", "Properties of Engineering Materials", 
+			"the Logic of the Ashby Diagram", "Criteria for Materials Selection",
+			"Materials Selection based on Optimized Performance",
+			"The Shape Factor as a parameter and Integrated Materials",
+			"Optimizing using Multiple Criteria"," Combined structural and Eco-Impact Optimization",
+			"Finding if a concept material is useful", "Designing concept materials using the synthesizer",
+			"Ethics of materials selection. ",
+			"Construction Materials Technology",
+			"Introduction to Concrete Technology", "Microstructural of Concrete", "Introduction to Asphalt Technology",
+			"Pore Structure in Concrete.", "Fresh concrete properties", "Aggregates properties" ,
+			"Early Age Concrete Properties", "Basic Properties of Asphalt cement",
+			"Volume Stability", "Shrinkages", "Creep and Relaxation"," Admixtures for (asphalt) concrete",
+			"Transport and Concrete Durability", "Concrete Mix Design", "Asphalt concrete mix design",
+			"Concrete Construction Practices", "Curing  and Quality Control of Concrete",
+			"Concrete Recycling"," Concrete Sustainability", "Reuse and Recycling in maintenance of Asphalt pavements",
+			"Special Concrete Types and Applications"," Special asphalt concrete types and applications. "
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Base: Geotechnical Engineering",
+		"ID":"CIEM2000",
+		"ECTS": 15,
+		"Semester":"Any",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63766",
+		"Learning outcomes":[
+			"Describe the mechanical behavior (stress-strain response) of soils and rocks based on laboratory testing and data analysis",
+			"Recognize and apply the concept of constitutive modelling",
+			"Analysis and interpret laboratory tests and derive and apply mathematical formulations for engineering design",
+			"Evaluate and assess the interaction between the subsurface and geotechnical structures",
+			"Recognize, and determine the impact of the environment on the design, construction, and performance of geotechnical structures, and vice versa",
+			"Communicate the results with experts from other disciplines and other stakeholders",
+			"Assess the impact of hydro-mechanical coupling on the soil response"
+		],
+		"Description":[
+			"Theory and modelling of geo-processes", "Testing and modelling of soil behavior", 
+			"Foundations and Excavations", "mechanical behavior (stress-strain response) of soils and rocks",
+			"laboratory testing"," data analysis",  "constitutive modelling",  
+			"observed soil behavior from standard geotechnical laboratory tests",
+			"analyze and interpret the test data", "translate them into mathematical formulations",
+			"model parameters needed for engineering design", 
+			"Formulation", "assessment", "evaluation", "soil coupled hydro-mechanical response in engineering applications",
+			"predict the behaviour of foundations and excavations",
+			"interaction between the subsurface and geotechnical structures",
+			"impact of the environment on the design", "construction and performance of geotechnical structures",
+			"Monitoring", "Data Science", "Ethics related to design of geotechnical structures",
+			"usability/safety of geotechnical systems", "interaction between the subsurface and geotechnical structures",
+			"effective Communication with stakeholders"
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Base: Hydraulic Engineering Fundamentals and Environments Part I",
+		"ID":"CIEM3000",
+		"ECTS": 15,
+		"Semester":"Any",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63786",
+		"Learning outcomes":[
+ 			"Explain the physical principles behind flow, transport, turbulence, mixing, sediment transport, surface waves and hydraulic loads.",
+			"Derive analytical/numerical models to assess typical hydraulic engineering problems based on physical principles combined with data.",
+			"Design solutions for typical hydraulic engineering problems regarding scour, siltation, contamination, sediment transport, bed stability.",
+			"Explain the characteristics of rivers, coasts, estuaries, ports and waterways in hydraulic engineering systems.",
+			"Predict and assess the behaviour of rivers, coasts, estuaries, ports and waterways in hydraulic engineering systems in response to natural and anthropogenic change taking uncertainties into account.",
+			"Identify the range of functions of rivers, coasts, estuaries, ports and waterways in hydraulic engineering systems."
+		],
+		"Description":[
+			 	"Modelling Flow", "Transport and Bed Protection", "Ocean Waves", "River Systems and Interventions",
+				"in-depth analysis of the hydrodynamic and transport processes",
+				"the theory and techniques to numerically solve the hydrodynamic and transport equations",
+				"the theory and tools to describe and calculate the hydraulic loads and bed protection",
+				"the dynamics of wind-generated waves in the open ocean and in coastal waters",
+				"the characteristics of a river system", 
+				"the morphodynamic behaviour of these systems", "the response to human interventions",
+				"underlying hydrodynamic and sediment transport processes",
+				"typical river engineering problems and methods design interventions",
+				"Fundamentals of free surface flows and transport processes",
+				"mathematical description of unsteady flow with free surface in open channels",
+				"the principles of conservation of mass and momentum", "including long waves", "tidal basins and flood waves in rivers",
+				"transport of dissolved matter due to advection and diffusion is covered in depth",
+				"the underlying transport processes", "shear stress", "bed roughness", "logarithmic velocity profile", 
+				"dispersion", "turbulent diffusivity", "mixing", 
+				"the associated two-dimensional (horizontal) and three-dimensional (vertical) flow structures",
+				"Computational modelling of flow and transport",
+				"numerical analysis",  "approximation of solutions to partial differential equations (PDEs)", 
+				"numerical accuracy and stability", 
+				"finite difference methods for constructing numerical solution of parabolic and hyperbolic PDEs",
+				"introduced uncertainty", 
+				"different numerical schemes in terms of the numerical diffusion and dispersion, along with measures to prevent wiggles",
+				"one-dimensional shallow water equations", 
+				"simulation of unsteady free surface flows in seas, estuaries, rivers, channels and lakes",
+				"abilities and limitations of the commonly used practices related to approximating the equations of long waves",
+				"Loads and protection",
+				"Bed protections"," filter layers", "stability", "porous flows",
+				"5-step design principle",
+				"regular (monochromatic) waves",
+				"realistic wind-generated wave fields",
+				"wave components of varying frequencies and directions",
+				"linear wave theory", "irregular and directionally spread wave fields",
+				"open ocean", "coastal waters",
+				"river systems", "river response to change and associated time scales", "catchment hydrology", 
+				"rainfall-runoff", "climate aspects",
+				"The hydraulic and morphodynamic behavior of these systems",
+				"flow properties", "normal flow", "backwater types", "flood waves", "flow structures"," sediment transport", 
+				"initial, transient and equilibrium morphodynamic response",
+				"River interventions",
+				"(inter)national river management", "flood safety", "navigation and other river functions"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Base: Hydraulic and Offshore Structures",
+		"ID":"CIEM4000",
+		"ECTS": 15,
+		"Semester":"Any",
+		"URL": "",
+		"Learning outcomes":[
+ 			"Analyse fluid- and soil-structure interaction processes, as well as structural mechanics principles, Relevant for the engineering of hydraulic and offshore structures.",
+			"Analyse scientific knowledge on fluid- and soil-structure interaction, as well as structural mechanics, that contributes to solving complex hydraulic and offshore structures.",
+			"Perform, statistically model selection and identification for fluid- and soil-structure interaction analyses.",
+			"Quantify uncertainty in models and measurements for fluid and soil-structure interaction analyses.",
+			"Evaluate uncertainty propagation for fluid-and soil-structure interaction analyses. "
+		],
+		"Description":[
+			"design, construction and operation of hydraulic and offshore structures"
+
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Base: Structural Engineering",
+		"ID":"CIEM5000",
+		"ECTS": 15,
+		"Semester":"Any",
+		"URL": "",
+		"Learning outcomes":[
+			"Identify and quantify the most important loads on structures, roads and railway and schematize and combine them as input for the determination of the force distributions and deformations.",
+			"Design critical steel cross sections, members and joints with optimized dimensions and reliable performance against structural and environmental requirements under the influence of single and combined bending, shear, torsion and axial loads.",
+			"Design and verify structural performance of timber members and connections subjected to single and combined bending, shear and axial loads through understanding of fundamental material properties and force flows in timber joints.",
+			"Design, analyse and optimize prestressed concrete structures, considering influence of internal stress distribution, time dependent effects, type of pre-tensioning, boundary conditions, prestress losses, cracks and reinforcement details.",
+			"Understand and apply the principles of sustainability to identify, analyse and evaluate negative effects of civil engineering structures at component and system level on natural environment and society and to use circularity strategies to reduce the environmental impact of structures, railways and roads.",
+			"Formulate the governing equations of motion of a class of one-dimensional slender structures (beams, cables, rods) and plates subjected to static and dynamic loads in- and out- of plane.",
+			"Analyse 1D slender structures subjected to static loads and dynamic loads and evaluate the structural response.",
+			"Analyse plates subjected to static and dynamic loads in- and out- of plane and evaluate the structural response.",
+			"Create mathematical models of complex structures consisting of one-dimensional elements and plates subjected to static and dynamic loads and evaluate their structural response."
+		],
+		"Description":[
+			"Modelling", 
+			"data monitoring",
+			"sensing and Uncertainty",
+			"risk analysis",
+			"Modelling of structures",
+			"sustainability aspects of structural design",
+			"design and analysis of steel, timber and concrete members",
+			"Identification and quantification of loads on structures",
+			"short-term, long term, and moveable loads",
+			"the combination of different types of loads",
+			"Design of steel cross sections and members",
+			"Influence of properties of base material", 
+			"production routes",
+			"execution tolerances",
+			"verification of critical steel cross sections", 
+			"members loaded in compression",
+			"steel bolted and welded connections",
+			"Design of timber cross sections and members",
+			"Identification of material properties",
+			"verification for strength, stiffness and stability",
+			"Design and verification of timber joints and connections",
+			"prestressed concrete members exposed to forces", 
+			"axial, bending and shear", 
+			"ultimate and serviceability limit state",
+			"Application of the principles of sustainability and circularity in civil engineering structures. ",
+			"LCA approaches and system boundaries",
+			"Formulation of governing equations of one-dimensional and two-dimensional slender structures",
+			"Statics and dynamics", "cables", "rods", "shear beams", "beams in bending",
+			"plates in bending",
+			"one-dimensional slender structures",
+			"plates undergoing in-plane deformations",
+			"combinations of one-dimensional and two-dimensional slender structures"
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Base: Traffic and Transport Engineering",
+		"ID":"CIEM6000",
+		"ECTS": 15,
+		"Semester":"Any",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63788",
+		"Learning outcomes":[
+			"Design the traffic and transport infrastructure and networks.",
+			"Develop a traffic and transport engineering solution and analyse its performance.",
+			"Discuss, analyse and apply traffic and transport models.",
+			"Set-up, perform and report a transport engineering solution/ modelling study.",
+			"Assess the ethical and societal implications of traffic and transport engineering solutions."
+		],
+		"Description":[
+			"Analysis",
+			"Modelling",
+			"Project",
+			"Transport & Logistics",
+			"Transport phenomena ",
+			"fundamentals of traffic and transport engineering",
+			"planning",
+			"design",
+			"traffic and transport networks and infrastructure", 
+			"transport modelling and analysis", 
+			"traffic modelling and management", 
+			"relevant ethical aspects",
+			"societal impacts",
+			"safety", 
+			"environment", 
+			"health", 
+			"equity", 
+			"privacy",
+			"responsibilities when creating a design",
+			"developing models"
+		],
+		"Pre-requisites":[
+			""
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Measuring and Modelling Construction Material Behaviour",
+		"ID":"CIEM1110",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63747",
+		"Learning outcomes":[
+			"Set up a computational model for simulation of the behaviour of materials",
+			"Perform linear and nonlinear finite element analysis for mechanical and transport problems",
+			"Calibrate and validate computational models with experimental observations",
+			"Set up a testing plan for characterisation of materials to define input parameters for structural analysis",
+			"Analyse experimental measurements to characterise the performance of construction materials",
+			"Advise structural engineers on characterisation and modelling strategies for describing material behaviour",
+			"Quantify uncertainty in models and measurements"
+		],
+		"Description":[
+			"materials for structural applications requires ",
+			"quantification of the material performance",
+			"experimental characterization",
+			"numerical modelling",
+			"advanced experimental techniques",
+			"characterise construction material performance",
+			"interpret measured data",
+			"determine consequence",
+			"short and long-term performance",
+			"multi- scale and multi-physics modelling techniques",
+			"deterioration",
+			"damage accumulation." 
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE",
+			"Base: Fundamentals of Construction Materials"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Construction Materials Research",
+		"ID":"CIEM1210",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63748",
+		"Learning outcomes":[
+			"Define durability concepts of construction materials, describe material properties and their effect on durability.",
+			"List and explain physical, chemical and biological degradation mechanisms of construction materials.",
+			"Perform service life design of structures based on material properties. ",
+			"Set-up repair and maintenance strategies for degraded structures",
+			"Analyse and predict the influence of eigenstresses in materials on the behaviour of structural elements and components",
+			"Explain how environmental effects and different gradients on material level and structural level impose deformations and stresses",
+			"Formulate constitutive models to describe the linear/nonlinear response of materials and implement them in FEM codes",
+			"Select and apply constitutive models for various physicochemical material behaviours."
+		],
+		"Description":[
+			"behaviour of construction materials", 
+			"various environmental and loading conditions",
+			"degradation mechanisms",
+			"durability",
+			"imposed deformations",
+			"constitutive modelling"
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE",
+			"Base: Fundamentals of Construction Materials"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Design and Engineering of Construction Materials",
+		"ID":"CIEM1220",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63749",
+		"Learning outcomes":[
+			"Advise on the use of construction materials and production processes for reliable and sustainable structural design",
+			"Design potential routes for recycling and reusing of EoL (End-of-Life) construction materials",
+			"Analyse the environmental impact of construction materials in their complete life cycle",
+			"Develop strategies for sustainable use of materials in construction ",
+			"Facilitate the use of new, high performance and sustainable materials (e.g. UHPFRC, SHCC, geopolymer, bio-based materials, epoxy-modified bitumen) in structural engineering",
+			"Evaluate current trends in the development of smart and sustainable construction materials ",
+			"Explain the opportunities and challenges of additive manufacturing technologies (such as 3D printing) in construction",
+			"Analyse the short- and long-term behaviour of polymer and bio-based composite materials"
+		],
+		"Description":[
+			"design, performance and engineering of smart materials", 
+			"self-healing materials", 
+			"composite materials", 
+			"bio-based materials", 
+			"emerging new materials.",
+			"Innovative technologies",
+			"recycling",
+			"renewable construction materials",
+			"sustainability",
+			"Advanced construction materials",
+			"smart technologies",
+			"new high-performance or multifunctional materials",
+			"new manufacturing technologies",
+			"bio-based and polymer-based composite and hybrid materials."
+		],
+		"Pre-requisites":[
+			"Base: Fundamentals of Construction Materials"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Geotechnical Modelling",
+		"ID":"CIEM2110",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63237",
+		"Learning outcomes":[
+			"Acquire conceptual (hydro)geological knowledge on project site;",
+			"Integrate (hydro-)geological information and knowledge into ground models and estimate resulting uncertainty for a variety of geotechnical applications",
+			"Formulate, explain and solve the (equations of the) finite element method in the context of numerical modelling of geotechnical applications;",
+			"Design and execute numerical simulations for geotechnical applications;",
+			"Critically evaluate the results and the limitations of model solutions for geological and geotechnical problems, considering data and model uncertainty;",
+			"Communicate results of geo-engineering investigation and numerical simulations to stakeholders in terms of geo-risks and opportunities, in the context of a responsible use of the subsurface for multi-purposes. "
+		],
+		"Description":[
+			"Engineering geology",
+			"desk study",
+			"soil and rock properties",
+			"conceptual ground and ground water flow modelling",
+			"anticipated ground conditions",
+			"geo-hazards and geotechnical issues",
+			"feasibility study",
+			"finite element method",
+			"numerical models",
+			"engineering solutions",
+			"sensitivity analysis"
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE",
+			"Base: Geotechnical Engineering",
+			"Modelling, Uncertainty and Data for Engineers"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Geotechnical Structures",
+		"ID":"CIEM2210",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63750",
+		"Learning outcomes":[
+			"describe the nature, impact and characterisation of soil spatial variability.",
+			"explain the relationship between soil spatial variability and geotechnical design and risk assessment.",
+			"evaluate advantages and shortcomings of different alternative choices for the design of infrastructure.",
+			"evaluate the design and construction methods for different types of infrastructure.",
+			"identify suitable site investigation techniques and critically analyse the results of a site investigation survey.",
+			"analyse geotechnical problems based on physical and numerical modelling techniques."
+		],
+		"Description":[
+			"design, monitoring and assessment of geotechnical structures",
+			"measurement", 
+			"characterization", 
+			"numerical modelling",
+			"spatial variability", 
+			"the evaluation of risk and uncertainty in geotechnical engineering", 
+			"the interaction between soil layers and the geotechnical structure",
+			"the impact of geotechnical structures on other structures in an urban environment",
+			"tunnel lining", 
+			"soil reinforcement",
+			"Monitoring",
+			"Data Science",
+			"analysis of conventional and innovative geotechnical monitoring", 
+			"the evaluation of data from site investigation",
+			"physical modelling",
+			"Site Investigation modelling", 
+			"Risk and variability in geotechnical engineering",
+			"ethical aspects in geo-risk management",
+			"risk communication"
+		],
+		"Pre-requisites":[
+			"Base: Geotechnical Engineering",
+			"Geotechnical Engineering"			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Advanced Soil Mechanics",
+		"ID":"CIEM2220",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63767",
+		"Learning outcomes":[
+			"analyse the role of advanced, time-dependent features of soils' hydro-mechanical behaviour",
+			"identify and integrate testing and constitutive modelling strategies for soils subjected to environmental and man-induced perturbations",
+			"select and perform advanced analyses of geotechnical problems based on most appropriate physical/numerical modelling techniques",
+			"critically reflect on benefits and limitations of advanced physical and numerical modelling strategies in geotechnical engineering",
+			"effectively report in writing the outcome of advanced experimental and computational analyses in relation to geotechnical engineering applications"
+		],
+		"Description":[
+			"overview and issues with deltaic soils",
+			"Time-dependent behaviour", 
+			"creep",
+			"Stress path-dependent shear strength", 
+			"anisotropy", 
+			"fabric", 
+			"bonding",
+			"Issues related to loose soils", 
+			"static liquefaction",
+			"Advanced numerical modelling of large deformations",
+			"engineering and design aspects of geotechnical projects",
+			"Start numerical modelling of case study ",
+			"Elaboration of case study and results",
+			"EXPERIMENTAL SOIL MECHANICS",
+			"Introduction & soil classification",
+			"Triaxial testing",
+			"Direct simple shear and ring shear test ",
+			"Small strain stiffness",
+			"In situ testing",
+			"Physical modelling",
+			"SOIL DYNAMICS",
+			"Waves in Soils",
+			"Man-induced and environmental soil vibrations",
+			"From linear to non-linear cyclic/dynamic soil behaviour",
+			"Seismic site response",
+			"Computational soil dynamics "		
+		],
+		"Pre-requisites":[
+			"Base: Geotechnical Engineering",
+			"Geotechnical Engineering"	
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Delta Geotechnics",
+		"ID":"CIEM2230",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63751",
+		"Learning outcomes":[
+			"describe testing and constitutive modelling strategies for soils subjected to environmental and man-induced perturbations.",
+			"explain the role of advanced, time-related features of soils' hydro-mechanical behaviour.",
+			"evaluate advantages and shortcomings of different alternative choices for the design of infrastructure.",
+			"evaluate the design and construction methods for different types of infrastructure.",
+			"compare the various methods for site investigation.",
+			"analyse geotechnical problems based on physical and numerical modelling techniques"
+		],
+		"Description":[
+			"Geotechnical Engineering in delta areas",
+			"deltaic soil behaviour",
+			"design, monitoring and assessment of geotechnical structures",
+			"mechanics of deltaic soils", 
+			"the interaction between soil layers and the geotechnical structure", 
+			"impact of geotechnical structures on other structures in an urban environment",
+			"conventional and innovative geotechnical monitoring", 
+			"evaluation of data from site investigation",
+			"physical modelling",
+			"Ethical aspects ",
+			"risk communication in geo-engineering"
+		],
+		"Pre-requisites":[
+			"Base: Geotechnical Engineering",
+			"Geotechnical Engineering"	
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Hydraulic Engineering Fundamentals and Environments Part II",
+		"ID":"CIEM3110",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63789",
+		"Learning outcomes":[
+			"Explain the physical principles behind flow, transport, turbulence, mixing, sediment transport, surface waves and hydraulic loads.",
+			"Derive analytical/numerical models to assess typical hydraulic engineering problems based on physical principles combined with data.",
+			"Design solutions for typical hydraulic engineering problems regarding scour, siltation, contamination, sediment transport, bed stability.",
+			"Explain the characteristics of rivers, coasts, estuaries, ports and waterways in hydraulic engineering systems.",
+			"Predict and assess the behaviour of rivers, coasts, estuaries, ports and waterways in hydraulic engineering systems in response to natural and anthropogenic change taking uncertainties into account."
+		],
+		"Description":[
+			"Coastal and Estuarine Systems",
+			"the characteristics of a range of coastal systems", "seas", "open coasts", "estuaries", "tidal basins",
+			"the morphodynamic behaviour of these systems", "the response to human interventions",  
+			"the underlying hydrodynamic", "sediment transport processes",
+			"typical coastal engineering problems", "methods for coastal protection",
+			"Introduction to Port and Waterway Systems",
+			"the importance of port and waterway systems in supporting waterborne supply chains at different scales", 
+			"performance optimization from an infrastructure perspective",
+			"Ports and terminals",
+			"challenges for port development", "port planning"," port layout", "terminal development",
+			"waterways", "challenges for waterway development", "waterway dimensions", "waterway elements", 
+			"ship and ship-waterway interactions", "traffic management", "system performance",
+			"analyzing the performance of systems of ports/terminals and waterways", "queueing theory"
+		],
+		"Pre-requisites":[
+			"Base: Hydraulic Engineering Fundamentals and Environments Part I",
+			"Modelling, Uncertainty and Data for Engineers",
+			"Interdisciplinary Mechanics and Design for CE"
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Coastal Engineering",
+		"ID":"CIEM3210",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63752",
+		"Learning outcomes":[
+ 			"Analyse and assess in depth the complex behaviour of coastal and estuarine systems (deltas, estuaries, beaches and dunes, tidal plains, barrier and lagoon coasts) including the response of these systems to human interventions",
+			"Apply models to predict the behaviour of coastal and estuarine systems and assess the impact of coastal engineering interventions",
+			"Apply the theories of wave loads on different types of slope protection",
+			"In collaboration propose and design coastal engineering interventions for purposes such as protection against flooding and erosion and construction in water",
+			"Account for uncertainties in relation to monitoring, modelling and data analysis for research and design",
+			"Clearly present and report design and modelling results"
+		],
+		"Description":[
+			"coastal engineering problems and interventions",
+			"the assessment of the impact of these interventions, their technical design",
+			"Impact assessment and design",
+			"interventions, knowledge and tools",
+			"Ethical issues, the role of the engineer",
+			"conflicting perspectives of various vocal and non-vocal stakeholders.",
+			"Advanced Coastal and Estuarine Systems",
+			"Coastal and Estuarine Modelling",
+			"Shore protection & Breakwaters",
+			"Advanced Coastal and Estuarine Systems treats, in-depth, coastal and estuarine processes and system behaviour",
+			"waves, tides, currents, coarse and fine sediment transport, morphodynamic change",
+			"response to interventions, storm surge barriers, groynes, dredging and nourishments",
+			"coastal systems, deltas, estuaries, beaches and dunes, tidal plains, barrier, lagoon coasts",
+			"their complex interplay in the built and natural environment",
+			"Coastal and Estuarine Modelling",
+			"prediction, modelling, monitoring",
+			"Shore protection & Breakwaters treats the mechanisms of (in)stability of protection layers under wave loads",
+			"practical implementation of these protection, construction, environment, uncertainty, maintenance", 
+			"boundary conditions, modelling techniques",
+			"breakwater cross-section"
+		],
+		"Pre-requisites":[
+			"Base: Hydraulic Engineering Fundamentals and Environments Part I",
+			"Hydraulic Engineering Fundamentals and Environments Part II"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"River Engineering",
+		"ID":"CIEM3220",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63753",
+		"Learning outcomes":[
+			"understand and apply scientific knowledge that contributes to solving river system-related problems in an ethically sound manner",
+			"analyse and assess the behaviour of river systems and catchment, and assess and predict the system response to interventions, while taking into account neighbouring/adjacent systems",
+			"analyze the problem", 
+			"formulate functional requirements and constraints", 
+			"formulate alternative solutions (including autonomous development)", 
+			"design human interventions in the river or catchment environment for purposes such as flood protection, nature development or restoration, navigation, freshwater supply, ecology, port operability, water quality, and construction in water",
+			"account for societal, environmental, and economic aspects, and uncertainties in research and design, at various scales",
+			"account for the complexities of multidisciplinary environments and the range of stakeholders: (inter)national river management authorities, nature organisations, NGOs, dredging companies, navigation stakeholders, other governments. "
+		],
+		"Description":[
+			"Physics of River Systems", 
+			"response to anthropogenic or natural change",
+			"River Functions and Management", 
+			"flood safety", "navigation", "freshwater availability", "nature", "stakeholders", "river interventions",
+			"Schematization and Modelling of River Problems", 
+			"simplify a river-related problem"," formulate research questions", "alternative solutions", 
+			"assess the problem using appropriate tools", "modelling", "monitoring", 
+			"propose a solution", "mitigate unwanted impact",
+			"Ethics related to river engineering",
+			"balance between economy, safety, and sustainability"
+		],
+		"Pre-requisites":[
+			"Modelling, Uncertainty and Data for Engineers",
+			"Base: Hydraulic Engineering Fundamentals and Environments Part I",
+			"Hydraulic Engineering Fundamentals and Environments Part II"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Advanced Design of Ports and Waterways, Systems and Interventions",
+		"ID":"CIEM3230",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63754",
+		"Learning outcomes":[
+			"Analyse logistic and operational processes in ports and waterways systems and discuss the capacity controlling parameters",
+			"Design port/terminal and waterway infrastructure to pre-defined objectives covering economic, societal and environmental aspects",
+			"Design interventions in ports and waterways systems, model interactions ranging from simple to complex, between physical processes and port and waterways systems, and apply simulations for the evaluation of performance",
+			"Design hard and soft infrastructure interventions to improve port, terminal, and waterway performance including quantifying trade-offs and discussing these trade-offs with peers",
+			"Demonstrate the learning over intervention design and performance evaluation in real-life case studies",
+			"Apply data science techniques and concepts for a quantitative analysis of processes in port and waterway systems in various design exercises."
+			
+		],
+		"Description":[
+			"Waterways", "Advanced dimensioning of waterways and waterway elements",  "locks", "crossings", "bends",
+			"Sediment management", "accessibility design", "dredging and maintenance strategies", "maneuverability",
+			"Design of hard infrastructure" , "slope protections",
+			"New developments", "climate change", "nature-inclusive solutions", 
+			"Ports and Terminals",
+			"Functional design", "liquid bulk"," dry bulk (including mooring arrangements)", "general cargo", 
+			"multipurpose terminals", "Ro-Ro", "ferry terminals", "fishery ports", "inland ports", "marinas and cruise terminals",
+			"Port infrastructure"," environmental conditions", "quay walls", "breakwaters", "port operability"," safe navigation",
+			"Trade-offs",  "financial feasibility",
+			"energy transition", "digitalization", 
+			"Ports and Waterways systems",
+			"Simulation", "Introduction into simulation for P&W"," simulation models", "deterministic", "stochastic", 
+			"discrete time/event",
+			"Data science for P&W",
+			"Advanced data-driven simulations",
+			"Simulation for ports and waterways (planning and trade-offs)",
+			"Simulation models", "Data science for ports and waterways"
+		],
+		"Pre-requisites":[
+			"Hydraulic Engineering Fundamentals and Environments Part II"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Hydraulic Structures",
+		"ID":"CIEM4110",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63768",
+		"Learning outcomes":[
+ 			"Generate sound preliminary designs for hydraulic structures based on current natural and societal needs, accounting for its interaction with the environment its life-cycle aspects, using available scientific knowledge.",
+			"Analyse principles of ultimate resistance and fatigue relevant for the design of hydraulic structures, using available scientific knowledge",
+			"Perform statistically model selection and identification for the analysis and verification of the structural health of hydraulic structures.",
+			"Effectively collaborate and communicate with the aim to generate and optimize the design of hydraulic structures.",
+			"Critically reflect on the design and reliability of hydraulic structures and its structural components. ",
+			"Translate current natural and societal needs into possible technical designs of offshore structures by accounting for relevant moral values, norms and principles."
+			
+		],
+		"Description":[
+			"Hydraulic Structures", "Ultimate Strength", "Fatigue", "Design of Hydraulic Structures",
+			"conceptual engineering design",
+			"common hydraulic structures", 
+			"analyse a problem to formulate a design objective", 
+			"functional-spatial design",
+			"structural design",
+			"stability and strength checks", 
+			"constructability",
+			"motivate assumptions"," methods and values of design parameters", "basic sketches",
+			"Hydraulic, geotechnical and structural aspects",
+			"the behaviour of these structures"
+		],
+		"Pre-requisites":[
+			"Base: Hydraulic and Offshore Structures",
+			"Modelling, Uncertainty and Data for Engineers"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Offshore Structures",
+		"ID":"CIEM4120",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63769",
+		"Learning outcomes":[
+ 			"Generate sound preliminary designs for offshore structures, accounting for its interaction with the environment and its life-cycle aspects, using available scientific knowledge.",
+			"Analyse principles of ultimate resistance and fatigue relevant for the design of offshore structures, using available scientific knowledge.",
+			"Perform, statistically sound and context-based, model selection and identification for the analysis and verification of the structural health of offshore structures.",
+			"Effectively collaborate and communicate with the aim to generate and optimize offshore structures designs.",
+			"Critically reflect on the design and reliability of offshore structures and its structural components.",
+			"Translate current natural and societal needs into possible technical designs of offshore structures by accounting for relevant moral values, norms and principles." 
+		],
+		"Description":[
+			"conceptual engineering designs", 
+			"fixed offshore structures",
+			"ultimate strength",  "fatigue criteria",
+			"design methodologies",
+			"philosophy behind the design codes",
+			"offshore, geotechnical, structural and reliability aspects",
+			"behaviour of offshore structures",
+			"steel and concrete structures",
+			"offshore support structure",
+			"design-cycle",
+			"the assembly of the structural configuration", 
+			"the determination and assessment of the permanent, variable and environmental loads on the structure", 
+			"the design and analysis of its foundation",
+			"the static and dynamic structural analysis of the structure based on ultimate strength and fatigue principles",
+			"modify and improve their design",
+			"static and dynamic structural analyses"
+		],
+		"Pre-requisites":[
+			"Modelling, Uncertainty and Data for Engineers", 
+			"Interdisciplinary Mechanics and Design for CE",
+			"Base: Hydraulic and Offshore Structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Marine Renewables",
+		"ID":"CIEM4210",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755",
+		"Learning outcomes":[
+ 			"Create offshore renewable solutions based on future natural and societal needs, using available scientific knowledge",
+			"Evaluate offshore renewable structures in interaction with the surrounding environment, using available scientific knowledge",
+			"Convey quantified uncertain outcomes corresponding the design of hydraulic and offshore structures",
+			"Propose new ways for dealing with ethical issues within the field of hydraulic and offshore structures from the perspective of different relevant moral frameworks",
+			"Conduct a solution-oriented debate with stakeholders about ethical issues within the field of hydraulic and offshore structures, while acknowledging real-world constraints in terms of technological possibilities, governance and institutional options"
+		],
+		"Description":[
+			"design", "monitoring", "assessment",
+			"offshore wind and ocean energy farms", 
+			"different technologies (both bottom-fixed and floating)", 
+			"control", "installation", "maintenance", "economics",
+			"development of offshore energy farms", 
+			"relevant aspects", "stakeholders",
+			"implications for design",
+			"varying environmental interactions",
+			"aerodynamic", "hydrodynamic", "soil"
+		],
+		"Pre-requisites":[
+			"Modelling, Uncertainty and Data for Engineers", 
+			"Interdisciplinary Mechanics and Design for CE",
+			"Base: Hydraulic and Offshore Structures",
+			"Offshore Structures",
+			"Hydraulic Structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Dams, Dikes and Breakwaters",
+		"ID":"CIEM4220",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756",
+		"Learning outcomes":[
+ 			"Create solutions for dams, dikes and breakwaters based on future natural and societal needs, using available scientific knowledge ",
+			"Evaluate dams, dikes and breakwaters in interaction with the surrounding environment, using available scientific knowledge" ,
+			"Convey quantified uncertain outcomes corresponding to the design of dams, dikes and breakwaters" ,
+			"Consider ways of dealing with ethical issues within the field of dams, dikes and breakwaters from the perspective of different relevant moral frameworks",
+			"Conduct a solution-oriented debate with stakeholders about ethical issues within the field of dams, dikes and breakwaters, while acknowledging real-world constraints in terms of technological possibilities, governance and institutional options"
+		],
+		"Description":[
+			"engineering design of hydraulic structures",
+			"effects or impact of waves, currents and high-water levels", 
+			"breakwaters", "dikes", "closure dams",
+			"flood risk reduction strategies", "structures to protect beds, banks and shorelines"
+		],
+		"Pre-requisites":[
+			"Modelling, Uncertainty and Data for Engineers", 
+			"Interdisciplinary Mechanics and Design for CE",
+			"Base: Hydraulic and Offshore Structures",
+			"Offshore Structures",
+			"Hydraulic Structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Floating and Submerged Structures",
+		"ID":"CIEM4230",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757",
+		"Learning outcomes":[
+ 			"Create floating and submerged solutions solutions based on future natural and societal needs, using available scientific knowledge",
+			"Evaluate floating and submerged structures in interaction with the surrounding environment, using available scientific knowledge",
+			"Convey quantified uncertain outcomes corresponding the design of hydraulic and offshore structures",
+			"Propose new ways for dealing with ethical issues within the field of hydraulic and offshore structures from the perspective of different relevant moral frameworks",
+			"Conduct a solution-oriented debate with stakeholders about ethical issues within the field of hydraulic and offshore structures, while acknowledging real-world constraints in terms of technological possibilities, governance and institutional options"
+		],
+		"Description":[
+			"design", "monitoring", "assessment", "floating and (semi)-submerged structures",
+			"infrastructural and urban development applications", "floating bridges",
+			"moored tunnels", "control", "installation", "maintenance", "economics",
+			"varying environmental interactions", "aerodynamic", "hydrodynamic", "soil"
+		],
+		"Pre-requisites":[
+			"Modelling, Uncertainty and Data for Engineers", 
+			"Interdisciplinary Mechanics and Design for CE",
+			"Base: Hydraulic and Offshore Structures",
+			"Offshore Structures",
+			"Hydraulic Structures"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Structural Mechanics and Dynamics",
+		"ID":"CIEM5110",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63758",
+		"Learning outcomes":[
+ 			"Analyse the stability of structures subjected to both static and dynamics loads.",
+			"Explain the theoretical background of finite element formulations for structural analysis.",
+			"Perform finite element analysis to analyse the force distribution, stability and dynamic response of frame structures.",
+			"Analyse and interpret vibration measurements to identify modal parameters, including their associated uncertainty.",
+			"Design a measurement set-up for vibration analysis, with the purpose of quantifying modelling and measurement uncertainties. "
+		],
+		"Description":[
+			"Mechanics and Dynamics of structures",
+			"structural components",
+			"stability of structures",
+			"static and dynamics loads",
+			"various computational techniques",
+			"complex structural systems",
+			"measurements",
+			"analysis",
+			"vibrations of engineering structures",
+			"modal parameters", 
+			"spectral estimates",
+			"quantify and interpret the uncertainty",
+			"stable structures",
+			"instabilities",
+			"conceptual design phase",
+			"buckling", "plastic collapse of frames", "galloping", "flutter", "vortex-induced vibrations"
+		],
+		"Pre-requisites":[
+			"Modelling, Uncertainty and Data for Engineers" 
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Design of Structural Components",
+		"ID":"CIEM5120",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63759",
+		"Learning outcomes":[
+			"Explain the principles to design prefabricated and structural (composite) components in a circular manner for buildings and infrastructure by using conventional and novel civil engineering materials",
+			"Apply the advanced design aspects in structural engineering, focusing on stability problems, understanding and designing composite members, connections, detailing, external prestressing and prefabricated members with conventional construction materials (timber, steel, concrete).",
+			"Design, analyse and optimize composite structural members, e.g. steel-concrete, timber-concrete, timber-steel beams, decks and columns, with respect to short and long term loads and environmental conditions.",
+			"illustrate the influence of connections and detailing aspects in prefabricated and composite structures and apply this in the design and verification",
+			"Identify the innovative, high performance and sustainable civil engineering materials and simulate their behaviour.",
+			"Discuss limitations and advantages of applying novel materials, advanced manufacturing and innovative systems in design of structural members and optimize design accordingly",
+			"Discover and justify the possibilities of applying innovative materials in real engineering problems to improve the design and behaviour of the structure or the road and railway system."
+		],
+		"Description":[
+			"Design of Structural Components",
+			"reducing environmental impact of structures",
+			"optimum structural design",
+			"construction materials",
+			"their mechanical and functional properties",
+			"possibilities and limitations of both conventional and innovative construction materials", 
+			"functionality of the structures",
+			"design structural members",
+			"steel", "concrete", "FRP", "timber",
+			"innovative construction materials", 
+			"circularity", "prefabricated and demountable constructions)",
+			"Prefabricated and composite structures",
+			"Design with innovative materials",
+			"Design verification of steel members (beam-columns) exposed to interaction, axial force and transversal load",
+			"Hollow section steel structures", "Main topology of joints",
+			"Steel-concrete composite structures", "Principles of design",
+			"prerequisites and consequences of full and partial composite action",
+			"Engineered wood products", "Massive timber buildings", "timber frame housing",
+			"Connections in prefabricated timber structures","Timber trusses and portal frames",
+			"Timber-concrete composite structures",	"External prestressing",
+			"Strut-and-tie models and detailing", "Prefabricated elements for building and infrastructure",
+			"Conventional track structures and innovations", "prestressed concrete sleepers, timber sleepers, composite sleepers",
+			"composite ballast bed", "Modular in railway infrastructure", "HIGH PERFORMANCE CONCRETE",
+			"Introduce new types of cementitious materials ((SHCC), UHPFRC, Geopolymer concrete, auxetic, phase change, self-sensing, self-healing, 3d printed, recycled)",
+			"RECYCLED MATERIALS", "circularity", "Adaptive design for easy dismantling and reusing structural materials",
+			"Challenges and opportunities",	"HIGH PERFORMANCE STEEL AND COMPOSITE STRUCTURES",
+			"Weathering and stainless steel", "High strength steel Composite materials and members",
+			"STRUCTURAL GLASS",	"DIGITAL MANUFACTURING", "3D printed steel (material, members, connections)",
+			"3D printed concrete", "Wood -plastic composites", "INNOVATIONS IN PAVEMENT ENGINEERING",
+			"Emerging materials to enhance performance and functionality of pavement",
+			"INNOVATIONS IN RAILWAY ENGINEERING", "embedded rail (elastomeric materials)", 
+			"polymer sleepers", "coated ballast"
+		],
+		"Pre-requisites":[
+			"Base: Structural Engineering"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Design of Civil Structures and Infrastructures",
+		"ID":"CIEM5130",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63760",
+		"Learning outcomes":[
+ 			"Integrate steps of conceptual and preliminary design phases of (infra)structures to design a (infra)structure from scratch taking into account the demand of the client and the society, the interaction between the structure and its environment and the need of lifetime maintenance, including design for circularity, while quantifying uncertainties in the brief, the boundary conditions, the loads, the design, and the construction phase",
+			"Select optimal structural systems (traditional or innovative) for specific design task of buildings and bridges and combination of construction materials steel, timber and concrete, to be able to realize which options can be chosen for the structural system, taken into account the uncertainty in the end-use, lifespan and degradation mechanisms.",
+			"Explain how to analyse the interfaces and interaction of track infrastructure and train and their effects on the railway system and the various influencing structural pavement design parameters on different supporting structures",
+			"Explain principles of parametric geometry design and the uncertainty in tolerances that have to be taken into account, and apply these principles with appropriate software tools cooperatively in a design team.",
+			"Examine transfer of forces in different structural systems and with different structural materials starting from the applied load down to the foundation.",
+			"Design the structural systems consisting of structural members and joints with appropriate dimensions and materials in a realistic design context",
+			"Learn to work in a design team and to make and visualize and present a functional design of a site including buildings, bridges, rails, and roads",
+			"Develop general design of a building, bridge, railways and road structural system to a detailed design level through cooperation within a design team."
+		],
+		"Description":[
+			"most suitable design",
+			"functional and technical design", 
+			"design methodology", 
+			"design of buildings, bridges, rail track and roads/pavements",
+			"parametric design", 
+			"visual communication",
+			"preliminary design",
+			"ethical aspects of design of engineering structures",
+			"Safety",
+			"addressing the societal need",
+			"optimisation",
+			"graphical representation",
+			"bridges", 
+			"building", 
+			"road", 
+			"railway structures",
+			"circularity",
+			"reliable design parameters", 
+			"criteria" 
+		],
+		"Pre-requisites":[
+			"Base: Structural Engineering", "Modelling, Uncertainty and Data for Engineers"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Applied Mechanics of Structures",
+		"ID":"CIEM5210",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63761",
+		"Learning outcomes":[
+			"Analyze the mechanical response of structures where that is complicated by the presence of geometric and material nonlinearity",
+			"Calculate the ultimate load of plates and frames accounting for plasticity",
+			"Explore the limits of analytical tools for evaluation of elastic stress and strain",
+			"Formulate, implement and test constitutive laws for detailed numerical analysis of the response of structures",
+			"Perform nonlinear finite element analysis for structural design verification",
+			"Select an appropriate mechanical model that idealizes the physical problem of analysis of a structure (boundary conditions, loading, dimension reduction, geometric order of approximation, material model)",
+			"Build an appropriate finite element model that discretizes the selected mechanical model",
+			"Carry out nonlinear finite element analysis for a range of different applications (steel/concrete structures, seismic response of buildings)",
+			"Interpret finite element solution results to solve engineering problems",
+			"Create a technical report of a performed finite element analysis",
+			"Select an appropriate constitutive model to account for physical phenomena of time-dependent behavior, direction dependent behavior, permanent deformations and failure in the analysis of material response",
+			"Derive and apply the stiffness relations for orthotropic elasticity and classical laminate theory",
+			"Understand and apply the concepts of large deformation mechanics",
+			"Explain the concepts of thermodynamics and apply it to large deformation elasto-thermal material modelling",
+			"Explain and apply concepts of elasto-plasticity, visco-elasticity, viscoplasticity in small and large deformation formulations",
+			"Formulate constitutive models to describe the nonlinear response of materials",
+			"Implement constitutive models as user material in finite element code",
+			"Verify consistency of a user material implementation with its intended behavior",
+			"Reproduce the main steps in the derivation of analytical elaticity solutions, for example the point load on a half space, point load on a half disk, stresses around a spherical cavity in a continuum, stresses around a circular opening in a plate, moments in circular plates, stresses in curved beams, the differential equations for torsion",
+			"Demonstrate understanding of the physical meaning of these analytical solutions",
+			"Argue about the usefulness and limitations of these solutions and of elasticity theory in general",
+			"Explain the upperbound and lowerbound theorems for plastic collapse",
+			"Calculate, by hand, the ultimate load of elastic/plastic frames with or without accounting for moment-normal force interaction ",
+			"Calculate, by hand, the ultimate load of elastic/plastic plates"
+		],
+		"Description":[
+			"mechanical response of structures",
+			"Analytical and computational techniques",
+			"computational tools", 
+			"analytical tools",
+			"Monitoring & data science learning line",
+			"modelling",
+			"uncertainty",
+			"reliability of different models",
+			"Ethics learning line",
+			"limits of different analysis approaches",
+			"moral dilemmas",
+			"acknowledgement of sources", 
+			"fair representation of results",
+			"Design",
+			"behaviour of materials, structures and structural elements",
+			"Computational modelling of structures",
+			"Introduction to the use of the finite element method",
+			"Nonlinear finite element analysis of steel structures",
+			"Nonlinear finite element analysis of structures made of a quasi-brittle material",
+			"Application of the finite element method to solve engineering problems",
+			"Advanced constitutive modelling",
+			"Mathematical and mechanical preliminaries",
+			"Computational plasticity",
+			"Fracture models and continuum damage mechanics",
+			"Large deformation mechanics",
+			"Computational modelling of visco-elastic materials",
+			"Large deformation elasto-plasticity",
+			"Introduction to thermodynamics",
+			"Advanced mechanics of structural elements",
+			"Theory of elasticity",
+			"energy principles", 
+			"closed form solutions and limitations",
+			"Theory of plasticity",
+			"frame analysis", "plate analysis"
+		],
+		"Pre-requisites":[
+			"Base: Structural Engineering",
+			"Modelling, Uncertainty and Data for Engineers"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Applied Dynamics of Structures",
+		"ID":"CIEM5220",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63800",
+		"Learning outcomes":[
+			"Describe conceptually the earthquakes, wind, wave and vehicle loads on structures",
+			"Formulate and interpret the physical foundations of mathematical models for the dynamics of structures under earthquakes, wind, wave and vehicle loads" ,
+			"Describe, model and analyse the earthquakes, waves, wind, and rail and road irregularities as random signals",
+			"Understand and apply analytical methods of mathematical analysis of the dynamic response of structures to earthquakes, wind, waves and moving loads",
+			"Describe and explain the main mechanisms of vibration excitation of structures by moving loads",
+			"Analyse the dynamic response of structures in earthquake-prone regions and use it in design considerations",
+			"Design structures for renewable energy generation based on their response to wind and waves",
+			"Compute and evaluate the dynamic response of bridges to moving loads and use it in design considerations",
+			"Compute and evaluate the dynamic response of rigid and flexible pavements at the tirepavement interface and use it in design considerations",
+			"Compute and evaluate the dynamic behaviour of a railway track and its environment under train loading and use it in design considerations",
+			"Explain basic seismological concept",
+			"Analyse recorded ground motions and distinguish local site effects",
+			"Formulate the equations of motion of NDOF systems subjected to ground excitation and critically assess their correctness",
+			"Apply different methods of seismic analysis in structures (linear and non-linear response) and analyse the results",
+			"Consider soil-structure interaction and fluid-structure interaction in seismic analysis of structures",
+			"Analyse and design structures in earthquake-prone regions using code provisions",
+			"Describe wind and waves stochastically",
+			"Formulate and interpret the physical foundations of mathematical models for the structural wind and wave loads on structures",
+			"Formulate and evaluate the equations of motion of NDOF systems subjected to wind and wave excitations",
+			"Define wind and wave interactions with basic structural concepts",
+			"Analyse the dynamic response of simple structures to wind and wave excitations",
+			"Describe the phenomena of galloping, flutter and vortex-induced vibrations",
+			"Design and analyse the dynamic response of structures for renewable energy generation from wind and waves",
+			"Describe and formulate mathematical models for the structural elements and structures in interaction with moving loads",
+			"Describe and explain the major types of structural and environmental responses to moving loads",
+			"Derive and analyse the response of 1D structures and 3D layered continua to moving loads",
+			"Design a concept bridge model under moving loads and evaluate its dynamic response",
+			"Design rigid and flexible pavements under moving loads and evaluate their dynamic responses and of their environment, taking into account the stochastic nature of the loading",
+			"Compute and evaluate the dynamic behaviour of a railway track under train loading and design environmentally friendly tracks, taking into account the stochastic nature of the loading",
+			"Describe the degradation mechanisms of road "
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			 	
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Concrete Structures",
+		"ID":"CIEM5230",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63790",
+		"Learning outcomes":[
+			"Interpreted simplified theoretical models with limit state theorems of the theory of plasticity",
+			"Design and assess various structural types using limit analyses, the types of structures include beam, wall, slabs, and joints.",
+			"Point out the fracture process of concrete and its difference between linear elastic fracture mechanics.",
+			"Outline the influence of the local fracture process of concrete on the global structural behaviour in terms of fatigue behaviour, shear and punching shear behaviour, etc.",
+			"Outline the fundamentals of concrete materials" ,
+			"Explain the mechanisms and the chemical process relate to the strength development and the resultant mechanical properties",
+			"Control volume change during the hardening process",
+			"Design concrete mixture and advise corresponding execution methodology.",
+			"Create appropriate finite element models for reinforced concrete structures or elements ",
+			"Interpret nonlinear finite element analysis results ",
+			"Explain how to account for uncertainties when using finite element analysis",
+			"Compile adequate finite element analysis reports.",
+			"Explain the behaviour of concrete structures under temperature effects in the early stage of hardening and hardened concrete, including (technological and structural) measures to influence this behaviour.",
+			"DIscuss the difference between structural response under external loads and imposed deformations, and design concrete structures subjected to imposed deformations. ",
+			"Design and execution of storage systems and reservoirs in reinforced and prestressed concrete, focusing on tightness criteria. ",
+			"Design of concrete protective structures under extreme loads, e.g. impact, blast, fire, cryogenic loads. ",
+			"Design concrete structures for cyclic loading with various amplitude and duration such as seismic loading and fatigue loading",
+			"Outline the main environmental loads and possible deteriorations of concrete structures.",
+			"Outline the considerations of designing a concrete bridge in the Netherlands." ,
+			"Evaluate the advantages and disadvantages between different construction methods (cast in situ) and able to explain the relationship between the construction method and the alignment of the reinforcement and/or prestressing cables.",
+			"Apply the different traffic load models specified in the Eurocode.",
+			"Apply the methods of load distribution." ,
+			"Evaluate the different alternatives and analyse and calculate roughly the main dimensions of the bridge.",
+			"Choose the different types of bearings and expansion joints properly. ",
+			"Design concrete structures and members using plasticity theory and fracture mechanics for concrete.",
+			"Explain and design cement-based building materials and the advanced concrete mixture design methodology, further apply to design, control, and execute durable and sustainable concrete in practice.",
+			"Create, carry out, interpret, and document nonlinear finite element analysis of reinforced concrete structures or elements.",
+			"Model the behaviour of concrete members and structures subject to various environmental and anthropogenic loads, and to create appropriate design accordingly.",
+			"Design and assess precast and cast-in-situ concrete bridges and bridge elements considering the construction methods and the loading conditions. "
+		],
+		"Description":[
+			"Advanced modelling of concrete structures.", "Concrete science and technology.",
+			"Numerical modelling of concrete structures.",
+			"Concrete structures under special loadings.",
+			"Concrete bridges."
+		],
+		"Pre-requisites":[
+			 	
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Steel and Composite Structures",
+		"ID":"CIEM5240",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63801",
+		"Learning outcomes":[
+			"Create, carry out, interpret and document linear and nonlinear finite element analysis of steel members and connections/joints.",
+			"Improve design models for resistance of structural members and joints based on quantification and understanding of scattering of material and structural properties (e.g. partial factors). ",
+			"Explain the concept of the Monte Carlo method and perform Monte Carlo simulations using Excel and Python programming." ,
+			"Explain the fatigue initiation and crack propagation process and mechanism and determine the main factors influencing the fatigue strength of materials, connections, and structures." ,
+			"Explain the basics of the fatigue behaviour of critical details (welded connections, bolted connections, tubular joints) and the theoretical background of prediction methods." ,
+			"Design steel structures exposed to cyclic loading (fatigue strength) and explain design concepts in the presence of structural damage based on the lifetime prediction methodologies." ,
+			"Design ductile, damage tolerant and reusable moment resisting and simple joints in steel structures for their beam-to-column and column to base-plate connections." ,
+			"Apply the theoretical background to create engineering models for the design verifications of the structural connections/joints exposed to monotonic, cyclic and impact loading.",
+			"Understand the design requirements and principles of designing diverse fixed or movable highway, railway and pedestrian bridges." ,
+			"Design durable, sustainable and cost-efficient bridges by integrating global structural, cross-section and deck systems.",
+			"Analyse structural behaviour of steel and steel-concrete bridges in response to construction phases, traffic and environmental loads.",
+			"Analyse ultimate, serviceability and fatigue limit states of new and existing bridges.",
+			"Optimise construction time and costs by combining diverse production and execution methods.",
+			"Create strengthening solutions for existing bridges.",
+			"Calculate the loads applied in the supporting structure of wind turbine towers and evaluate their structural performance.",
+			"Validate the design of the tubular and multi-membered towers/jackets and their connections by using calculations according to structural design codes, guidelines and linear and non-linear FE models, including imperfections.",
+			"Design lightweight rolled, welded, cold-formed, stiffened and unstiffened cross-sectional steel members of plated and cylindrical steel structures.",
+			"analyse the effects of local buckling, imperfections and post-buckling behaviour in thin-walled plated and cylindrical structural members and apply engineering methods to perform the design verification." ,
+			"Design and analyse steel frames by considering members' imperfections and limit state provisions of design codes.",
+			"Choose optimal combinations of FRP materials and production processes for a specific application in infrastructure and set of loading and environment conditions.",
+			"Design FRP structures by considering the structure's specific material behaviour and mechanical and functional requirements.",
+			"Analyse the mechanical performance and failure modes of FRP structures and joints on the level of plies, laminates and structural components using Classical Laminate Theory, progressive failure analysis and Finite Element models.",
+			"Verify designs of FRP structural members and joints by using calculations according to structural design codes. "
+		],
+		"Description":[
+			"Strength", "Durability", "Steel and Composite Structures", "Joints",
+			"design", "model", "analyse", "critically assess results",
+			"prediction models",
+			"reliability-based assisted design",
+			"verification",
+			"monotonic and cyclic loading",
+			"Heavy-duty steel",
+			"Lightweight steel and composite structures",
+			"bridges", 
+			"support structures for renewable energy", 
+			"lightweight FRP structures", 
+			"cold-formed steel members",
+			"monitoring and sensing lab experiments",
+			"Ethics",
+			"construction", 
+			"ownership", 
+			"decommission of steel and composite structures",
+			"Incidences and accidences",
+			"collapse of structures",
+			"economy-safety-sustainability of construction work",
+			"future engineers' responsibility",
+			"Modelling of Steel and Composite structures",
+			"design by experiments",
+			"Elastic, plastic and damage material modelling of steel and FRP",
+			"Modelling of local and global elastic buckling",
+			"Anisotropic and layered modelling",
+			"Evaluation of design values for resistance of various failure modes of steel members",
+			"Design verification of steel connections and joints",
+			"Connection component resistance",
+			"resistance of bolts, welds, net cross-section in tension and shear",
+			"Shear and axially loaded joints “Simple connections”",
+			"Beam to column moment resistant joints",
+			"Steel column base joints",
+			"Fatigue", "fracture",
+			"Design of steel structures against fatigue failure",
+			"Welded details",
+			"Bolted details",
+			"Detail classes",
+			"SN curves",
+			"HSS curves",
+			"Post-welded treatment for welded joints",
+			"Local prediction models (Hot spot stress approach, SCF, effective notch stress) by FE analysis on examples of hollow section joints, OSD",
+			"Fracture mechanics",
+			"Material properties for fracture mechanics",
+			"Crack initiation and propagation by analytical models and FEA",
+			"Steel and hybrid bridges",
+			"Structural design of steel bridges",
+			"Bridge loads", 
+			"traffic accounting and analysis",
+			"Design verifications of steel bridge elements",
+			"Advanced bridge analysis",
+			"Execution and details of steel bridges",
+			"Renovation and maintenance of steel bridges",
+			"Supporting structures for renewable energy",
+			"Hollow section steel joints in jacket structures",
+			"Monopile supporting structures for wind turbines and connections",
+			"Lightweight and slender steel structures",
+			"Stability and resistance of complex columns and frames",
+			"Stability of welded and rolled steel members",
+			"Cold-formed thin-walled steel members",
+			"FRP Composite Structures Design of FRP structures FRP material behaviour",
+			"Analysis and verification of FRP structural members Analysis and verification of FRP joints and details "
+		],
+		"Pre-requisites":[
+			"Base: Structural Engineering", "Modelling, Uncertainty and Data for Engineers",
+			"Interdisciplinary Mechanics and Design for CE"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Building Engineering",
+		"ID":"CIEM5250",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63770",
+		"Learning outcomes":[
+ 			"recognise and discuss architectural styles and construction methods of the 19th, 20th and 21st century;",
+			"distinguish façade typologies and use those in design, while correctly applying the laws of building physics in the design evaluation to meet relevant criteria for climate, energy-efficiency and durability, taking into account stochastic material properties, climate data and user behaviour;",
+			"discuss the relationship and integration between design of load bearing structure, façade structure and other relevant parts/aspects of the building, such as services, vertical transport, plumbing, climate, ducts;",
+			"analyse whether reuse of existing structures or structural components in a project is economically and technically feasible and, where it is, reuse such existing building structures in the design of the newly developed building, correctly assessing the reliability of the existing structure or components based on measurements or probabilistic reasoning;",
+			"correctly identify functional, structural and construction requirements and loads for low-rise and multi-storey buildings with different targeted functions;",
+			"explain and apply, in the context of a design, the most important typologies and stability systems of low-rise and multi-storey buildings, using different construction materials, and being able to model and simulate the behaviour of such systems both with self-written code and existing FEM software;",
+			"develop, analyse and evaluate various reliable solutions for building foundations and deep basements in close cooperation with a geoengineer, considering the close interaction between structure and foundation, recognising and limiting risks of uncertain underground soil conditions, surveying and foundation methods;",
+			"explain how a building design can be constructed in an economic, safe and practical manner, acknowledging what the consequences and risks of construction methods are for the design and vice versa, and acting as a structural engineer with a professional, responsible and ethical attitude;",
+			"Design spatial structures (such as domes, (grid)shells, inflatables and membrane structures, space frames, cable systems and tensegrity structures), analyse and explain their 3D structural action;",
+			"Use advanced design tools, numerical analysis tools, and physical models or measurements to analyse and visualise 3D structural behaviour, and develop such models in self-written code."
+		],
+		"Description":[
+			"buildings as complex systems",
+			"contemporary and 19th century architectural styles",
+			"façade design/detailing",
+			"building physics (heat transport, acoustics, wind flow)",
+			"building services (heating, ventilation, air-conditioning, vertical transport, water)",
+			"Construction Methods and Foundations",
+			"flow of forces",
+			"stability",
+			"various typologies of buildings",
+			"advanced knowledge on the flow of forces in building structures",
+			"stability",
+			"lateral resistance",
+			"various typologies of buildings according to their function",
+			"office", "commercial", "industrial", "residential",
+			"use and reuse of various building materials", 
+			"complexity of the design process ",
+			"responsibilities of different partners",
+			"interaction with the subsoil via the foundation",
+			"deep excavations",
+			"Construction methods",
+			"Impact on surroundings and urban context",
+			"safety of construction", 
+			"economy and material efficiency (zero-waste) on the construction site",
+			"Design of Spatial Structures",
+			"structures in nature",
+			"biomimetics",
+			"plates, shells and vaults",
+			"membrane and pneumatic structures",
+			"cable-nets",
+			"tensegrity structures",
+			"(space) frames",
+			"grid(shell) structures and domes",
+			"adaptive and deployable structures"
+		],
+		"Pre-requisites":[
+			"Base: Structural Engineering", "Modelling, Uncertainty and Data for Engineers",
+			"Interdisciplinary Mechanics and Design for CE"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Transportation Infrastructures",
+		"ID":"CIEM5260",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63762",
+		"Learning outcomes":[
+			"Analyse the design-construction-service cycle of transportation infrastructures",
+			"Evaluate state-of-the-art construction processes and techniques for transportation infrastructures",
+			"Evaluate transportation infrastructures modelling and design solutions, considering the effects of the inherent dynamics, operational conditions, and relevant sources of uncertainties",
+			"Propose physics-based and data-based monitoring and maintenance solutions for transportation infrastructures",
+			"Create innovative and ethical solutions and compare results with the state-of-the-art knowledge in real-life challenges from selected case studies from the industry",
+			"Practice and further develop effective communication skills (both written and oral) to ethically share results and opinions with peers, engineers, academics, and stakeholders from the transportation infrastructure industry",
+			"Provide constructive feedback, resolve possible conflicts in diverse teams, and ethically tackle critical transportation infrastructure challenges",
+			"Analyse and evaluate methods for the construction process of transportation infrastructures",
+			"Evaluate design aspects and procedures for transportation infrastructures",
+			"Explain the capabilities of different design methods and solutions under different parameters, variations, and uncertainties in properties and loading patterns",
+			"Select and apply design methods, and propose improvements in the construction and design of transportation infrastructures by tackling real-life case studies from the transportation industry",
+			"Evaluate current practices of maintenance in the transportation infrastructure industry",
+			"Ethically and effectively discuss and analyze results with main stakeholders.",
+			"Evaluate the most important dynamics and operational conditions of existing transportation infrastructures",
+			"Explain degradation mechanisms that can affect transportation infrastructures during their whole life cycle",
+			"Assess the performance over time of transportation infrastructures, considering both dynamics and the influence of degradation mechanism",
+			"Select and apply methodologies to estimate the remaining lifetime of existing transportation infrastructures",
+			"Discuss and present results to different stakeholders effectively and ethically.",
+			"Implement state-of-the-art monitoring solutions for transportation infrastructures",
+			"Evaluate current practices of maintenance in the transportation infrastructure industry",
+			"Design intelligent condition-based maintenance strategies including both physics and data-based characteristics of transportation infrastructures",
+			"Assess the performance of transportation infrastructures over their whole life-cycle, including sustainability aspects",
+			"Effectively and ethically present results and discuss their advantages and disadvantages to different stakeholders."
+		],
+		"Description":[
+			"design", 
+			"assessment", 
+			"performance prediction",
+			"optimisation",
+			"transportation infrastructures", 
+			"roads", "railways", "bridges", "tunnels",
+			"design-construction-service cycle",
+			"structural behaviour",
+			"loading conditions",
+			"moving vehicles",
+			"numerically analyse",
+			"interactions and their consequences",
+			"rutting", 
+			"vibrations",
+			"noise",
+			"long-term behaviour of engineering structures",
+			"wear", "(rolling contact) fatigue damage", 
+			"structural reliability method",
+			"effects of the weather",
+			"critical issues",
+			"aging of transportation infrastructures",
+			"material and structural degradation",
+			"increased dynamic loading", 
+			"environmental factors", 
+			"climate change effects", 
+			"assess and predict structural durability",
+			"innovative materials",
+			"modern general-purpose finite element software",
+			"ANSYS", "ABAQUS", "PLAXIS", "Discrete element methods",
+			"condition monitoring of engineering structures",
+			"non-destructive testing (NDT) technologies",
+			"Digital Image Correlation (DIC)", 
+			"laser scanning", 
+			"satellite data",
+			"monitoring solutions",
+			"static, moving, and crowd sensing technologies",
+			"state-of-the-art data-analysis methods",
+			"machine learning", 
+			"maintenance strategies"
+		],
+		"Pre-requisites":[
+			"Interdisciplinary Mechanics and Design for CE",
+			"Modelling, Uncertainty and Data for Engineers",
+			"Base: Structural Engineering"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Methods in Traffic and Transport Engineering",
+		"ID":"CIEM6110",
+		"ECTS": 9,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63764",
+		"Learning outcomes":[
+ 			"Formulate research questions and hypotheses in relation to transport infrastructure, network, operations and behaviour",
+			"Design and conduct experiments in the realm of transport infrastructure, network, operations and behaviour",
+			"Analyze and interpret empirical and simulation data about transport infrastructure, network, operations and behaviour",
+			"Formulate a mathematical optimisation model addressing problems related to transport infrastructure, network, operations and behaviour",
+			"Solve optimisation problems using solvers and tailored designed efficient algorithms also considering stochasticity in the inputs.",
+			"Develop and implement simulation model functionalities for representing transport infrastructure, network, operations and behaviour",
+			"Develop suitable data-driven modelling approaches for verification, calibration and validation of models, input and parameters in the context of transport infrastructure, network, operations and behaviour",
+			"Compare models' properties and performance for analyzing transport infrastructure, network, operations and behaviour",
+			"Apply techniques for risk and uncertainty analysis for transport data and models"
+		],
+		"Description":[
+			"data", "modelling", "risk",
+			"empirical analysis for transport and traffic engineering", 
+			"optimisation in transport engineering", 
+			"simulation and uncertainty in transport engineering." 
+		],
+		"Pre-requisites":[
+			"Modelling, Uncertainty and Data for Engineers",
+			"Base: Traffic and Transport Engineering"
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Transport Networks and Systems",
+		"ID":"CIEM6210",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63765",
+		"Learning outcomes":[
+ 			"To create integrated solutions for transport networks for various modes, services and user classes to resolve performance challenges.",
+			"To evaluate the performance impact of current and (potential) future networks for users and society in different dimensions.",
+			"To assess the suitability of standard methods for real-world transport network design problems.",
+			"To analyse the current and the expected future performance of transport systems, services and networks and their tuning with land use.",
+			"To apply different standard methods for the design of transport networks.",
+			"To operationalise performance indicators for transport networks including links with norms and methods of measurement.",
+			"To explain which theoretical approaches, optimisation and calculation methods and models are needed for performance estimation, assessment and design steps.",
+			"To explain dynamic complexity between transport networks, and land use and other systems (system of systems).",
+			"To define road and freight transport networks in the societal, sustainability, perspective and define the main related design problems.",
+			"To define road and freight transport networks in their technical and user characteristics, and define the main related design problems."
+		],
+		"Description":[
+			"functioning of transport networks for passenger and freight transport", "the relevant performance",
+			"characteristics for the users", "the resilience", "the interaction with economical and spatial development", 
+			"the broader sustainability effects",
+			"route choice", "road networks", "mode choice"," route assignment for passenger and freight transport",
+			"intermodal networks"," the impact from disruptions", "the impact on performance indicators for users and the society",
+			"Optimisation and assessment of the design",
+			"logistics services", "road networks"," socio-economic and spatial planning developments",
+			"societal impacts of transport networks", 
+			"ethical and societal responsible way"
+		],
+		"Pre-requisites":[
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Road Traffic Systems",
+		"ID":"CIEM6220",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63235",
+		"Learning outcomes":[
+ 			"Analyse, assess, model, predict, and manage road infrastructure systems",
+			"Design and evaluate intelligent vehicle systems to increase traffic safety, efficiency and sustainability",
+			"Participate, contribute and effectively communicate in debates and professional projects involving international, multicultural and interdisciplinary teams.",
+			"Acquire new knowledge and skills to continue operating effectively."
+		],
+		"Description":[
+			"Active modes", "Traffic and transport",
+			"Traffic safety",
+			"Intelligent vehicles for safe and efficient traffic", "Design", "assessment",
+			"Urban and Motorway Traffic Flow Modelling and Control"
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Public Transport and Railway Systems",
+		"ID":"CIEM6230",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63236",
+		"Learning outcomes":[
+ 			"Analyse key dependencies among design variables, parameters, and criteria concerning organisation, service, infrastructure, operations and demand of road- and rail-bound public transport.",
+			"Apply and evaluate strategic, tactical, and operational design methods to align public transport/railway services with emerging societal and environmental needs.",
+			"Analyse processes and develop models for capturing interactions among system components including functional relations with other transport systems, society, and environment.",
+			"Design and evaluate intervention plans to build/upgrade, manage and operate public transport and railways in line with customer and stakeholders' requirements.",
+			"Define and apply methods to predict and assess service performances of public transport/railway systems and the impacts on other systems, society, and the environment.",
+			"Demonstrate team cooperation, communication, and work management capabilities in three group projects and formative assignments, to support the development of lifelong skills required in the professional world."
+			
+		],
+		"Description":[
+			"modelling", "design", "analysis",
+			"public transport and railway operations",
+			"interactions with the customer demand", "system governance",
+			"Public transport planning and operations", 
+			"PT service design", "access and egress", "PT control and emerging modes",
+			"Public transport networks and modelling", 
+			"behavioural and network modelling of PT", "design and analysis of PT systems",
+			"Railway Operations and Control", 
+			"railway safety and signalling", 
+			"railway automation and coordination in the railway value chain",
+			"planning, management and control of road- and rail-bound public transport operations",
+			"public health"," user privacy", "social inclusion", "fairness", 
+			"international requirements, standards and policies",
+			"Modelling", "Policy Analysis"," Rail & Road Engineering / Planning",
+			"Sustainability", "Transport & Logistics", "Transport phenomena" 
+		],
+		"Pre-requisites":[
+
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 1,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Road and Railway Engineering",
+		"ID":"CIEM6240",
+		"ECTS": 15,
+		"Semester":"Spring",
+		"URL": "https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63763",
+		"Learning outcomes":[
+ 			"Identify key components for road and railway infrastructure design.",
+			"Explain fundamental -mechanics and -dynamics of road and railway infrastructures tailored for traffic operation.",
+			"Assess the road and railway infrastructure condition and predict their performances in terms of reliability, availability, maintainability, safety, sustainability, resilience, serviceability, and robustness for smooth traffic management.",
+			"Design road and railway infrastructure based on traffic operation demands.",
+			"Improve the sustainability and reliability of the road and railway infrastructure during the design-construction-operation cycle.",
+			"Assess the effectiveness of state-of-the-art monitoring solutions and the relation between usage, condition and maintenance strategies for road and railway infrastructure.",
+			"Evaluate innovative and ethical solutions to current and future challenges of road and railway infrastructure asset management.",
+			"Propose innovative and ethical solutions to actual challenges of the road and railway infrastructure industries, based on operational traffic demands.",
+			"Effectively and ethically report and communicate results with stakeholders from the industry."
+		],
+		"Description":[
+			"design of road and railway infrastructures",
+			"management", 
+			"interface between traffic and transport",
+			"service and infrastructure requirements",
+			"road", "rail",
+			"classical design criteria",
+			"road and railway infrastructures",
+			"current developments",
+			"robustness and resilience under climate change conditions", 
+			"the use of new and more sustainable materials and design techniques",
+			"advanced IoT",
+			"AI-based monitoring and maintenance methods for road and railway infrastructure", 
+			"the effect of new technologies on design and maintenance of road/railway infrastructure",
+			"automated/smart vehicles and truck platooning",
+			"road/railway infrastructure networks", 
+			"inter-relation between road/railway traffic management", "network performance", "network quality,",
+			"methods to evaluate geometry"," surface characteristics", "reliability",
+			"user safety",
+			"defining performance criteria", "continuous performance monitoring", "different maintenance techniques",
+			"ethically assess the road/railway infrastructure condition",
+			"its effect on traffic, capacity, and performance over time."
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced computational Mechanics",
+		"ID":"CIEM1301",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Elective",
+		"Course Title":"Forensic Construction Materials Engineering",
+		"ID":"CIEM1302",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Elective",
+		"Course Title":"Upscaling Techniques in Construction Materials Design and Engineering",
+		"ID":"CIEM1303",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Construction Materials",
+		"Comp/Elect": "Elective",
+		"Course Title":"Glass Science and Engineering",
+		"ID":"CIEM1304",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Offshore Geotechnical Engineering",
+		"ID":"CIEM2301",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Trenchless Technologies",
+		"ID":"CIEM2302",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Rock Mechanics Applications",
+		"ID":"CIEM2303",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Geotechnical Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Environmental and Energy Geotechnics",
+		"ID":"CIEM2304",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Building with Nature",
+		"ID":"CIEM3301",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Dredging",
+		"ID":"CIEM3302",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced modelling of turbulent flows and transport",
+		"ID":"CIEM3303",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Physical Oceanography",
+		"ID":"CIEM3304",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Elective",
+		"Course Title":"Onshore hydropower",
+		"ID":"CIEM4301",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Elective",
+		"Course Title":"Cold regions engineering",
+		"ID":"CIEM4302",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Elective",
+		"Course Title":"Flood risk",
+		"ID":"CIEM4303",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Hydraulic and Offshore Structures",
+		"Comp/Elect": "Elective",
+		"Course Title":"Hydraulics Fieldwork",
+		"ID":"CIEM4304",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Shell Structures",
+		"ID":"CIEM5301",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"CO2 Neutral Structures",
+		"ID":"CIEM5304",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Fire safety Design",
+		"ID":"CIEM5305",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Assessment of existing concrete structures",
+		"ID":"CIEM5306",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Forensic Structural Engineering",
+		"ID":"CIEM5307",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Parametric Design and Digital Fabrication",
+		"ID":"CIEM5308",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced Building Physics",
+		"ID":"CIEM5309",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Contact and Interface Mechanics for Engineering Structures",
+		"ID":"CIEM5310",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Loading and Life Time Prediction of Transportation Infrastructure",
+		"ID":"CIEM5311",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Structural Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Emerging Technologies for Transportation Infrastructure",
+		"ID":"CIEM5312",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"eXtended Reality (XR) for Civil Engineering",
+		"ID":"CIEM6304",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Transitions, sustainability & Innovation",
+		"ID":"CIEM6303",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Advanced Data Science for Traffic and Transportation",
+		"ID":"CIEM6302",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "Traffic and Transport Engineering",
+		"Comp/Elect": "Elective",
+		"Course Title":"Railway Traffic Management",
+		"ID":"CIEM6301",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Elective",
+		"Course Title":"Multi-Disciplinary Project",
+		"ID":"CEGM3000",
+		"ECTS": 15,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Elective",
+		"Course Title":"Research Internship",
+		"ID":"CIEM0120",
+		"ECTS":10 ,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Elective",
+		"Course Title":"Joint Interdisciplinary Project",
+		"ID":"TUD4040",
+		"ECTS": 15,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Thesis Preparation",
+		"ID":"CIEM0400",
+		"ECTS": 5,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Suspension, Sludge and Soil",
+		"ID":"CEGM2000",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Sustainable Cities",
+		"ID":"CEGM2001",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Engineering for Global Development",
+		"ID":"CEGM2002",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Data Science and Artificial Intelligence for Engineers",
+		"ID":"CEGM2003",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Noise and Vibration: generation, propagation and effect on humans and environment",
+		"ID":"CEGM2004",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Advanced Topics in Probability and Statistics in Engineering",
+		"ID":"CEGM2005",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Subsurface Storage: Energy and Climate",
+		"ID":"CEGM2006",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Resilient Deltas under Climate Change; Delta Technology",
+		"ID":"CEGM2007",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Monitoring of Structural Health and Geohazards",
+		"ID":"CEGM2008",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Engineering Management Systems",
+		"ID":"CIEM0210",
+		"ECTS": 10,
+		"Semester":"Fall",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	},
+	{
+		"Degree":"Master",
+		"Year": 2,
+		"Track": "",
+		"Comp/Elect": "Compulsary",
+		"Course Title":"Master Thesis",
+		"ID":"CIEM0500",
+		"ECTS": 30,
+		"Semester":"Any",
+		"URL": "",
+		"Learning outcomes":[
+
+		],
+		"Description":[
+			
+		],
+		"Pre-requisites":[
+			
+		]
+	}
+]
