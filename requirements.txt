@@ -2,3 +2,4 @@ matplotlib
 plotly
 wordcloud
 levenshtein
+PyYAML
