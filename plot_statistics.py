@@ -4,11 +4,11 @@ from class_distances import find_matching_classes, filter_word_lists
 import streamlit as st
 import pandas as pd
 import os
-
+import yaml
 ################################################################
 
 
-def main():
+def _main():
     _filenames = os.listdir()
 
     _filenames = [e for e in _filenames if os.path.splitext(e)[1] == '.json']
@@ -19,22 +19,23 @@ def main():
     option = st.selectbox(
         "Select the university", _filenames, key="unisersity_selector_stat")
 
+    try:
+        with open(f'match_{option}.json', "r") as f:
+            courses_matches = yaml.safe_load(f.read())
+    except Exception:
+        st.error("Matching tab should be executed once at least")
+        return
+
     df = pd.read_json(option+'.json')
     df_epfl = pd.read_json('EPFL.json')
 
-    df = filter_word_lists(df)
-    df_epfl = filter_word_lists(df_epfl)
-
-    match = find_matching_classes(df_epfl, df)
-
     sorted_match = {}
 
-    for k, m in match.items():
-        epfl_class = df_epfl.iloc[k]
+    for epfl_title, other_title in courses_matches.items():
+        epfl_class = df_epfl[df_epfl["Course Title"] == epfl_title].iloc[0]
         epfl_year = epfl_class['Year']
         epfl_semester = epfl_class['Semester']
-
-        other_class = df.iloc[m.iloc[0]['original_index']]
+        other_class = df[df["Course Title"] == other_title].iloc[0]
 
         if epfl_year not in sorted_match:
             sorted_match[epfl_year] = {}
@@ -45,7 +46,7 @@ def main():
             (epfl_class, other_class))
 
     def plot_class(layout, title, year, semester, ects):
-        layout.markdown(f"{title}, Year{year}-{semester} ({ects} ECTS)")
+        layout.markdown(f"**{title}**, Year{year}-{semester} ({ects} ECTS)")
 
     hide = st.checkbox("Show only mismatches")
 
@@ -73,8 +74,9 @@ def main():
             if year == ref_year and semester == ref_semester and ects == ref_ects and hide:
                 return
 
-            plot_class(col, title, year, semester, ects)
-        plot_class(cols[0], ref_title, ref_year, ref_semester, ref_ects)
+            plot_class(col, option + " " + title, year, semester, ects)
+        plot_class(cols[0], 'EPFL-' + ref_title,
+                   ref_year, ref_semester, ref_ects)
 
         with st.expander('description', expanded=False):
             cols = st.columns(len(classes))
@@ -87,3 +89,8 @@ def main():
             for classes in matches:
                 are_classes_different(classes)
                 st.markdown('---')
+
+
+def main():
+    with st.spinner('Loading'):
+        _main()

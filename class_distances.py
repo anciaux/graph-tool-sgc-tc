@@ -36,6 +36,8 @@ def filter_word_lists(df):
 
     df['Description'] = df['Course Title'].apply(
         format_description) + df['Description'].apply(format_description)
+    df['Description'] = df['Description'].apply(lambda x: list(set(x)))
+
     df['Learning outcomes'] = df['Learning outcomes'].apply(format_description)
     df['Pre-requisites'] = df['Pre-requisites'].apply(format_description)
 
