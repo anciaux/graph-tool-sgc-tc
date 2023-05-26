@@ -47,7 +47,8 @@ def main():
     _filenames = [e for e in _filenames if os.path.splitext(e)[1] == '.json']
     _filenames = [os.path.splitext(e)[0] for e in _filenames]
     _filenames = [os.path.splitext(e)[0]
-                  for e in _filenames if not e.startswith('Master_')]
+                  for e in _filenames if (not e.startswith('Master_')
+                                          and not e.startswith('match_'))]
 
     st.markdown('# Cursus explorator')
 
