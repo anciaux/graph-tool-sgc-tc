@@ -6,6 +6,8 @@ import pandas as pd
 ################################################################
 stopwords = set(stopwords.split('\n'))
 stopwords.add('several')
+stopwords.add('ii')
+stopwords.add('rr')
 
 
 def filter_word_lists(df):

@@ -17,7 +17,7 @@ def main():
                   for e in _filenames if not e.startswith('Master_')]
 
     option = st.selectbox(
-        "Select the university", _filenames)
+        "Select the university", _filenames, key="unisersity_selector_stat")
 
     df = pd.read_json(option+'.json')
     df_epfl = pd.read_json('EPFL.json')
@@ -26,10 +26,56 @@ def main():
     df_epfl = filter_word_lists(df_epfl)
 
     match = find_matching_classes(df_epfl, df)
-    for k, m in match.items():
-        st.markdown(
-            f"*EPFL-match* for **{df_epfl.iloc[k]['Course Title']}** with *{option}* is ")
-        st.dataframe(m)
 
-    st.markdown('## Raw data')
-    st.dataframe(df)
+    sorted_match = {}
+    for k, m in match.items():
+        epfl_class = df_epfl.iloc[k]
+        epfl_year = epfl_class['Year']
+        epfl_semester = epfl_class['Semester']
+
+        other_class = df.iloc[m.iloc[0]['original_index']]
+
+        if epfl_year not in sorted_match:
+            sorted_match[epfl_year] = {}
+        if epfl_semester not in sorted_match[epfl_year]:
+            sorted_match[epfl_year][epfl_semester] = []
+
+        sorted_match[epfl_year][epfl_semester].append(
+            (epfl_class, other_class))
+
+    def plot_class(layout, title, year, semester, ects):
+        layout.markdown(f"{title}, Year{year}-{semester} ({ects} ECTS)")
+
+    def are_classes_different(classes):
+        cols = st.columns(len(classes))
+        ref_class = classes[0]
+        ref_title = ref_class['Course Title']
+        ref_year = ref_class['Year']
+        ref_semester = ref_class['Semester']
+        ref_ects = ref_class['ECTS']
+
+        plot_class(cols[0], ref_title, ref_year, ref_semester, ref_ects)
+        for c, col in zip(classes[1:], cols[1:]):
+            title = c['Course Title']
+            year = c['Year']
+            semester = c['Semester']
+            ects = c['ECTS']
+
+            if year != ref_year:
+                year = f":red[{year}]"
+            if semester != ref_semester:
+                semester = f":red[{semester}]"
+            if ects != ref_ects:
+                ects = f":red[{ects}]"
+            plot_class(col, title, year, semester, ects)
+        with st.expander('description', expanded=False):
+            cols = st.columns(len(classes))
+            for c, col in zip(classes[:], cols[:]):
+                col.markdown('- ' + '\n - '.join(c['Description']))
+
+    for year, semesters in sorted_match.items():
+        for semester, matches in semesters.items():
+            st.markdown(f'### Year {year} - {semester} Semester')
+            for classes in matches:
+                are_classes_different(classes)
+                st.markdown('---')
