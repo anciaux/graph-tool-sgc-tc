@@ -28,6 +28,7 @@ def main():
     match = find_matching_classes(df_epfl, df)
 
     sorted_match = {}
+
     for k, m in match.items():
         epfl_class = df_epfl.iloc[k]
         epfl_year = epfl_class['Year']
@@ -46,6 +47,8 @@ def main():
     def plot_class(layout, title, year, semester, ects):
         layout.markdown(f"{title}, Year{year}-{semester} ({ects} ECTS)")
 
+    hide = st.checkbox("Show only mismatches")
+
     def are_classes_different(classes):
         cols = st.columns(len(classes))
         ref_class = classes[0]
@@ -54,7 +57,6 @@ def main():
         ref_semester = ref_class['Semester']
         ref_ects = ref_class['ECTS']
 
-        plot_class(cols[0], ref_title, ref_year, ref_semester, ref_ects)
         for c, col in zip(classes[1:], cols[1:]):
             title = c['Course Title']
             year = c['Year']
@@ -67,7 +69,13 @@ def main():
                 semester = f":red[{semester}]"
             if ects != ref_ects:
                 ects = f":red[{ects}]"
+
+            if year == ref_year and semester == ref_semester and ects == ref_ects and hide:
+                return
+
             plot_class(col, title, year, semester, ects)
+        plot_class(cols[0], ref_title, ref_year, ref_semester, ref_ects)
+
         with st.expander('description', expanded=False):
             cols = st.columns(len(classes))
             for c, col in zip(classes[:], cols[:]):
