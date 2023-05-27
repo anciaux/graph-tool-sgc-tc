@@ -36,6 +36,8 @@ def filter_word_lists(df):
 
     df['Description'] = df['Course Title'].apply(
         format_description) + df['Description'].apply(format_description)
+    df['Description'] = df['Description'].apply(
+        lambda x: [e for e in x if len(e) > 1])
     df['Description'] = df['Description'].apply(lambda x: list(set(x)))
 
     df['Learning outcomes'] = df['Learning outcomes'].apply(format_description)
@@ -123,7 +125,8 @@ def find_matching_classes(df1, df2, field='Description'):
         correlation_distance = correlation_distance.iloc[:4]
         correlation_match = correlation_match.sort_values(by=[
             'Number Match'], ascending=False)
-        correlation_match = correlation_match.iloc[:6]
+        correlation_match = correlation_match[correlation_match["closest_words"].apply(
+            lambda x: len(x)) > 0]
         matching_classes[i] = correlation_match
     return matching_classes
 
