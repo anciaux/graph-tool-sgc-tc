@@ -57,18 +57,25 @@ def _main():
 
             scol1.markdown(
                 option + f" Year{_class['Year']} - {_class['Semester']}")
-            with scol1.expander(f"({_class['ECTS']} ECTS) {selection}"):
-                desc = _class["Description"]
-                desc = "- " + "\n- ".join(desc)
-                st.markdown(desc)
+            scol1.markdown(f"({_class['ECTS']} ECTS) {selection}")
 
             _class = df_epfl.iloc[k]
             scol2.markdown(
                 f"EPFL Year{_class['Year']} - {_class['Semester']}")
-            with scol2.expander(f"({_class['ECTS']} ECTS) {epfl_title}"):
+            scol2.markdown(f"({_class['ECTS']} ECTS) {epfl_title}")
+
+            with st.expander("Keywords"):
+                _col1, _col2 = st.columns(2)
+
+                _class = df.iloc[_k]
+                desc = _class["Description"]
+                desc = "- " + "\n- ".join(desc)
+                _col1.markdown(desc)
+
+                _class = df_epfl.iloc[k]
                 desc = _class['Description']
                 desc = "- " + "\n- ".join(desc)
-                st.markdown(desc)
+                _col2.markdown(desc)
 
     with open(f'match_{option}.json', "w") as f:
         f.write(yaml.safe_dump(courses_matches))
