@@ -105,6 +105,7 @@ def _main(params):
     for k, v in courses_matches.items():
         c = v[option]
         c['University'] = k
+        c = pd.DataFrame([c], columns=c.index)
         found = pd.concat([found, c])
 
     if not summary:
