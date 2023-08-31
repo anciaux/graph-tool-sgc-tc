@@ -4,11 +4,56 @@
   can it be removed ?
 
 
-- rendre obligatoire analysis 4 bouger en bachelor
+* Is the content of Analysis IV to be made mandatory?
+  Mainly it deals with laplace transform to solve for partial diff eq.
+  
+  http://localhost:8503/?view=tab_search&search=laplace
 
-- continuum mech 5 credits
+  Fourier transforms are viewed in: Analysis III
+  https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/analysis-iv-MATH-207-D
 
-- regarder les cours IC en bachelor
+* What abount Continuum Mechanics with 5 credits ?
+  http://localhost:8503/?view=tab_search&search=mechanics
+
+  - Munich is doing "Technical Mechanics I for civil engineers" with 10 ECTS
+  - @EPFL continuum mechanics only 3 credits + overlap (Structural mechanics)
+  
+* What and when pure IC courses are though ?
+  http://localhost:8503/?view=tab_search&search=computer
+
+  - Milano: Computer Science (ECTS: 8, Year 1 Fall)
+  - Munich: Computation in Civil and Environmental Engineering I (ECTS: 5, Year 1 Fall)
+  - EPFL: Information, Computation, Communication (ECTS: 6, Year 1 Fall)
+  - TUITION Delft
+
+Title: Designing Constructions and Foundations II
+
+ECTS: 5
+
+Period: Year 2 Spring
+
+URL: fiche de cours
+
+    Description
+
+    Outcomes&Prerequisites
+
+Year 3 - Spring
+ETHZ
+
+Title: Hydraulic Engineering
+
+ECTS: 6
+
+Period: Year 3 Spring
+
+URL: fiche de cours
+
+    Description
+
+    Outcomes&Prerequisites
+
+   
 
 
 - cours sustainability dans les autres uni: ba5-6

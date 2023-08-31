@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import os
 from class_distances import filter_word_lists
-from wc import make_cloud_word
+# from wc import make_cloud_word
 
 ################################################################
 
@@ -14,6 +14,12 @@ def format_description(x):
         return "Empty"
     return ('- ' + '\n- '.join(x)).replace(';', '\n')
 ################################################################
+
+
+def display_class_summary(c):
+    k = c['University']
+    st.write(
+        f"{k}: {c['Course Title']} ({c['ECTS']} ECTS, Year {c['Year']} {c['Semester']})")
 
 
 def display_class(c):
@@ -71,7 +77,10 @@ def _main(params):
     value = ''
     if 'search' in params:
         value = params['search'][0]
-    search = st.text_input('Search in all registered classes', value=value)
+
+    search = st.text_input(
+        'Search in all registered bachelor classes', value=value)
+    summary = st.checkbox('show summary', value=False)
     if search == '':
         st.write("nothing to search...")
         return
@@ -104,11 +113,15 @@ def _main(params):
             current_semester = c['Semester']
             is_changed = True
         if is_changed:
-            st.markdown(
-                f'<center> <h2>Year {current_year} - {current_semester}</h2></center>',
-                unsafe_allow_html=True)
+            if not summary:
+                st.markdown(
+                    f'<center> <h2>Year {current_year} - {current_semester}</h2></center>',
+                    unsafe_allow_html=True)
             is_changed = False
-        display_class(c)
+        if not summary:
+            display_class(c)
+        else:
+            display_class_summary(c)
 
 
 def main(params={}):
