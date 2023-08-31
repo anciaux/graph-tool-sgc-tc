@@ -5,6 +5,7 @@ import plot_treemap_bachelor
 import plot_treemap_master
 import plot_all_match
 import plot_best_match
+import plot_per_class_match
 
 st.set_page_config(layout="wide")
 
@@ -25,3 +26,6 @@ with tab_match:
 
 with tab_best_match:
     plot_best_match.main()
+
+with tab_per_class:
+    plot_per_class_match.main()

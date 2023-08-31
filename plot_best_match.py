@@ -1,6 +1,5 @@
 #!/bin/env python
 
-from class_distances import find_matching_classes, filter_word_lists
 import streamlit as st
 import pandas as pd
 import os
