@@ -16,6 +16,7 @@ def _main():
                   for e in _filenames if (not e.startswith('Master_')
                                           and not e.startswith('match_'))]
 
+    _filenames.remove('EPFL')
     option = st.selectbox(
         "Select the university", _filenames, key="unisersity_selector_stat")
 
