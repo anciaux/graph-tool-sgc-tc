@@ -82,8 +82,15 @@
 * Does other uni match the content of static II    
   http://localhost:8503/?view=tab_per_class&class=Structures%20I
 
-- le gros problem: statique2 a virer.... mais pas le contenu (ou est le contenu dans les autres uni ?)
+  - ETHZ: Theory of Structures I (5 ECTS, Year 2)
+  - Milano: Structural Mechanics (12 ECTS, Year 2)
+  - TU Delft: Structural mechanics I (5 ECTS, Year 1)
+  - Munich: Statics I (5 ECTS, Year 2)
+  - EPFL: Structures I (3 ECTS, Year 1)
+  
+  It looks like it is either not the right Year, either it is not enough credits
 
+  
 
 - tenter etablir philosohpy/culture des ecoles
 

@@ -4,7 +4,8 @@ import streamlit as st
 import pandas as pd
 import os
 import yaml
-from wc import make_cloud_word
+import plotly.express as px
+# from wc import make_cloud_word
 
 ################################################################
 
@@ -14,6 +15,11 @@ def format_description(x):
         return "Empty"
     return ('- ' + '\n- '.join(x)).replace(';', '\n')
 ################################################################
+
+
+def display_class_summary(k, c):
+    st.write(
+        f"{k}: {c['Course Title']} ({c['ECTS']} ECTS, Year {c['Year']})")  # {c['Semester']} {c['URL']})")
 
 
 def display_class(k, c):
@@ -90,10 +96,32 @@ def _main(params):
         "Select the EPFL class", options, index=idx, format_func=_fmt,
         key="epfl_class_selector_stat")
 
+    summary = st.checkbox('show summary', value=False)
+
+    courses_matches['EPFL'] = {option: df_epfl[df_epfl['Course Title']
+                                               == option].iloc[0]}
+
+    found = pd.DataFrame()
     for k, v in courses_matches.items():
         c = v[option]
-        display_class(k, c)
-        st.markdown('---')
+        c['University'] = k
+        found = pd.concat([found, c])
+
+    if not summary:
+        found['BA'] = (found['Year']-1)*2 + \
+            (found['Semester'] == 'Spring') + 1
+
+        plot = px.bar(found, x='BA', color='University',
+                      y='ECTS', barmode='group', text='Course Title')
+        st.plotly_chart(plot, use_container_width=True)
+
+    for k, v in courses_matches.items():
+        c = v[option]
+        if summary:
+            display_class_summary(k, c)
+        else:
+            display_class(k, c)
+            st.markdown('---')
 
 
 def main(params):
