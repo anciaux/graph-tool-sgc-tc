@@ -16,8 +16,9 @@ def format_description(x):
 ################################################################
 
 
-def display_class(k, c):
-    st.markdown(f'## {k}')
+def display_class(c):
+    k = c['University']
+    st.markdown(f'#### {k}')
     col1, col2, col3 = st.columns(3)
     with col1:
         st.markdown('Title: ' + c['Course Title'])
@@ -25,7 +26,6 @@ def display_class(k, c):
         st.markdown('Period: Year ' +
                     str(c['Year']) + ' ' +
                     c['Semester'])
-
         st.markdown('URL: [fiche de cours](' +
                     str(c['URL']) + ')')
     with col2:
@@ -75,23 +75,40 @@ def _main(params):
     if search == '':
         st.write("nothing to search...")
         return
-    selected = {}
 
+    selected = pd.DataFrame()
     with st.spinner('Searching'):
         for uni, _classes in courses.items():
-            selected[uni] = []
-            df = filter_word_lists(_classes)
+            sel = []
+            df = filter_word_lists(_classes.copy())
             for i, c in df.iterrows():
                 # st.write(c['Description'])
                 if ' '.join(c['Description']).lower().find(search) != -1:
-                    selected[uni].append(i)
-                elif c['Course Title'].lower().find(search) != -1:
-                    selected[uni].append(i)
+                    sel.append(_classes.iloc[i])
+                elif c['Course Title'].lower().find(search.lower()) != -1:
+                    sel.append(_classes.iloc[i])
+            sel = pd.DataFrame(sel, columns=c.index)
+            sel['University'] = uni
+            selected = pd.concat([selected, sel])
 
-    for uni, indexes in selected.items():
-        df = courses[uni]
-        for idx in indexes:
-            display_class(uni, df.iloc[idx])
+    selected = selected.sort_values(['Year', 'Semester'])
+    current_year = -1
+    current_semester = ""
+    is_changed = False
+    for i, c in selected.iterrows():
+        if current_year < c['Year']:
+            current_year = c['Year']
+            current_semester = ""
+            is_changed = True
+        if current_semester != c['Semester']:
+            current_semester = c['Semester']
+            is_changed = True
+        if is_changed:
+            st.markdown(
+                f'<center> <h2>Year {current_year} - {current_semester}</h2></center>',
+                unsafe_allow_html=True)
+            is_changed = False
+        display_class(c)
 
 
 def main(params={}):
