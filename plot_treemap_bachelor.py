@@ -98,7 +98,7 @@ def main():
         plot_course_detail(df, selected_course)
 
     with col_EPFL:
-        st.markdown(f"### Closest EPFL classes")
+        st.markdown("### Closest EPFL classes")
         for k, m in match.items():
             if df.iloc[k]['Course Title'] == selected_course:
                 selected_epfl_course = st.selectbox('', m['Course Title'])

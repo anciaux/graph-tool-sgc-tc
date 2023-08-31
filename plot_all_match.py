@@ -42,6 +42,9 @@ def _main():
             st.dataframe(m)
         with col2:
             options = list(m['Course Title'])
+            if not options:
+                st.write(f'no match for {epfl_title}')
+                continue
             if epfl_title in courses_matches:
                 sel = courses_matches[epfl_title]
             else:
