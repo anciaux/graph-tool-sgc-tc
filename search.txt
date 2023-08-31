@@ -90,14 +90,26 @@
   
   It looks like it is either not the right Year, either it is not enough credits
 
+* How to define the philosohpy/culture of universities ?
+  http://localhost:8503/?view=tab_search&search=design
+
+  - Clearly ETHZ and Milano prefer to do design/practice stuff in the end of BA
+  - TU EFPL and Munich prefer early
   
+* Technical Drawing in other universities ?
+  http://localhost:8503/?view=tab_search&search=draw
 
-- tenter etablir philosohpy/culture des ecoles
+  - TU Delft: Construction Site 1-1 (Workbook) (2 ECTS, Year 1 Fall)
+  - TU Delft: Construction Site 1-2 (Drawing and planning) (2 ECTS, Year 1)
+  - Munich: Design and Construction II (5 ECTS, Year 1 Spring)
+  - ETHZ: Project Work Conceptual Design (3 ECTS, Year 3 Fall)
+  
+* Geology: when and how much ?
+  http://localhost:8503/?view=tab_search&search=geology
 
-- Question: concrete design et cours nussbaumer bachelor ou master ?
+  - ETHZ: Geology and petrography (4 ECTS, Year 1 Fall)
+  - EPFL: Geology (4 ECTS, Year 2 Fall)
+  - TU Delft: Hydrology (5 ECTS, Year 2 Spring)
 
-- question: matiere computationelle dans les autres uni ?
-
-- question: dessin technique dans les autres uni ?
-
-- question: geology quelle année aund ? combien de credit
+* Concrete design et cours nussbaumer bachelor ou master ?
+  do not know yet...
