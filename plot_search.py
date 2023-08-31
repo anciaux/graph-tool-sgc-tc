@@ -3,6 +3,7 @@
 import streamlit as st
 import pandas as pd
 import os
+import plotly.express as px
 from class_distances import filter_word_lists
 # from wc import make_cloud_word
 
@@ -101,6 +102,12 @@ def _main(params):
             selected = pd.concat([selected, sel])
 
     selected = selected.sort_values(['Year', 'Semester'])
+
+    if not summary:
+        plot = px.bar(selected, x='Year', color='University',
+                      y='ECTS', barmode='group', text='Course Title')
+        st.plotly_chart(plot)
+
     current_year = -1
     current_semester = ""
     is_changed = False
