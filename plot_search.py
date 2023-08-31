@@ -3,7 +3,7 @@
 import streamlit as st
 import pandas as pd
 import os
-import yaml
+from class_distances import filter_word_lists
 from wc import make_cloud_word
 
 ################################################################
@@ -31,7 +31,7 @@ def display_class(k, c):
     with col2:
         with st.expander('Description'):
             st.markdown(format_description(c['Description']))
-        make_cloud_word("\n".join(c['Description']))
+        # make_cloud_word("\n".join(c['Description']))
 
     with col3:
         with st.expander('Outcomes&Prerequisites'):
@@ -39,10 +39,10 @@ def display_class(k, c):
             st.markdown(format_description(c['Learning outcomes']))
             st.markdown('Prerequisites')
             st.markdown(format_description(c['Pre-requisites']))
-        try:
-            make_cloud_word("\n".join(c['Learning outcomes']))
-        except:
-            pass
+        # try:
+        #     # make_cloud_word("\n".join(c['Learning outcomes']))
+        # except:
+        #     pass
 
 
 def _main(params):
@@ -67,24 +67,31 @@ def _main(params):
                     return
             st.session_state['courses'] = courses
     courses = st.session_state['courses']
-    search = st.text_input('Search in all registered classes')
-    st.write(search)
-    return
-    idx = 0
-    if 'class' in params:
-        c = params['class'][0]
-        opts = list(options)
-        if c in opts:
-            idx = opts.index(c)
 
-    option = st.selectbox(
-        "Select the EPFL class", options, index=idx, format_func=_fmt,
-        key="epfl_class_selector_stat")
+    value = ''
+    if 'search' in params:
+        value = params['search'][0]
+    search = st.text_input('Search in all registered classes', value=value)
+    if search == '':
+        st.write("nothing to search...")
+        return
+    selected = {}
 
-    for k, v in courses_matches.items():
-        c = v[option]
-        display_class(k, c)
-        st.markdown('---')
+    with st.spinner('Searching'):
+        for uni, _classes in courses.items():
+            selected[uni] = []
+            df = filter_word_lists(_classes)
+            for i, c in df.iterrows():
+                # st.write(c['Description'])
+                if ' '.join(c['Description']).lower().find(search) != -1:
+                    selected[uni].append(i)
+                elif c['Course Title'].lower().find(search) != -1:
+                    selected[uni].append(i)
+
+    for uni, indexes in selected.items():
+        df = courses[uni]
+        for idx in indexes:
+            display_class(uni, df.iloc[idx])
 
 
 def main(params={}):
