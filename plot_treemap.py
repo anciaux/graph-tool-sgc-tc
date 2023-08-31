@@ -19,7 +19,7 @@ elif 'view' in params and params['view'][0] == 'tab_search':
 else:
     tab_explore, tab_match, tab_best_match, tab_per_class, tab_search = st.tabs(
         ["Explore", "Matching Classes",
-         "Best Matches", "Per Class Match", "search"])
+         "Best Matches", "Per EPFL Class Match", "search"])
 
     with tab_explore:
         opt = st.radio('Choose Degree', options=['Bachelor', 'Master'])
