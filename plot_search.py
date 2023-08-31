@@ -104,9 +104,12 @@ def _main(params):
     selected = selected.sort_values(['Year', 'Semester'])
 
     if not summary:
-        plot = px.bar(selected, x='Year', color='University',
+        selected['BA'] = (selected['Year']-1)*2 + \
+            (selected['Semester'] == 'Spring') + 1
+
+        plot = px.bar(selected, x='BA', color='University',
                       y='ECTS', barmode='group', text='Course Title')
-        st.plotly_chart(plot)
+        st.plotly_chart(plot, use_container_width=True)
 
     current_year = -1
     current_semester = ""

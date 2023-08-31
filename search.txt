@@ -19,44 +19,43 @@
   - @EPFL continuum mechanics only 3 credits + overlap (Structural mechanics)
   
 * What and when pure IC courses are though ?
-  http://localhost:8503/?view=tab_search&search=computer
+  http://localhost:8503/?view=tab_search&search=comput
 
-  - Milano: Computer Science (ECTS: 8, Year 1 Fall)
-  - Munich: Computation in Civil and Environmental Engineering I (ECTS: 5, Year 1 Fall)
-  - EPFL: Information, Computation, Communication (ECTS: 6, Year 1 Fall)
-  - TUITION Delft
+  - Milano: Computer Science (8 ECTS, Year 1 Fall)
+  - Munich: Computation in Civil and Environmental Engineering I (5 ECTS, Year 1 Fall)
+  - EPFL: Information, Computation, Communication (6 ECTS, Year 1 Fall)
+  - Munich: Computation in Civil and Environmental Engineering II (5 ECTS, Year 1 Spring)
+  
+  - Milano: Differential equations (10 ECTS, Year 2 Fall)
+  - Munich: Mathematics III (5 ECTS, Year 2 Fall)
+  - TU Delft: Designing Constructions and Foundations II (5 ECTS, Year 2 Spring)
+  
+  - ETHZ: Scientific Computing (4 ECTS, Year 3 Spring)
+  
+  http://localhost:8503/?view=tab_search&search=numerical
 
-Title: Designing Constructions and Foundations II
+  - EPFL: Analysis I (6 ECTS, Year 1 Fall)
+  - ETHZ: Statistics and Probability Theory (5 ECTS, Year 1 Spring)
+  - ETHZ: Mecanics II (6 ECTS, Year 1 Spring)
+  - Milano: Mathematical Analysis II (8 ECTS, Year 1 Spring)
 
-ECTS: 5
+  - Milano: Surveying and Data processing (12 ECTS, Year 2 Fall)
+  - TU Delft: Probability and Statistics (3 ECTS, Year 2 Fall)
+  - Munich: Mathematics III (5 ECTS, Year 2 Fall)
+  - TU Delft: Numerical mathematics (3 ECTS, Year 2 Spring)
+  
+  - EPFL: Numerical analysis (3 ECTS, Year 3 Fall)
 
-Period: Year 2 Spring
+- When and how are the sustainability courses ?
+  http://localhost:8503/?view=tab_search&search=sustain
 
-URL: fiche de cours
+  - TU Delft: Construction materials and sustainability (5 ECTS, Year 1 Spring)
+  - Munich: Fundamentals of Processoriented Planning and Organisation (5 ECTS, Year 2 Fall)
 
-    Description
-
-    Outcomes&Prerequisites
-
-Year 3 - Spring
-ETHZ
-
-Title: Hydraulic Engineering
-
-ECTS: 6
-
-Period: Year 3 Spring
-
-URL: fiche de cours
-
-    Description
-
-    Outcomes&Prerequisites
-
-   
+- Does other uni match the content of static II    
 
 
-- cours sustainability dans les autres uni: ba5-6
+
 
 - le gros problem: statique2 a virer.... mais pas le contenu (ou est le contenu dans les autres uni ?)
 
