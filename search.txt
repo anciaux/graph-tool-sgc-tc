@@ -1,9 +1,9 @@
 * How number of credits compare between universities ?
-  http://localhost:8503/?view=tab_search
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search
 
 * Differential geometry class in first year "Geometry":
   1. are there equivalents in the other universities ?
-    http://localhost:8503/?view=tab_search&search=geometry
+    https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=geometry
 
     - Milano: Mathematical Analysis I and Geometry (12 ECTS, Year 1 Fall)
     - Munich: Mathematics I (10 ECTS, Year 1 Fall)
@@ -12,7 +12,7 @@
     - Munich: Design and Construction III (5 ECTS, Year 2 Spring)
 
    2. Are there classes teaching curvature in geoemtry ?    
-    http://localhost:8503/?view=tab_search&search=curvature
+    https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=curvature
     - EPFL: Geometry (3 ECTS, Year 1 Spring)
     - EPFL: Structural mechanics (for GC) (4 ECTS, Year 2 Fall)
     - Milano: Structural Design (12 ECTS, Year 3 Annual)
@@ -23,7 +23,7 @@
 * Is the content of Analysis IV to be made mandatory?
   Mainly it deals with laplace transform to solve for partial diff eq.
   
-  http://localhost:8503/?view=tab_search&search=laplace
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=laplace
   - ETHZ: Analysis III (3 ECTS, Year 2 Fall)
   - Milano: Differential equations (10 ECTS, Year 2 Fall)
   - TU Delft: Differential equations (3 ECTS, Year 2 Fall)
@@ -31,7 +31,7 @@
   Fourier transforms are viewed in: Analysis III
   https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/analysis-iv-MATH-207-D
 
-  http://localhost:8503/?view=tab_search&search=fourier
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=fourier
 
   - Munich: Mathematics I (10 ECTS, Year 1 Fall)
   - EPFL: General physics, thermodynamics (6 ECTS, Year 1 Spring)
@@ -40,13 +40,13 @@
   - EPFL: Analysis III (4 ECTS, Year 2 Fall)
 
 * What abount Continuum Mechanics with 5 credits ?
-  http://localhost:8503/?view=tab_search&search=mechanics
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=mechanics
 
   - Munich is doing "Technical Mechanics I for civil engineers" with 10 ECTS
   - @EPFL continuum mechanics only 3 credits + overlap (Structural mechanics)
   
 * What and when pure IC courses are though ?
-  http://localhost:8503/?view=tab_search&search=comput
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=comput
 
   - Milano: Computer Science (8 ECTS, Year 1 Fall)
   - Munich: Computation in Civil and Environmental Engineering I (5 ECTS, Year 1 Fall)
@@ -59,7 +59,7 @@
   
   - ETHZ: Scientific Computing (4 ECTS, Year 3 Spring)
   
-  http://localhost:8503/?view=tab_search&search=numerical
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=numerical
 
   - EPFL: Analysis I (6 ECTS, Year 1 Fall)
   - ETHZ: Statistics and Probability Theory (5 ECTS, Year 1 Spring)
@@ -74,13 +74,13 @@
   - EPFL: Numerical analysis (3 ECTS, Year 3 Fall)
 
 * When and how are the sustainability courses ?
-  http://localhost:8503/?view=tab_search&search=sustain
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=sustain
 
   - TU Delft: Construction materials and sustainability (5 ECTS, Year 1 Spring)
   - Munich: Fundamentals of Processoriented Planning and Organisation (5 ECTS, Year 2 Fall)
 
 * Does other uni match the content of static II    
-  http://localhost:8503/?view=tab_per_class&class=Structures%20I
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_per_class&class=Structures%20I
 
   - ETHZ: Theory of Structures I (5 ECTS, Year 2)
   - Milano: Structural Mechanics (12 ECTS, Year 2)
@@ -91,13 +91,13 @@
   It looks like it is either not the right Year, either it is not enough credits
 
 * How to define the philosohpy/culture of universities ?
-  http://localhost:8503/?view=tab_search&search=design
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=design
 
   - Clearly ETHZ and Milano prefer to do design/practice stuff in the end of BA
   - TU EFPL and Munich prefer early
   
 * Technical Drawing in other universities ?
-  http://localhost:8503/?view=tab_search&search=draw
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=draw
 
   - TU Delft: Construction Site 1-1 (Workbook) (2 ECTS, Year 1 Fall)
   - TU Delft: Construction Site 1-2 (Drawing and planning) (2 ECTS, Year 1)
@@ -105,7 +105,7 @@
   - ETHZ: Project Work Conceptual Design (3 ECTS, Year 3 Fall)
   
 * Geology: when and how much ?
-  http://localhost:8503/?view=tab_search&search=geology
+  https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search=geology
 
   - ETHZ: Geology and petrography (4 ECTS, Year 1 Fall)
   - EPFL: Geology (4 ECTS, Year 2 Fall)
