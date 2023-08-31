@@ -20,7 +20,7 @@ def format_description(x):
 def display_class_summary(c):
     k = c['University']
     st.write(
-        f"{k}: {c['Course Title']} ({c['ECTS']} ECTS, Year {c['Year']} {c['Semester']})")
+        f"{k}: {c['Course Title']} ({c['ECTS']} ECTS, Year {c['Year']} {c['Semester']} {c['URL']}))")
 
 
 def display_class(c):
@@ -82,9 +82,6 @@ def _main(params):
     search = st.text_input(
         'Search in all registered bachelor classes', value=value)
     summary = st.checkbox('show summary', value=False)
-    if search == '':
-        st.write("nothing to search...")
-        return
 
     selected = pd.DataFrame()
     with st.spinner('Searching'):

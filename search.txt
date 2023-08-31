@@ -1,16 +1,43 @@
+* How number of credits compare between universities ?
+  http://localhost:8503/?view=tab_search
+
 * Differential geometry class in first year "Geometry":
   1. are there equivalents in the other universities ?
-     
-  can it be removed ?
+    http://localhost:8503/?view=tab_search&search=geometry
 
+    - Milano: Mathematical Analysis I and Geometry (12 ECTS, Year 1 Fall)
+    - Munich: Mathematics I (10 ECTS, Year 1 Fall)
+    - EPFL: Geometry (3 ECTS, Year 1 Spring)
+    - TU Delft: Surveying and Mapping (4 ECTS, Year 2 Spring)
+    - Munich: Design and Construction III (5 ECTS, Year 2 Spring)
+
+   2. Are there classes teaching curvature in geoemtry ?    
+    http://localhost:8503/?view=tab_search&search=curvature
+    - EPFL: Geometry (3 ECTS, Year 1 Spring)
+    - EPFL: Structural mechanics (for GC) (4 ECTS, Year 2 Fall)
+    - Milano: Structural Design (12 ECTS, Year 3 Annual)
+
+    can it be removed ? I would say yes as differential geometry and curvature is not
+    particularly useful but for advanced continuum mechanics
 
 * Is the content of Analysis IV to be made mandatory?
   Mainly it deals with laplace transform to solve for partial diff eq.
   
   http://localhost:8503/?view=tab_search&search=laplace
+  - ETHZ: Analysis III (3 ECTS, Year 2 Fall)
+  - Milano: Differential equations (10 ECTS, Year 2 Fall)
+  - TU Delft: Differential equations (3 ECTS, Year 2 Fall)
 
   Fourier transforms are viewed in: Analysis III
   https://edu.epfl.ch/studyplan/en/bachelor/civil-engineering/coursebook/analysis-iv-MATH-207-D
+
+  http://localhost:8503/?view=tab_search&search=fourier
+
+  - Munich: Mathematics I (10 ECTS, Year 1 Fall)
+  - EPFL: General physics, thermodynamics (6 ECTS, Year 1 Spring)
+  - ETHZ: Analysis III (3 ECTS, Year 2 Fall)
+  - Milano: Differential equations (10 ECTS, Year 2 Fall)
+  - EPFL: Analysis III (4 ECTS, Year 2 Fall)
 
 * What abount Continuum Mechanics with 5 credits ?
   http://localhost:8503/?view=tab_search&search=mechanics
@@ -46,20 +73,17 @@
   
   - EPFL: Numerical analysis (3 ECTS, Year 3 Fall)
 
-- When and how are the sustainability courses ?
+* When and how are the sustainability courses ?
   http://localhost:8503/?view=tab_search&search=sustain
 
   - TU Delft: Construction materials and sustainability (5 ECTS, Year 1 Spring)
   - Munich: Fundamentals of Processoriented Planning and Organisation (5 ECTS, Year 2 Fall)
 
-- Does other uni match the content of static II    
-
-
-
+* Does other uni match the content of static II    
+  http://localhost:8503/?view=tab_per_class&class=Structures%20I
 
 - le gros problem: statique2 a virer.... mais pas le contenu (ou est le contenu dans les autres uni ?)
 
-- Question: nombre de credit entre uni a comparer.
 
 - tenter etablir philosohpy/culture des ecoles
 

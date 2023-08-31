@@ -31,7 +31,7 @@ def display_class(k, c):
     with col2:
         with st.expander('Description'):
             st.markdown(format_description(c['Description']))
-        make_cloud_word("\n".join(c['Description']))
+        # make_cloud_word("\n".join(c['Description']))
 
     with col3:
         with st.expander('Outcomes&Prerequisites'):
@@ -40,7 +40,8 @@ def display_class(k, c):
             st.markdown('Prerequisites')
             st.markdown(format_description(c['Pre-requisites']))
         try:
-            make_cloud_word("\n".join(c['Learning outcomes']))
+            pass
+            # make_cloud_word("\n".join(c['Learning outcomes']))
         except:
             pass
 
