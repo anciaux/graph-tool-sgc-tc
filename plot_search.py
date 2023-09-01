@@ -122,7 +122,7 @@ def _main(params):
             confirmed)].reset_index(drop=True)
 
         st.markdown(
-            f'[permlink](/?view=tab_search&search={search_str}&removed={",".join(list_removed).replace(" ", "%20")})')
+            f'[permlink](/?view=tab_search&search={search_str.replace(" ", "%20")}&removed={",".join(list_removed).replace(" ", "%20")})')
 
     if not summary:
         selected['BA'] = (selected['Year']-1)*2 + \
