@@ -46,7 +46,7 @@
 	{
 		"Degree":"Bachelor",
 		"Year": 1,
-		"Course Title":"General physics, mecanics",
+		"Course Title":"General physics, mechanics",
 		"ID":"PHYS-101(a)",
 		"ECTS":6,
 		"Semester":"Fall",
@@ -304,7 +304,7 @@
 			"phase transitions"
 		],
 		"Pre-requisites":[
-			"General physics, mecanics"
+			"General physics, mechanics"
 		]
 	},
 	{
@@ -738,7 +738,7 @@
 			"turbulence", "flow under load", "pump", "pressure drop"
 		],
 		"Pre-requisites":[
-			"General physics, mecanics", "Analysis I", "Linear Algebra", "Continuum mechanics (for GC)"
+			"General physics, mechanics", "Analysis I", "Linear Algebra", "Continuum mechanics (for GC)"
 		]
 	},
 	{
