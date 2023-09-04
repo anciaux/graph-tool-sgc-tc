@@ -77,8 +77,6 @@ def _main(params):
 
     value = ''
 
-    st.write(params)
-
     if 'search' in params:
         value = params['search'][0]
         value = value.replace('PLUS', '+')
