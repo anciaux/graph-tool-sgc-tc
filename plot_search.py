@@ -124,7 +124,7 @@ def _main(params):
             confirmed)].reset_index(drop=True)
 
         st.markdown(
-            f'[permlink](https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search={search_str.replace(" ", "%20")}&removed={",".join(list_removed).replace(" ", "%20").replace("+", "PLUS")})')
+            f'[permlink](https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search={search_str.replace(" ", "%20").replace("+", "PLUS")}&removed={",".join(list_removed).replace(" ", "%20")})')
 
     if not summary:
         selected['BA'] = (selected['Year']-1)*2 + \
