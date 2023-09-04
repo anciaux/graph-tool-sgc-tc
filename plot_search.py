@@ -81,7 +81,7 @@ def _main(params):
 
     if 'search' in params:
         value = params['search'][0]
-        value.replace('PLUS', '+')
+        value = value.replace('PLUS', '+')
 
     search = st.text_input(
         'Search in all registered bachelor classes', value=value)
