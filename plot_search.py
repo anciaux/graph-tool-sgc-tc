@@ -81,6 +81,7 @@ def _main(params):
 
     if 'search' in params:
         value = params['search'][0]
+        value.replace('PLUS', '+')
 
     search = st.text_input(
         'Search in all registered bachelor classes', value=value)
@@ -125,7 +126,7 @@ def _main(params):
             confirmed)].reset_index(drop=True)
 
         st.markdown(
-            f'[permlink](https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search={search_str.replace(" ", "%20")}&removed={",".join(list_removed).replace(" ", "%20")})')
+            f'[permlink](https://anciaux-graph-tool-sgc-tc-plot-treemap-ixbg75.streamlit.app/?view=tab_search&search={search_str.replace(" ", "%20")}&removed={",".join(list_removed).replace(" ", "%20").replace("+", "PLUS")})')
 
     if not summary:
         selected['BA'] = (selected['Year']-1)*2 + \
