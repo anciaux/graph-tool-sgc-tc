@@ -76,6 +76,9 @@ def _main(params):
     courses = st.session_state['courses']
 
     value = ''
+
+    st.write(params)
+
     if 'search' in params:
         value = params['search'][0]
 
