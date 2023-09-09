@@ -33,6 +33,10 @@ def _main():
     sorted_match = {}
 
     for epfl_title, other_title in courses_matches.items():
+        _sel = df_epfl[df_epfl["Course Title"] == epfl_title]
+        if _sel.shape[0] == 0:
+            st.write(f"cannot find class: {epfl_title}")
+            continue
         epfl_class = df_epfl[df_epfl["Course Title"] == epfl_title].iloc[0]
         epfl_year = epfl_class['Year']
         epfl_semester = epfl_class['Semester']
