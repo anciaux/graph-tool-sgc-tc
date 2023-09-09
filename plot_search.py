@@ -85,7 +85,8 @@ def _main(params):
         'Search in all registered bachelor classes', value=value)
 
     search_str = search
-    summary = st.checkbox('show summary', value=False)
+    summary = st.checkbox('show summary', value=False,
+                          key='searh_show_summary')
 
     search = search.split('+')
     search = [e.strip().lower() for e in search]
