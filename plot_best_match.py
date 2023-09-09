@@ -37,7 +37,7 @@ def _main():
         if _sel.shape[0] == 0:
             st.write(f"cannot find class: {epfl_title}")
             continue
-        epfl_class = df_epfl[df_epfl["Course Title"] == epfl_title].iloc[0]
+        epfl_class = _sel.iloc[0]
         epfl_year = epfl_class['Year']
         epfl_semester = epfl_class['Semester']
         other_class = df[df["Course Title"] == other_title].iloc[0]
