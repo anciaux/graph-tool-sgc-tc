@@ -1,6 +1,6 @@
 #!/bin/env python
 
-from wc import make_cloud_word
+# from wc import make_cloud_word
 from class_distances import find_matching_classes
 import streamlit as st
 import plotly.express as px
@@ -28,9 +28,9 @@ def plot_course_detail(df, selected_course):
     st.markdown('### URL: [fiche de cours](' +
                 str(selected_info['URL'].iloc[0]) + ')')
     st.markdown('## Description')
-    col, _ = st.columns(2)
-    with col:
-        make_cloud_word(selected_info['Description'].iloc[0])
+    # col, _ = st.columns(2)
+    # with col:
+    #    make_cloud_word(selected_info['Description'].iloc[0])
     st.markdown(selected_info['Description'].iloc[0])
     st.markdown('## Learning Outcomes')
     st.markdown(format_description(selected_info['Learning outcomes'].iloc[0]))

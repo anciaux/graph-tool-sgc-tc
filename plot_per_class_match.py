@@ -103,12 +103,15 @@ def _main(params):
 
     found = pd.DataFrame()
     for k, v in courses_matches.items():
+        if option not in v:
+            st.markdown(f'**No match at {k}**')
+            continue
         c = v[option]
         c['University'] = k
         c = pd.DataFrame([c], columns=c.index)
         found = pd.concat([found, c])
 
-    if not summary:
+    if not summary and found.shape[0]:
         found['BA'] = (found['Year']-1)*2 + \
             (found['Semester'] == 'Spring') + 1
 
@@ -117,6 +120,9 @@ def _main(params):
         st.plotly_chart(plot, use_container_width=True)
 
     for k, v in courses_matches.items():
+        if option not in v:
+            st.markdown(f'**No match at {k}**')
+            continue
         c = v[option]
         if summary:
             display_class_summary(k, c)
